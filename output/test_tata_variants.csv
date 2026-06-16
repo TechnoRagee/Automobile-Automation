@@ -1,0 +1,938 @@
+brand_name,model_name,variant_name,variant_slug,variant_url,data_source,source_url,scraped_at
+Aston Martin,Db11,Evolution,evolution,https://www.carwale.com/aston-martin-cars/db11/,carwale_versions,https://www.carwale.com/aston-martin-cars/db11/,2026-06-16 14:20:57
+Aston Martin,Vanquish,V12,v12,https://www.carwale.com/aston-martin-cars/vanquish/,carwale_versions,https://www.carwale.com/aston-martin-cars/vanquish/,2026-06-16 14:20:57
+Aston Martin,Vantage,V8,v8,https://www.carwale.com/aston-martin-cars/vantage/,carwale_versions,https://www.carwale.com/aston-martin-cars/vantage/,2026-06-16 14:20:58
+Aston Martin,Dbx,707,707,https://www.carwale.com/aston-martin-cars/dbx/,carwale_versions,https://www.carwale.com/aston-martin-cars/dbx/,2026-06-16 14:20:59
+Aston Martin,Dbx,Twin Turbo,twin-turbo,https://www.carwale.com/aston-martin-cars/dbx/,carwale_versions,https://www.carwale.com/aston-martin-cars/dbx/,2026-06-16 14:20:59
+Aston Martin,Db12,4.0-litre,4-0-litre,https://www.carwale.com/aston-martin-cars/db12/,carwale_versions,https://www.carwale.com/aston-martin-cars/db12/,2026-06-16 14:20:59
+Aston Martin,Db9,Coupe,coupe,https://www.carwale.com/aston-martin-cars/db9/,carwale_versions,https://www.carwale.com/aston-martin-cars/db9/,2026-06-16 14:21:00
+Aston Martin,Db9,Volante,volante,https://www.carwale.com/aston-martin-cars/db9/,carwale_versions,https://www.carwale.com/aston-martin-cars/db9/,2026-06-16 14:21:00
+Aston Martin,Dbs20072012,Coupe,coupe,https://www.carwale.com/aston-martin-cars/dbs20072012/,carwale_versions,https://www.carwale.com/aston-martin-cars/dbs20072012/,2026-06-16 14:21:01
+Aston Martin,Dbs20072012,Volante,volante,https://www.carwale.com/aston-martin-cars/dbs20072012/,carwale_versions,https://www.carwale.com/aston-martin-cars/dbs20072012/,2026-06-16 14:21:01
+Aston Martin,Rapide,LUXE,luxe,https://www.carwale.com/aston-martin-cars/rapide/,carwale_versions,https://www.carwale.com/aston-martin-cars/rapide/,2026-06-16 14:21:01
+Aston Martin,Rapide,S V12,s-v12,https://www.carwale.com/aston-martin-cars/rapide/,carwale_versions,https://www.carwale.com/aston-martin-cars/rapide/,2026-06-16 14:21:01
+Aston Martin,Virage,Volante,volante,https://www.carwale.com/aston-martin-cars/virage/,carwale_versions,https://www.carwale.com/aston-martin-cars/virage/,2026-06-16 14:21:02
+Audi,Q3,40 TFSI Premium,40-tfsi-premium,https://www.carwale.com/audi-cars/q3/,carwale_versions,https://www.carwale.com/audi-cars/q3/,2026-06-16 14:21:02
+Audi,Q3,40 TFSI Premium Plus,40-tfsi-premium-plus,https://www.carwale.com/audi-cars/q3/,carwale_versions,https://www.carwale.com/audi-cars/q3/,2026-06-16 14:21:02
+Audi,Q3,40 TFSI Technology,40-tfsi-technology,https://www.carwale.com/audi-cars/q3/,carwale_versions,https://www.carwale.com/audi-cars/q3/,2026-06-16 14:21:02
+Audi,Q3,Signature Edition,signature-edition,https://www.carwale.com/audi-cars/q3/,carwale_versions,https://www.carwale.com/audi-cars/q3/,2026-06-16 14:21:02
+Audi,A4,Premium 40 TFSI,premium-40-tfsi,https://www.carwale.com/audi-cars/a4/,carwale_versions,https://www.carwale.com/audi-cars/a4/,2026-06-16 14:21:03
+Audi,A4,Premium Plus 40 TFSI,premium-plus-40-tfsi,https://www.carwale.com/audi-cars/a4/,carwale_versions,https://www.carwale.com/audi-cars/a4/,2026-06-16 14:21:03
+Audi,A4,Premium Plus 40 TFSI [2021-2024],premium-plus-40-tfsi-2021-2024,https://www.carwale.com/audi-cars/a4/,carwale_versions,https://www.carwale.com/audi-cars/a4/,2026-06-16 14:21:03
+Audi,A4,Signature Edition,signature-edition,https://www.carwale.com/audi-cars/a4/,carwale_versions,https://www.carwale.com/audi-cars/a4/,2026-06-16 14:21:03
+Audi,A4,Technology 40 TFSI,technology-40-tfsi,https://www.carwale.com/audi-cars/a4/,carwale_versions,https://www.carwale.com/audi-cars/a4/,2026-06-16 14:21:03
+Audi,A4,Technology 40 TFSI [2022-2024],technology-40-tfsi-2022-2024,https://www.carwale.com/audi-cars/a4/,carwale_versions,https://www.carwale.com/audi-cars/a4/,2026-06-16 14:21:03
+Audi,Q8,55 TFSI quattro,55-tfsi-quattro,https://www.carwale.com/audi-cars/q8/,carwale_versions,https://www.carwale.com/audi-cars/q8/,2026-06-16 14:21:04
+Audi,Q7,Bold Edition,bold-edition,https://www.carwale.com/audi-cars/q7/,carwale_versions,https://www.carwale.com/audi-cars/q7/,2026-06-16 14:21:04
+Audi,Q7,Premium Plus,premium-plus,https://www.carwale.com/audi-cars/q7/,carwale_versions,https://www.carwale.com/audi-cars/q7/,2026-06-16 14:21:04
+Audi,Q7,Signature Edition,signature-edition,https://www.carwale.com/audi-cars/q7/,carwale_versions,https://www.carwale.com/audi-cars/q7/,2026-06-16 14:21:04
+Audi,Q7,Technology,technology,https://www.carwale.com/audi-cars/q7/,carwale_versions,https://www.carwale.com/audi-cars/q7/,2026-06-16 14:21:04
+Audi,A6,Premium Plus 45 TFSI,premium-plus-45-tfsi,https://www.carwale.com/audi-cars/a6/,carwale_versions,https://www.carwale.com/audi-cars/a6/,2026-06-16 14:21:05
+Audi,A6,Technology 45 TFSI,technology-45-tfsi,https://www.carwale.com/audi-cars/a6/,carwale_versions,https://www.carwale.com/audi-cars/a6/,2026-06-16 14:21:05
+Audi,Rs5,Sportback,sportback,https://www.carwale.com/audi-cars/rs5/,carwale_versions,https://www.carwale.com/audi-cars/rs5/,2026-06-16 14:21:06
+Audi,Q5,Bold Edition,bold-edition,https://www.carwale.com/audi-cars/q5/,carwale_versions,https://www.carwale.com/audi-cars/q5/,2026-06-16 14:21:06
+Audi,Q5,Premium Plus 45 TFSI,premium-plus-45-tfsi,https://www.carwale.com/audi-cars/q5/,carwale_versions,https://www.carwale.com/audi-cars/q5/,2026-06-16 14:21:06
+Audi,Q5,Signature Edition,signature-edition,https://www.carwale.com/audi-cars/q5/,carwale_versions,https://www.carwale.com/audi-cars/q5/,2026-06-16 14:21:06
+Audi,Q5,Technology 45 TFSI,technology-45-tfsi,https://www.carwale.com/audi-cars/q5/,carwale_versions,https://www.carwale.com/audi-cars/q5/,2026-06-16 14:21:06
+Audi,S5 Sportback,3.0 TFSI Quattro,3-0-tfsi-quattro,https://www.carwale.com/audi-cars/s5-sportback/,carwale_versions,https://www.carwale.com/audi-cars/s5-sportback/,2026-06-16 14:21:07
+Audi,S5 Sportback,3.0 TFSI Quattro [2021-2024],3-0-tfsi-quattro-2021-2024,https://www.carwale.com/audi-cars/s5-sportback/,carwale_versions,https://www.carwale.com/audi-cars/s5-sportback/,2026-06-16 14:21:07
+Audi,S5 Sportback,Platinum Edition,platinum-edition,https://www.carwale.com/audi-cars/s5-sportback/,carwale_versions,https://www.carwale.com/audi-cars/s5-sportback/,2026-06-16 14:21:07
+Audi,Q3 Sportback,Bold Edition,bold-edition,https://www.carwale.com/audi-cars/q3-sportback/,carwale_versions,https://www.carwale.com/audi-cars/q3-sportback/,2026-06-16 14:21:08
+Audi,Q3 Sportback,Signature Edition,signature-edition,https://www.carwale.com/audi-cars/q3-sportback/,carwale_versions,https://www.carwale.com/audi-cars/q3-sportback/,2026-06-16 14:21:08
+Audi,Q3 Sportback,Technology Plus S-line,technology-plus-s-line,https://www.carwale.com/audi-cars/q3-sportback/,carwale_versions,https://www.carwale.com/audi-cars/q3-sportback/,2026-06-16 14:21:08
+Audi,Q3 Sportback,Technology Plus S-line [2023-2024],technology-plus-s-line-2023-2024,https://www.carwale.com/audi-cars/q3-sportback/,carwale_versions,https://www.carwale.com/audi-cars/q3-sportback/,2026-06-16 14:21:08
+Audi,E Tron Gt,RS,rs,https://www.carwale.com/audi-cars/e-tron-gt/,carwale_versions,https://www.carwale.com/audi-cars/e-tron-gt/,2026-06-16 14:21:09
+Audi,E Tron Gt,S,s,https://www.carwale.com/audi-cars/e-tron-gt/,carwale_versions,https://www.carwale.com/audi-cars/e-tron-gt/,2026-06-16 14:21:09
+Audi,Rs Q8 Performance,4.0L TFSI,4-0l-tfsi,https://www.carwale.com/audi-cars/rs-q8-performance/,carwale_versions,https://www.carwale.com/audi-cars/rs-q8-performance/,2026-06-16 14:21:09
+Audi,A8 L,Celebration Edition,celebration-edition,https://www.carwale.com/audi-cars/a8-l/,carwale_versions,https://www.carwale.com/audi-cars/a8-l/,2026-06-16 14:21:10
+Audi,A8 L,Technology,technology,https://www.carwale.com/audi-cars/a8-l/,carwale_versions,https://www.carwale.com/audi-cars/a8-l/,2026-06-16 14:21:10
+Audi,Sq8,4.0 Petrol Turbo Automatic,4-0-petrol-turbo-automatic,https://www.carwale.com/audi-cars/sq8/,carwale_versions,https://www.carwale.com/audi-cars/sq8/,2026-06-16 14:21:11
+Audi,E Tron Sportback,55,55,https://www.carwale.com/audi-cars/e-tron-sportback/,carwale_versions,https://www.carwale.com/audi-cars/e-tron-sportback/,2026-06-16 14:21:11
+Audi,E Tron Sportback,55 Technology,55-technology,https://www.carwale.com/audi-cars/e-tron-sportback/,carwale_versions,https://www.carwale.com/audi-cars/e-tron-sportback/,2026-06-16 14:21:11
+Audi,E Tron,50,50,https://www.carwale.com/audi-cars/e-tron/,carwale_versions,https://www.carwale.com/audi-cars/e-tron/,2026-06-16 14:21:12
+Audi,E Tron,55,55,https://www.carwale.com/audi-cars/e-tron/,carwale_versions,https://www.carwale.com/audi-cars/e-tron/,2026-06-16 14:21:12
+Audi,E Tron,55 Technology,55-technology,https://www.carwale.com/audi-cars/e-tron/,carwale_versions,https://www.carwale.com/audi-cars/e-tron/,2026-06-16 14:21:12
+Audi,Q8 E Tron,50,50,https://www.carwale.com/audi-cars/q8-e-tron/,carwale_versions,https://www.carwale.com/audi-cars/q8-e-tron/,2026-06-16 14:21:13
+Audi,Q8 E Tron,55,55,https://www.carwale.com/audi-cars/q8-e-tron/,carwale_versions,https://www.carwale.com/audi-cars/q8-e-tron/,2026-06-16 14:21:13
+Audi,Q8 Sportback E Tron,50,50,https://www.carwale.com/audi-cars/q8-sportback-e-tron/,carwale_versions,https://www.carwale.com/audi-cars/q8-sportback-e-tron/,2026-06-16 14:21:14
+Audi,Q8 Sportback E Tron,55,55,https://www.carwale.com/audi-cars/q8-sportback-e-tron/,carwale_versions,https://www.carwale.com/audi-cars/q8-sportback-e-tron/,2026-06-16 14:21:14
+Audi,New Q3,A4,a4,https://www.carwale.com/audi-cars/new-q3/,carwale_versions,https://www.carwale.com/audi-cars/new-q3/,2026-06-16 14:21:14
+Audi,New Q3,A6,a6,https://www.carwale.com/audi-cars/new-q3/,carwale_versions,https://www.carwale.com/audi-cars/new-q3/,2026-06-16 14:21:14
+Audi,New Q3,Q3,q3,https://www.carwale.com/audi-cars/new-q3/,carwale_versions,https://www.carwale.com/audi-cars/new-q3/,2026-06-16 14:21:14
+Audi,New Q3,Q5,q5,https://www.carwale.com/audi-cars/new-q3/,carwale_versions,https://www.carwale.com/audi-cars/new-q3/,2026-06-16 14:21:14
+Audi,New Q3,RS5,rs5,https://www.carwale.com/audi-cars/new-q3/,carwale_versions,https://www.carwale.com/audi-cars/new-q3/,2026-06-16 14:21:14
+Audi,New Q5 Third Gen,A4,a4,https://www.carwale.com/audi-cars/new-q5-third-gen/,carwale_versions,https://www.carwale.com/audi-cars/new-q5-third-gen/,2026-06-16 14:21:15
+Audi,New Q5 Third Gen,A6,a6,https://www.carwale.com/audi-cars/new-q5-third-gen/,carwale_versions,https://www.carwale.com/audi-cars/new-q5-third-gen/,2026-06-16 14:21:15
+Audi,New Q5 Third Gen,Q3,q3,https://www.carwale.com/audi-cars/new-q5-third-gen/,carwale_versions,https://www.carwale.com/audi-cars/new-q5-third-gen/,2026-06-16 14:21:15
+Audi,New Q5 Third Gen,Q5,q5,https://www.carwale.com/audi-cars/new-q5-third-gen/,carwale_versions,https://www.carwale.com/audi-cars/new-q5-third-gen/,2026-06-16 14:21:15
+Audi,New Q5 Third Gen,RS5,rs5,https://www.carwale.com/audi-cars/new-q5-third-gen/,carwale_versions,https://www.carwale.com/audi-cars/new-q5-third-gen/,2026-06-16 14:21:15
+Audi,Q6 E Tron,A4,a4,https://www.carwale.com/audi-cars/q6-e-tron/,carwale_versions,https://www.carwale.com/audi-cars/q6-e-tron/,2026-06-16 14:21:15
+Audi,Q6 E Tron,A6,a6,https://www.carwale.com/audi-cars/q6-e-tron/,carwale_versions,https://www.carwale.com/audi-cars/q6-e-tron/,2026-06-16 14:21:15
+Audi,Q6 E Tron,Q3,q3,https://www.carwale.com/audi-cars/q6-e-tron/,carwale_versions,https://www.carwale.com/audi-cars/q6-e-tron/,2026-06-16 14:21:15
+Audi,Q6 E Tron,Q5,q5,https://www.carwale.com/audi-cars/q6-e-tron/,carwale_versions,https://www.carwale.com/audi-cars/q6-e-tron/,2026-06-16 14:21:15
+Audi,Q6 E Tron,RS5,rs5,https://www.carwale.com/audi-cars/q6-e-tron/,carwale_versions,https://www.carwale.com/audi-cars/q6-e-tron/,2026-06-16 14:21:15
+Audi,Q9,A4,a4,https://www.carwale.com/audi-cars/q9/,carwale_versions,https://www.carwale.com/audi-cars/q9/,2026-06-16 14:21:16
+Audi,Q9,A6,a6,https://www.carwale.com/audi-cars/q9/,carwale_versions,https://www.carwale.com/audi-cars/q9/,2026-06-16 14:21:16
+Audi,Q9,Q3,q3,https://www.carwale.com/audi-cars/q9/,carwale_versions,https://www.carwale.com/audi-cars/q9/,2026-06-16 14:21:16
+Audi,Q9,Q5,q5,https://www.carwale.com/audi-cars/q9/,carwale_versions,https://www.carwale.com/audi-cars/q9/,2026-06-16 14:21:16
+Audi,Q9,RS5,rs5,https://www.carwale.com/audi-cars/q9/,carwale_versions,https://www.carwale.com/audi-cars/q9/,2026-06-16 14:21:16
+Audi,Rs7 Sportback,4.0L TFSI,4-0l-tfsi,https://www.carwale.com/audi-cars/rs7-sportback/,carwale_versions,https://www.carwale.com/audi-cars/rs7-sportback/,2026-06-16 14:21:17
+Audi,A5,S5,s5,https://www.carwale.com/audi-cars/a5/,carwale_versions,https://www.carwale.com/audi-cars/a5/,2026-06-16 14:21:17
+Audi,A5,Sportback 35 TDI,sportback-35-tdi,https://www.carwale.com/audi-cars/a5/,carwale_versions,https://www.carwale.com/audi-cars/a5/,2026-06-16 14:21:17
+Audi,A5,Sportback 40 TDI,sportback-40-tdi,https://www.carwale.com/audi-cars/a5/,carwale_versions,https://www.carwale.com/audi-cars/a5/,2026-06-16 14:21:17
+Audi,New A3,Premium 35 TFSi,premium-35-tfsi,https://www.carwale.com/audi-cars/new-a3/,carwale_versions,https://www.carwale.com/audi-cars/new-a3/,2026-06-16 14:21:18
+Audi,New A3,Premium Plus 35 TFSi,premium-plus-35-tfsi,https://www.carwale.com/audi-cars/new-a3/,carwale_versions,https://www.carwale.com/audi-cars/new-a3/,2026-06-16 14:21:18
+Audi,New A3,Standard 35 TFSi,standard-35-tfsi,https://www.carwale.com/audi-cars/new-a3/,carwale_versions,https://www.carwale.com/audi-cars/new-a3/,2026-06-16 14:21:18
+Audi,New A3,Technology 35 TFSi,technology-35-tfsi,https://www.carwale.com/audi-cars/new-a3/,carwale_versions,https://www.carwale.com/audi-cars/new-a3/,2026-06-16 14:21:18
+Audi,S6,4.0 TFSI,4-0-tfsi,https://www.carwale.com/audi-cars/s6/,carwale_versions,https://www.carwale.com/audi-cars/s6/,2026-06-16 14:21:19
+Audi,S6,4.0 TFSI [2013-2016],4-0-tfsi-2013-2016,https://www.carwale.com/audi-cars/s6/,carwale_versions,https://www.carwale.com/audi-cars/s6/,2026-06-16 14:21:19
+Audi,R8,5.2 V10,5-2-v10,https://www.carwale.com/audi-cars/r8/,carwale_versions,https://www.carwale.com/audi-cars/r8/,2026-06-16 14:21:20
+Audi,R8,5.2 V10 Plus,5-2-v10-plus,https://www.carwale.com/audi-cars/r8/,carwale_versions,https://www.carwale.com/audi-cars/r8/,2026-06-16 14:21:20
+Audi,Tt,45 TFSI,45-tfsi,https://www.carwale.com/audi-cars/tt/,carwale_versions,https://www.carwale.com/audi-cars/tt/,2026-06-16 14:21:20
+Audi,Q2,Premium 40 TFSI quattro,premium-40-tfsi-quattro,https://www.carwale.com/audi-cars/q2/,carwale_versions,https://www.carwale.com/audi-cars/q2/,2026-06-16 14:21:21
+Audi,Q2,Premium Plus I 40 TFSI quattro,premium-plus-i-40-tfsi-quattro,https://www.carwale.com/audi-cars/q2/,carwale_versions,https://www.carwale.com/audi-cars/q2/,2026-06-16 14:21:21
+Audi,Q2,Premium Plus II 40 TFSI quattro,premium-plus-ii-40-tfsi-quattro,https://www.carwale.com/audi-cars/q2/,carwale_versions,https://www.carwale.com/audi-cars/q2/,2026-06-16 14:21:21
+Audi,Q2,Standard 40 TFSI quattro,standard-40-tfsi-quattro,https://www.carwale.com/audi-cars/q2/,carwale_versions,https://www.carwale.com/audi-cars/q2/,2026-06-16 14:21:21
+Audi,Q2,Standard 40 TFSI quattro With Sunroof,standard-40-tfsi-quattro-with-sunroof,https://www.carwale.com/audi-cars/q2/,carwale_versions,https://www.carwale.com/audi-cars/q2/,2026-06-16 14:21:21
+Audi,Q2,Technology 40 TFSI quattro,technology-40-tfsi-quattro,https://www.carwale.com/audi-cars/q2/,carwale_versions,https://www.carwale.com/audi-cars/q2/,2026-06-16 14:21:21
+BMW,2 Series Gran Coupe,218 M Sport,218-m-sport,https://www.carwale.com/bmw-cars/2-series-gran-coupe/,carwale_versions,https://www.carwale.com/bmw-cars/2-series-gran-coupe/,2026-06-16 14:21:22
+BMW,2 Series Gran Coupe,218 M Sport Pro,218-m-sport-pro,https://www.carwale.com/bmw-cars/2-series-gran-coupe/,carwale_versions,https://www.carwale.com/bmw-cars/2-series-gran-coupe/,2026-06-16 14:21:22
+BMW,M4,CS,cs,https://www.carwale.com/bmw-cars/m4/,carwale_versions,https://www.carwale.com/bmw-cars/m4/,2026-06-16 14:21:22
+BMW,M4,Competition,competition,https://www.carwale.com/bmw-cars/m4/,carwale_versions,https://www.carwale.com/bmw-cars/m4/,2026-06-16 14:21:22
+BMW,3 Series,320Ld M Sport,320ld-m-sport,https://www.carwale.com/bmw-cars/3-series/,carwale_versions,https://www.carwale.com/bmw-cars/3-series/,2026-06-16 14:21:23
+BMW,3 Series,320Ld M Sport Pro,320ld-m-sport-pro,https://www.carwale.com/bmw-cars/3-series/,carwale_versions,https://www.carwale.com/bmw-cars/3-series/,2026-06-16 14:21:23
+BMW,3 Series,330Li M Sport,330li-m-sport,https://www.carwale.com/bmw-cars/3-series/,carwale_versions,https://www.carwale.com/bmw-cars/3-series/,2026-06-16 14:21:23
+BMW,3 Series,50 Jahre Edition,50-jahre-edition,https://www.carwale.com/bmw-cars/3-series/,carwale_versions,https://www.carwale.com/bmw-cars/3-series/,2026-06-16 14:21:23
+BMW,M340I,50 Jahre Edition,50-jahre-edition,https://www.carwale.com/bmw-cars/m340i/,carwale_versions,https://www.carwale.com/bmw-cars/m340i/,2026-06-16 14:21:24
+BMW,M340I,xDrive,xdrive,https://www.carwale.com/bmw-cars/m340i/,carwale_versions,https://www.carwale.com/bmw-cars/m340i/,2026-06-16 14:21:24
+BMW,M340I,xDrive Shadow Edition,xdrive-shadow-edition,https://www.carwale.com/bmw-cars/m340i/,carwale_versions,https://www.carwale.com/bmw-cars/m340i/,2026-06-16 14:21:24
+BMW,M340I,xDrive [2022-2023],xdrive-2022-2023,https://www.carwale.com/bmw-cars/m340i/,carwale_versions,https://www.carwale.com/bmw-cars/m340i/,2026-06-16 14:21:24
+BMW,X1,sDrive18d M Sport,sdrive18d-m-sport,https://www.carwale.com/bmw-cars/x1/,carwale_versions,https://www.carwale.com/bmw-cars/x1/,2026-06-16 14:21:24
+BMW,X1,sDrive18i M Sport,sdrive18i-m-sport,https://www.carwale.com/bmw-cars/x1/,carwale_versions,https://www.carwale.com/bmw-cars/x1/,2026-06-16 14:21:24
+BMW,M5,Competition,competition,https://www.carwale.com/bmw-cars/m5/,carwale_versions,https://www.carwale.com/bmw-cars/m5/,2026-06-16 14:21:25
+BMW,X7,Signature Edition,signature-edition,https://www.carwale.com/bmw-cars/x7/,carwale_versions,https://www.carwale.com/bmw-cars/x7/,2026-06-16 14:21:26
+BMW,X7,xDrive40d DPE 7 Seater,xdrive40d-dpe-7-seater,https://www.carwale.com/bmw-cars/x7/,carwale_versions,https://www.carwale.com/bmw-cars/x7/,2026-06-16 14:21:26
+BMW,X7,xDrive40d DPE 7 Seater [2024-2025],xdrive40d-dpe-7-seater-2024-2025,https://www.carwale.com/bmw-cars/x7/,carwale_versions,https://www.carwale.com/bmw-cars/x7/,2026-06-16 14:21:26
+BMW,X7,xDrive40d M Sport,xdrive40d-m-sport,https://www.carwale.com/bmw-cars/x7/,carwale_versions,https://www.carwale.com/bmw-cars/x7/,2026-06-16 14:21:26
+BMW,X7,xDrive40d M Sport Pro,xdrive40d-m-sport-pro,https://www.carwale.com/bmw-cars/x7/,carwale_versions,https://www.carwale.com/bmw-cars/x7/,2026-06-16 14:21:26
+BMW,X7,xDrive40i M Sport,xdrive40i-m-sport,https://www.carwale.com/bmw-cars/x7/,carwale_versions,https://www.carwale.com/bmw-cars/x7/,2026-06-16 14:21:26
+BMW,X5,xDrive30d M Sport,xdrive30d-m-sport,https://www.carwale.com/bmw-cars/x5/,carwale_versions,https://www.carwale.com/bmw-cars/x5/,2026-06-16 14:21:26
+BMW,X5,xDrive30d M Sport Pro,xdrive30d-m-sport-pro,https://www.carwale.com/bmw-cars/x5/,carwale_versions,https://www.carwale.com/bmw-cars/x5/,2026-06-16 14:21:26
+BMW,X5,xDrive30d xLine,xdrive30d-xline,https://www.carwale.com/bmw-cars/x5/,carwale_versions,https://www.carwale.com/bmw-cars/x5/,2026-06-16 14:21:26
+BMW,X5,xDrive40i M Sport Pro,xdrive40i-m-sport-pro,https://www.carwale.com/bmw-cars/x5/,carwale_versions,https://www.carwale.com/bmw-cars/x5/,2026-06-16 14:21:26
+BMW,X5,xDrive40i xLine,xdrive40i-xline,https://www.carwale.com/bmw-cars/x5/,carwale_versions,https://www.carwale.com/bmw-cars/x5/,2026-06-16 14:21:26
+BMW,X3,xDrive 30 M Sport Pro Petrol 2.0L Turbo Automatic,xdrive-30-m-sport-pro-petrol-2-0l-turbo-automatic,https://www.carwale.com/bmw-cars/x3/,carwale_versions,https://www.carwale.com/bmw-cars/x3/,2026-06-16 14:21:27
+BMW,X3,xDrive20 Petrol 2.0L Turbo Automatic,xdrive20-petrol-2-0l-turbo-automatic,https://www.carwale.com/bmw-cars/x3/,carwale_versions,https://www.carwale.com/bmw-cars/x3/,2026-06-16 14:21:27
+BMW,X3,xDrive20d Diesel 2.0L Turbo Automatic,xdrive20d-diesel-2-0l-turbo-automatic,https://www.carwale.com/bmw-cars/x3/,carwale_versions,https://www.carwale.com/bmw-cars/x3/,2026-06-16 14:21:27
+BMW,Z4,M 40i,m-40i,https://www.carwale.com/bmw-cars/z4/,carwale_versions,https://www.carwale.com/bmw-cars/z4/,2026-06-16 14:21:28
+BMW,Z4,M 40i Pure Impulse MT,m-40i-pure-impulse-mt,https://www.carwale.com/bmw-cars/z4/,carwale_versions,https://www.carwale.com/bmw-cars/z4/,2026-06-16 14:21:28
+BMW,7 Series,740d M Sport,740d-m-sport,https://www.carwale.com/bmw-cars/7-series/,carwale_versions,https://www.carwale.com/bmw-cars/7-series/,2026-06-16 14:21:28
+BMW,7 Series,740i M Sport,740i-m-sport,https://www.carwale.com/bmw-cars/7-series/,carwale_versions,https://www.carwale.com/bmw-cars/7-series/,2026-06-16 14:21:28
+BMW,7 Series,740i [2023],740i-2023,https://www.carwale.com/bmw-cars/7-series/,carwale_versions,https://www.carwale.com/bmw-cars/7-series/,2026-06-16 14:21:28
+BMW,M440I,xDrive Convertible Petrol Turbo Automatic,xdrive-convertible-petrol-turbo-automatic,https://www.carwale.com/bmw-cars/m440i/,carwale_versions,https://www.carwale.com/bmw-cars/m440i/,2026-06-16 14:21:29
+BMW,Ix1 Lwb,eDrive20L M Sport,edrive20l-m-sport,https://www.carwale.com/bmw-cars/ix1-lwb/,carwale_versions,https://www.carwale.com/bmw-cars/ix1-lwb/,2026-06-16 14:21:30
+BMW,M2,3.0 Petrol Petrol Turbo Automatic,3-0-petrol-petrol-turbo-automatic,https://www.carwale.com/bmw-cars/m2/,carwale_versions,https://www.carwale.com/bmw-cars/m2/,2026-06-16 14:21:30
+BMW,M2,3.0 Petrol Petrol Turbo Manual,3-0-petrol-petrol-turbo-manual,https://www.carwale.com/bmw-cars/m2/,carwale_versions,https://www.carwale.com/bmw-cars/m2/,2026-06-16 14:21:30
+BMW,M2,3.0 Petrol [2023-2024],3-0-petrol-2023-2024,https://www.carwale.com/bmw-cars/m2/,carwale_versions,https://www.carwale.com/bmw-cars/m2/,2026-06-16 14:21:30
+BMW,M2,CS Petrol Turbo Automatic,cs-petrol-turbo-automatic,https://www.carwale.com/bmw-cars/m2/,carwale_versions,https://www.carwale.com/bmw-cars/m2/,2026-06-16 14:21:30
+BMW,5 Series,530Li Petrol 2.0L Turbo Automatic,530li-petrol-2-0l-turbo-automatic,https://www.carwale.com/bmw-cars/5-series/,carwale_versions,https://www.carwale.com/bmw-cars/5-series/,2026-06-16 14:21:31
+BMW,5 Series,530Li Petrol 2.0L Turbo Automatic Aluminium Satinated,530li-petrol-2-0l-turbo-automatic-aluminium-satinated,https://www.carwale.com/bmw-cars/5-series/,carwale_versions,https://www.carwale.com/bmw-cars/5-series/,2026-06-16 14:21:31
+BMW,Ix1,xDrive30 M Sport,xdrive30-m-sport,https://www.carwale.com/bmw-cars/ix1/,carwale_versions,https://www.carwale.com/bmw-cars/ix1/,2026-06-16 14:21:32
+BMW,Xm,Label,label,https://www.carwale.com/bmw-cars/xm/,carwale_versions,https://www.carwale.com/bmw-cars/xm/,2026-06-16 14:21:33
+BMW,Xm,Plug-in Hybrid,plug-in-hybrid,https://www.carwale.com/bmw-cars/xm/,carwale_versions,https://www.carwale.com/bmw-cars/xm/,2026-06-16 14:21:33
+BMW,M8,Coupe,coupe,https://www.carwale.com/bmw-cars/m8/,carwale_versions,https://www.carwale.com/bmw-cars/m8/,2026-06-16 14:21:33
+BMW,M8,Coupe [2020-2023],coupe-2020-2023,https://www.carwale.com/bmw-cars/m8/,carwale_versions,https://www.carwale.com/bmw-cars/m8/,2026-06-16 14:21:33
+BMW,I7,M70 xDrive,m70-xdrive,https://www.carwale.com/bmw-cars/i7/,carwale_versions,https://www.carwale.com/bmw-cars/i7/,2026-06-16 14:21:34
+BMW,I7,eDrive50 M Sport,edrive50-m-sport,https://www.carwale.com/bmw-cars/i7/,carwale_versions,https://www.carwale.com/bmw-cars/i7/,2026-06-16 14:21:34
+BMW,I7,xDrive60 M Sport,xdrive60-m-sport,https://www.carwale.com/bmw-cars/i7/,carwale_versions,https://www.carwale.com/bmw-cars/i7/,2026-06-16 14:21:34
+BMW,I4,eDrive35 M Sport,edrive35-m-sport,https://www.carwale.com/bmw-cars/i4/,carwale_versions,https://www.carwale.com/bmw-cars/i4/,2026-06-16 14:21:35
+BMW,I4,eDrive40 M Sport,edrive40-m-sport,https://www.carwale.com/bmw-cars/i4/,carwale_versions,https://www.carwale.com/bmw-cars/i4/,2026-06-16 14:21:35
+BMW,X4,xDrive,xdrive,https://www.carwale.com/bmw-cars/x4/,carwale_versions,https://www.carwale.com/bmw-cars/x4/,2026-06-16 14:21:35
+BMW,Ix,xDrive 40,xdrive-40,https://www.carwale.com/bmw-cars/ix/,carwale_versions,https://www.carwale.com/bmw-cars/ix/,2026-06-16 14:21:36
+BMW,Ix,xDrive 50,xdrive-50,https://www.carwale.com/bmw-cars/ix/,carwale_versions,https://www.carwale.com/bmw-cars/ix/,2026-06-16 14:21:36
+BMW,I5,M60 xDrive,m60-xdrive,https://www.carwale.com/bmw-cars/i5/,carwale_versions,https://www.carwale.com/bmw-cars/i5/,2026-06-16 14:21:37
+BMW,Ix3,2 Series Gran Coupe,2-series-gran-coupe,https://www.carwale.com/bmw-cars/ix3/,carwale_versions,https://www.carwale.com/bmw-cars/ix3/,2026-06-16 14:21:37
+BMW,Ix3,3 Series LWB,3-series-lwb,https://www.carwale.com/bmw-cars/ix3/,carwale_versions,https://www.carwale.com/bmw-cars/ix3/,2026-06-16 14:21:37
+BMW,Ix3,M340i,m340i,https://www.carwale.com/bmw-cars/ix3/,carwale_versions,https://www.carwale.com/bmw-cars/ix3/,2026-06-16 14:21:37
+BMW,Ix3,M4,m4,https://www.carwale.com/bmw-cars/ix3/,carwale_versions,https://www.carwale.com/bmw-cars/ix3/,2026-06-16 14:21:37
+BMW,Ix3,M5,m5,https://www.carwale.com/bmw-cars/ix3/,carwale_versions,https://www.carwale.com/bmw-cars/ix3/,2026-06-16 14:21:37
+BMW,3 Series Gran Limousine,320Ld M Sport,320ld-m-sport,https://www.carwale.com/bmw-cars/3-series-gran-limousine/,carwale_versions,https://www.carwale.com/bmw-cars/3-series-gran-limousine/,2026-06-16 14:21:38
+BMW,3 Series Gran Limousine,320Ld M Sport Pro Edition,320ld-m-sport-pro-edition,https://www.carwale.com/bmw-cars/3-series-gran-limousine/,carwale_versions,https://www.carwale.com/bmw-cars/3-series-gran-limousine/,2026-06-16 14:21:38
+BMW,3 Series Gran Limousine,320Ld M Sport [2023],320ld-m-sport-2023,https://www.carwale.com/bmw-cars/3-series-gran-limousine/,carwale_versions,https://www.carwale.com/bmw-cars/3-series-gran-limousine/,2026-06-16 14:21:38
+BMW,3 Series Gran Limousine,330Li M Sport,330li-m-sport,https://www.carwale.com/bmw-cars/3-series-gran-limousine/,carwale_versions,https://www.carwale.com/bmw-cars/3-series-gran-limousine/,2026-06-16 14:21:38
+BMW,3 Series Gran Limousine,330Li M Sport Pro Edition,330li-m-sport-pro-edition,https://www.carwale.com/bmw-cars/3-series-gran-limousine/,carwale_versions,https://www.carwale.com/bmw-cars/3-series-gran-limousine/,2026-06-16 14:21:38
+BMW,3 Series Gran Limousine,330Li M Sport [2023],330li-m-sport-2023,https://www.carwale.com/bmw-cars/3-series-gran-limousine/,carwale_versions,https://www.carwale.com/bmw-cars/3-series-gran-limousine/,2026-06-16 14:21:38
+BMW,1 Series,116i Hatchback,116i-hatchback,https://www.carwale.com/bmw-cars/1-series/,carwale_versions,https://www.carwale.com/bmw-cars/1-series/,2026-06-16 14:21:39
+BMW,1 Series,118d Hatchback,118d-hatchback,https://www.carwale.com/bmw-cars/1-series/,carwale_versions,https://www.carwale.com/bmw-cars/1-series/,2026-06-16 14:21:39
+BMW,1 Series,118d Sport Line [2013-2017],118d-sport-line-2013-2017,https://www.carwale.com/bmw-cars/1-series/,carwale_versions,https://www.carwale.com/bmw-cars/1-series/,2026-06-16 14:21:39
+BMW,1 Series,118d Sport plus,118d-sport-plus,https://www.carwale.com/bmw-cars/1-series/,carwale_versions,https://www.carwale.com/bmw-cars/1-series/,2026-06-16 14:21:39
+BMW,1 Series,118i Hatchback,118i-hatchback,https://www.carwale.com/bmw-cars/1-series/,carwale_versions,https://www.carwale.com/bmw-cars/1-series/,2026-06-16 14:21:39
+BMW,6 Series Gran Coupe,640d Design Pure Experience,640d-design-pure-experience,https://www.carwale.com/bmw-cars/6-series-gran-coupe/,carwale_versions,https://www.carwale.com/bmw-cars/6-series-gran-coupe/,2026-06-16 14:21:39
+BMW,6 Series Gran Coupe,640d Eminence,640d-eminence,https://www.carwale.com/bmw-cars/6-series-gran-coupe/,carwale_versions,https://www.carwale.com/bmw-cars/6-series-gran-coupe/,2026-06-16 14:21:39
+BMW,6 Series Gran Coupe,640d Gran Coupe,640d-gran-coupe,https://www.carwale.com/bmw-cars/6-series-gran-coupe/,carwale_versions,https://www.carwale.com/bmw-cars/6-series-gran-coupe/,2026-06-16 14:21:39
+BMW,M3,Sedan,sedan,https://www.carwale.com/bmw-cars/m3/,carwale_versions,https://www.carwale.com/bmw-cars/m3/,2026-06-16 14:21:40
+BMW,Z3,Roadster,roadster,https://www.carwale.com/bmw-cars/z3/,carwale_versions,https://www.carwale.com/bmw-cars/z3/,2026-06-16 14:21:41
+BMW,X6,50 Jahre M Edition,50-jahre-m-edition,https://www.carwale.com/bmw-cars/x6/,carwale_versions,https://www.carwale.com/bmw-cars/x6/,2026-06-16 14:21:41
+BMW,X6,50 Jahre M Edition [2020-2023],50-jahre-m-edition-2020-2023,https://www.carwale.com/bmw-cars/x6/,carwale_versions,https://www.carwale.com/bmw-cars/x6/,2026-06-16 14:21:41
+BMW,X6,xDrive40i M Sport,xdrive40i-m-sport,https://www.carwale.com/bmw-cars/x6/,carwale_versions,https://www.carwale.com/bmw-cars/x6/,2026-06-16 14:21:41
+BMW,X6,xDrive40i M Sport [2020-2023],xdrive40i-m-sport-2020-2023,https://www.carwale.com/bmw-cars/x6/,carwale_versions,https://www.carwale.com/bmw-cars/x6/,2026-06-16 14:21:41
+BMW,X6,xDrive40i xLine,xdrive40i-xline,https://www.carwale.com/bmw-cars/x6/,carwale_versions,https://www.carwale.com/bmw-cars/x6/,2026-06-16 14:21:41
+BMW,X6,xDrive40i xLine [2020-2023],xdrive40i-xline-2020-2023,https://www.carwale.com/bmw-cars/x6/,carwale_versions,https://www.carwale.com/bmw-cars/x6/,2026-06-16 14:21:41
+BMW,M6,Gran Coupe,gran-coupe,https://www.carwale.com/bmw-cars/m6/,carwale_versions,https://www.carwale.com/bmw-cars/m6/,2026-06-16 14:21:42
+BMW,M6,Gran Coupe [2014-2015],gran-coupe-2014-2015,https://www.carwale.com/bmw-cars/m6/,carwale_versions,https://www.carwale.com/bmw-cars/m6/,2026-06-16 14:21:42
+BMW,6 Series Gt,620d Luxury Line,620d-luxury-line,https://www.carwale.com/bmw-cars/6-series-gt/,carwale_versions,https://www.carwale.com/bmw-cars/6-series-gt/,2026-06-16 14:21:43
+BMW,6 Series Gt,620d M Sport,620d-m-sport,https://www.carwale.com/bmw-cars/6-series-gt/,carwale_versions,https://www.carwale.com/bmw-cars/6-series-gt/,2026-06-16 14:21:43
+BMW,6 Series Gt,620d M Sport Signature,620d-m-sport-signature,https://www.carwale.com/bmw-cars/6-series-gt/,carwale_versions,https://www.carwale.com/bmw-cars/6-series-gt/,2026-06-16 14:21:43
+BMW,6 Series Gt,630d M Sport,630d-m-sport,https://www.carwale.com/bmw-cars/6-series-gt/,carwale_versions,https://www.carwale.com/bmw-cars/6-series-gt/,2026-06-16 14:21:43
+BMW,6 Series Gt,630i M Sport,630i-m-sport,https://www.carwale.com/bmw-cars/6-series-gt/,carwale_versions,https://www.carwale.com/bmw-cars/6-series-gt/,2026-06-16 14:21:43
+BMW,6 Series Gt,630i M Sport 50 Jahre M Edition,630i-m-sport-50-jahre-m-edition,https://www.carwale.com/bmw-cars/6-series-gt/,carwale_versions,https://www.carwale.com/bmw-cars/6-series-gt/,2026-06-16 14:21:43
+BMW,6 Series Gt,630i M Sport Signature,630i-m-sport-signature,https://www.carwale.com/bmw-cars/6-series-gt/,carwale_versions,https://www.carwale.com/bmw-cars/6-series-gt/,2026-06-16 14:21:43
+BMW,6 Series Gt,630i M Sport [2021-2023],630i-m-sport-2021-2023,https://www.carwale.com/bmw-cars/6-series-gt/,carwale_versions,https://www.carwale.com/bmw-cars/6-series-gt/,2026-06-16 14:21:43
+BMW,8 Series,840i Gran Coupe,840i-gran-coupe,https://www.carwale.com/bmw-cars/8-series/,carwale_versions,https://www.carwale.com/bmw-cars/8-series/,2026-06-16 14:21:43
+BMW,8 Series,840i M Sport,840i-m-sport,https://www.carwale.com/bmw-cars/8-series/,carwale_versions,https://www.carwale.com/bmw-cars/8-series/,2026-06-16 14:21:43
+BMW,8 Series,840i M Sport Edition,840i-m-sport-edition,https://www.carwale.com/bmw-cars/8-series/,carwale_versions,https://www.carwale.com/bmw-cars/8-series/,2026-06-16 14:21:43
+BMW,X3 M,Petrol,petrol,https://www.carwale.com/bmw-cars/x3-m/,carwale_versions,https://www.carwale.com/bmw-cars/x3-m/,2026-06-16 14:21:45
+BMW,X5 M,Competition,competition,https://www.carwale.com/bmw-cars/x5-m/,carwale_versions,https://www.carwale.com/bmw-cars/x5-m/,2026-06-16 14:21:45
+BMW,X5 M,Competition [2020-2023],competition-2020-2023,https://www.carwale.com/bmw-cars/x5-m/,carwale_versions,https://www.carwale.com/bmw-cars/x5-m/,2026-06-16 14:21:45
+BMW,X3 M40I,xDrive,xdrive,https://www.carwale.com/bmw-cars/x3-m40i/,carwale_versions,https://www.carwale.com/bmw-cars/x3-m40i/,2026-06-16 14:21:46
+BYD,Atto 3,Dynamic,dynamic,https://www.carwale.com/byd-cars/atto-3/,carwale_versions,https://www.carwale.com/byd-cars/atto-3/,2026-06-16 14:21:47
+BYD,Atto 3,Dynamic [2024-2025],dynamic-2024-2025,https://www.carwale.com/byd-cars/atto-3/,carwale_versions,https://www.carwale.com/byd-cars/atto-3/,2026-06-16 14:21:47
+BYD,Atto 3,Premium,premium,https://www.carwale.com/byd-cars/atto-3/,carwale_versions,https://www.carwale.com/byd-cars/atto-3/,2026-06-16 14:21:47
+BYD,Atto 3,Special Edition,special-edition,https://www.carwale.com/byd-cars/atto-3/,carwale_versions,https://www.carwale.com/byd-cars/atto-3/,2026-06-16 14:21:47
+BYD,Atto 3,Superior,superior,https://www.carwale.com/byd-cars/atto-3/,carwale_versions,https://www.carwale.com/byd-cars/atto-3/,2026-06-16 14:21:47
+BYD,Sealion 7,Anniversary Edition AWD 82.6 kWh,anniversary-edition-awd-82-6-kwh,https://www.carwale.com/byd-cars/sealion-7/,carwale_versions,https://www.carwale.com/byd-cars/sealion-7/,2026-06-16 14:21:48
+BYD,Sealion 7,Performance AWD 82.6 kWh,performance-awd-82-6-kwh,https://www.carwale.com/byd-cars/sealion-7/,carwale_versions,https://www.carwale.com/byd-cars/sealion-7/,2026-06-16 14:21:48
+BYD,Sealion 7,Premium 2WD 82.6 kWh,premium-2wd-82-6-kwh,https://www.carwale.com/byd-cars/sealion-7/,carwale_versions,https://www.carwale.com/byd-cars/sealion-7/,2026-06-16 14:21:48
+BYD,Seal,Dynamic,dynamic,https://www.carwale.com/byd-cars/seal/,carwale_versions,https://www.carwale.com/byd-cars/seal/,2026-06-16 14:21:49
+BYD,Seal,Performance,performance,https://www.carwale.com/byd-cars/seal/,carwale_versions,https://www.carwale.com/byd-cars/seal/,2026-06-16 14:21:49
+BYD,Seal,Premium,premium,https://www.carwale.com/byd-cars/seal/,carwale_versions,https://www.carwale.com/byd-cars/seal/,2026-06-16 14:21:49
+BYD,Seal,Premium [2024-2025],premium-2024-2025,https://www.carwale.com/byd-cars/seal/,carwale_versions,https://www.carwale.com/byd-cars/seal/,2026-06-16 14:21:49
+BYD,Emax 7,Premium 6 STR,premium-6-str,https://www.carwale.com/byd-cars/emax-7/,carwale_versions,https://www.carwale.com/byd-cars/emax-7/,2026-06-16 14:21:49
+BYD,Emax 7,Premium 7 STR,premium-7-str,https://www.carwale.com/byd-cars/emax-7/,carwale_versions,https://www.carwale.com/byd-cars/emax-7/,2026-06-16 14:21:49
+BYD,Emax 7,Superior 6 STR,superior-6-str,https://www.carwale.com/byd-cars/emax-7/,carwale_versions,https://www.carwale.com/byd-cars/emax-7/,2026-06-16 14:21:49
+BYD,Emax 7,Superior 7 STR,superior-7-str,https://www.carwale.com/byd-cars/emax-7/,carwale_versions,https://www.carwale.com/byd-cars/emax-7/,2026-06-16 14:21:49
+BYD,Atto 2,Atto 3,atto-3,https://www.carwale.com/byd-cars/atto-2/,carwale_versions,https://www.carwale.com/byd-cars/atto-2/,2026-06-16 14:21:50
+BYD,Atto 2,Seal,seal,https://www.carwale.com/byd-cars/atto-2/,carwale_versions,https://www.carwale.com/byd-cars/atto-2/,2026-06-16 14:21:50
+BYD,Atto 2,Sealion 7,sealion-7,https://www.carwale.com/byd-cars/atto-2/,carwale_versions,https://www.carwale.com/byd-cars/atto-2/,2026-06-16 14:21:50
+BYD,Atto 2,eMax 7,emax-7,https://www.carwale.com/byd-cars/atto-2/,carwale_versions,https://www.carwale.com/byd-cars/atto-2/,2026-06-16 14:21:50
+BYD,Seal U Dm I,Atto 3,atto-3,https://www.carwale.com/byd-cars/seal-u-dm-i/,carwale_versions,https://www.carwale.com/byd-cars/seal-u-dm-i/,2026-06-16 14:21:50
+BYD,Seal U Dm I,Performance Plug-in Hybrid (Electric + Petrol) Turbo Automatic,performance-plug-in-hybrid-electric-petrol-turbo-automatic,https://www.carwale.com/byd-cars/seal-u-dm-i/,carwale_versions,https://www.carwale.com/byd-cars/seal-u-dm-i/,2026-06-16 14:21:50
+BYD,Seal U Dm I,Seal,seal,https://www.carwale.com/byd-cars/seal-u-dm-i/,carwale_versions,https://www.carwale.com/byd-cars/seal-u-dm-i/,2026-06-16 14:21:50
+BYD,Seal U Dm I,Sealion 7,sealion-7,https://www.carwale.com/byd-cars/seal-u-dm-i/,carwale_versions,https://www.carwale.com/byd-cars/seal-u-dm-i/,2026-06-16 14:21:50
+BYD,Seal U Dm I,eMax 7,emax-7,https://www.carwale.com/byd-cars/seal-u-dm-i/,carwale_versions,https://www.carwale.com/byd-cars/seal-u-dm-i/,2026-06-16 14:21:50
+BYD,E6,GL,gl,https://www.carwale.com/byd-cars/e6/,carwale_versions,https://www.carwale.com/byd-cars/e6/,2026-06-16 14:21:51
+Bentley,Bentayga,EWB,ewb,https://www.carwale.com/bentley-cars/bentayga/,carwale_versions,https://www.carwale.com/bentley-cars/bentayga/,2026-06-16 14:21:52
+Bentley,Bentayga,V8 Petrol,v8-petrol,https://www.carwale.com/bentley-cars/bentayga/,carwale_versions,https://www.carwale.com/bentley-cars/bentayga/,2026-06-16 14:21:52
+Bentley,Arnage,R,r,https://www.carwale.com/bentley-cars/arnage/,carwale_versions,https://www.carwale.com/bentley-cars/arnage/,2026-06-16 14:21:52
+Bentley,Arnage,RL,rl,https://www.carwale.com/bentley-cars/arnage/,carwale_versions,https://www.carwale.com/bentley-cars/arnage/,2026-06-16 14:21:52
+Bentley,Continentalgtc,Convertible,convertible,https://www.carwale.com/bentley-cars/continentalgtc/,carwale_versions,https://www.carwale.com/bentley-cars/continentalgtc/,2026-06-16 14:21:53
+Bentley,Continentalgtc,Speed,speed,https://www.carwale.com/bentley-cars/continentalgtc/,carwale_versions,https://www.carwale.com/bentley-cars/continentalgtc/,2026-06-16 14:21:53
+Bentley,Continentalgtc,V8,v8,https://www.carwale.com/bentley-cars/continentalgtc/,carwale_versions,https://www.carwale.com/bentley-cars/continentalgtc/,2026-06-16 14:21:53
+Bentley,Continentalgtc,V8S,v8s,https://www.carwale.com/bentley-cars/continentalgtc/,carwale_versions,https://www.carwale.com/bentley-cars/continentalgtc/,2026-06-16 14:21:53
+Bentley,Azure,Convertible,convertible,https://www.carwale.com/bentley-cars/azure/,carwale_versions,https://www.carwale.com/bentley-cars/azure/,2026-06-16 14:21:54
+Bentley,Mulsanne,V8,v8,https://www.carwale.com/bentley-cars/mulsanne/,carwale_versions,https://www.carwale.com/bentley-cars/mulsanne/,2026-06-16 14:21:55
+Bentley,Continentalsupersports,Convertible,convertible,https://www.carwale.com/bentley-cars/continentalsupersports/,carwale_versions,https://www.carwale.com/bentley-cars/continentalsupersports/,2026-06-16 14:21:55
+Citroen,C3 X,Feel (O) CNG 1.2L 5 Speed Manual,feel-o-cng-1-2l-5-speed-manual,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,C3 X,Feel (O) Petrol 1.2L 5 Speed Manual,feel-o-petrol-1-2l-5-speed-manual,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,C3 X,Feel CNG 1.2L 5 Speed Manual,feel-cng-1-2l-5-speed-manual,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,C3 X,Feel Petrol 1.2L 5 Speed Manual,feel-petrol-1-2l-5-speed-manual,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,C3 X,Live (O) Petrol 1.2L 5 Speed Manual,live-o-petrol-1-2l-5-speed-manual,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,C3 X,Live CNG 1.2L 5 Speed Manual,live-cng-1-2l-5-speed-manual,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,C3 X,Live Petrol 1.2L 5 Speed Manual,live-petrol-1-2l-5-speed-manual,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,C3 X,Shine 1.2 Petrol Dual Tone,shine-1-2-petrol-dual-tone,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,C3 X,Shine 1.2 Turbo AT Vibe Pack Dual Tone,shine-1-2-turbo-at-vibe-pack-dual-tone,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,C3 X,Shine CNG 1.2L 5 Speed Manual,shine-cng-1-2l-5-speed-manual,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,C3 X,Shine CNG 1.2L 5 Speed Manual Dual Tone,shine-cng-1-2l-5-speed-manual-dual-tone,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,C3 X,Shine Petrol 1.2L 5 Speed Manual,shine-petrol-1-2l-5-speed-manual,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,C3 X,Shine Petrol 1.2L 5 Speed Manual Dual Tone,shine-petrol-1-2l-5-speed-manual-dual-tone,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,C3 X,Shine Petrol 1.2L Turbo 6 Speed Manual,shine-petrol-1-2l-turbo-6-speed-manual,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,C3 X,Shine Petrol 1.2L Turbo Automatic,shine-petrol-1-2l-turbo-automatic,https://www.carwale.com/citroen-cars/c3-x/,carwale_versions,https://www.carwale.com/citroen-cars/c3-x/,2026-06-16 14:21:56
+Citroen,Aircross X,Max Petrol Turbo 6 Speed Manual 5 STR,max-petrol-turbo-6-speed-manual-5-str,https://www.carwale.com/citroen-cars/aircross-x/,carwale_versions,https://www.carwale.com/citroen-cars/aircross-x/,2026-06-16 14:21:57
+Citroen,Aircross X,Max Petrol Turbo 6 Speed Manual 7 STR,max-petrol-turbo-6-speed-manual-7-str,https://www.carwale.com/citroen-cars/aircross-x/,carwale_versions,https://www.carwale.com/citroen-cars/aircross-x/,2026-06-16 14:21:57
+Citroen,Aircross X,Max Petrol Turbo 6 Speed Manual 7 STR Dual Tone,max-petrol-turbo-6-speed-manual-7-str-dual-tone,https://www.carwale.com/citroen-cars/aircross-x/,carwale_versions,https://www.carwale.com/citroen-cars/aircross-x/,2026-06-16 14:21:57
+Citroen,Aircross X,Max Petrol Turbo Automatic 7 STR,max-petrol-turbo-automatic-7-str,https://www.carwale.com/citroen-cars/aircross-x/,carwale_versions,https://www.carwale.com/citroen-cars/aircross-x/,2026-06-16 14:21:57
+Citroen,Aircross X,Max Petrol Turbo Automatic 7 STR Dual Tone,max-petrol-turbo-automatic-7-str-dual-tone,https://www.carwale.com/citroen-cars/aircross-x/,carwale_versions,https://www.carwale.com/citroen-cars/aircross-x/,2026-06-16 14:21:57
+Citroen,Aircross X,Plus Petrol 5 Speed Manual 5 STR,plus-petrol-5-speed-manual-5-str,https://www.carwale.com/citroen-cars/aircross-x/,carwale_versions,https://www.carwale.com/citroen-cars/aircross-x/,2026-06-16 14:21:57
+Citroen,Aircross X,Plus Petrol Turbo 6 Speed Manual 7 STR,plus-petrol-turbo-6-speed-manual-7-str,https://www.carwale.com/citroen-cars/aircross-x/,carwale_versions,https://www.carwale.com/citroen-cars/aircross-x/,2026-06-16 14:21:57
+Citroen,Aircross X,You Petrol 5 Speed Manual 5 STR,you-petrol-5-speed-manual-5-str,https://www.carwale.com/citroen-cars/aircross-x/,carwale_versions,https://www.carwale.com/citroen-cars/aircross-x/,2026-06-16 14:21:57
+Citroen,Basalt X,Max Petrol Turbo 6 Speed Manual,max-petrol-turbo-6-speed-manual,https://www.carwale.com/citroen-cars/basalt-x/,carwale_versions,https://www.carwale.com/citroen-cars/basalt-x/,2026-06-16 14:21:57
+Citroen,Basalt X,Max Petrol Turbo 6 Speed Manual Dual Tone,max-petrol-turbo-6-speed-manual-dual-tone,https://www.carwale.com/citroen-cars/basalt-x/,carwale_versions,https://www.carwale.com/citroen-cars/basalt-x/,2026-06-16 14:21:57
+Citroen,Basalt X,Max Petrol Turbo Automatic,max-petrol-turbo-automatic,https://www.carwale.com/citroen-cars/basalt-x/,carwale_versions,https://www.carwale.com/citroen-cars/basalt-x/,2026-06-16 14:21:57
+Citroen,Basalt X,Max Petrol Turbo Automatic Dual Tone,max-petrol-turbo-automatic-dual-tone,https://www.carwale.com/citroen-cars/basalt-x/,carwale_versions,https://www.carwale.com/citroen-cars/basalt-x/,2026-06-16 14:21:57
+Citroen,Basalt X,Plus Petrol 5 Speed Manual,plus-petrol-5-speed-manual,https://www.carwale.com/citroen-cars/basalt-x/,carwale_versions,https://www.carwale.com/citroen-cars/basalt-x/,2026-06-16 14:21:57
+Citroen,Basalt X,Plus Petrol Turbo 6 Speed Manual,plus-petrol-turbo-6-speed-manual,https://www.carwale.com/citroen-cars/basalt-x/,carwale_versions,https://www.carwale.com/citroen-cars/basalt-x/,2026-06-16 14:21:57
+Citroen,Basalt X,Plus Petrol Turbo Automatic,plus-petrol-turbo-automatic,https://www.carwale.com/citroen-cars/basalt-x/,carwale_versions,https://www.carwale.com/citroen-cars/basalt-x/,2026-06-16 14:21:57
+Citroen,Basalt X,You Petrol 5 Speed Manual,you-petrol-5-speed-manual,https://www.carwale.com/citroen-cars/basalt-x/,carwale_versions,https://www.carwale.com/citroen-cars/basalt-x/,2026-06-16 14:21:57
+Citroen,Ec3,Feel 29.2 kWh,feel-29-2-kwh,https://www.carwale.com/citroen-cars/ec3/,carwale_versions,https://www.carwale.com/citroen-cars/ec3/,2026-06-16 14:21:58
+Citroen,Ec3,Live,live,https://www.carwale.com/citroen-cars/ec3/,carwale_versions,https://www.carwale.com/citroen-cars/ec3/,2026-06-16 14:21:58
+Citroen,Ec3,Shine 29.2 kWh,shine-29-2-kwh,https://www.carwale.com/citroen-cars/ec3/,carwale_versions,https://www.carwale.com/citroen-cars/ec3/,2026-06-16 14:21:58
+Citroen,Ec3,Shine 29.2 kWh Dual Tone,shine-29-2-kwh-dual-tone,https://www.carwale.com/citroen-cars/ec3/,carwale_versions,https://www.carwale.com/citroen-cars/ec3/,2026-06-16 14:21:58
+Citroen,Ec3,Shine 29.2 kWh Dual Tone Vibe Pack,shine-29-2-kwh-dual-tone-vibe-pack,https://www.carwale.com/citroen-cars/ec3/,carwale_versions,https://www.carwale.com/citroen-cars/ec3/,2026-06-16 14:21:58
+Citroen,Ec3,Shine 29.2 kWh Vibe Pack,shine-29-2-kwh-vibe-pack,https://www.carwale.com/citroen-cars/ec3/,carwale_versions,https://www.carwale.com/citroen-cars/ec3/,2026-06-16 14:21:58
+Citroen,C5 Aircross,Shine Diesel Automatic,shine-diesel-automatic,https://www.carwale.com/citroen-cars/c5-aircross/,carwale_versions,https://www.carwale.com/citroen-cars/c5-aircross/,2026-06-16 14:21:59
+Citroen,C5 Aircross,Shine Dual Tone,shine-dual-tone,https://www.carwale.com/citroen-cars/c5-aircross/,carwale_versions,https://www.carwale.com/citroen-cars/c5-aircross/,2026-06-16 14:21:59
+Citroen,New C5 Aircross,Aircross X,aircross-x,https://www.carwale.com/citroen-cars/new-c5-aircross/,carwale_versions,https://www.carwale.com/citroen-cars/new-c5-aircross/,2026-06-16 14:21:59
+Citroen,New C5 Aircross,Basalt X,basalt-x,https://www.carwale.com/citroen-cars/new-c5-aircross/,carwale_versions,https://www.carwale.com/citroen-cars/new-c5-aircross/,2026-06-16 14:21:59
+Citroen,New C5 Aircross,C3 X,c3-x,https://www.carwale.com/citroen-cars/new-c5-aircross/,carwale_versions,https://www.carwale.com/citroen-cars/new-c5-aircross/,2026-06-16 14:21:59
+Citroen,New C5 Aircross,C5 Aircross,c5-aircross,https://www.carwale.com/citroen-cars/new-c5-aircross/,carwale_versions,https://www.carwale.com/citroen-cars/new-c5-aircross/,2026-06-16 14:21:59
+Citroen,New C5 Aircross,eC3,ec3,https://www.carwale.com/citroen-cars/new-c5-aircross/,carwale_versions,https://www.carwale.com/citroen-cars/new-c5-aircross/,2026-06-16 14:21:59
+Citroen,Basalt Ev,Aircross X,aircross-x,https://www.carwale.com/citroen-cars/basalt-ev/,carwale_versions,https://www.carwale.com/citroen-cars/basalt-ev/,2026-06-16 14:22:00
+Citroen,Basalt Ev,Basalt X,basalt-x,https://www.carwale.com/citroen-cars/basalt-ev/,carwale_versions,https://www.carwale.com/citroen-cars/basalt-ev/,2026-06-16 14:22:00
+Citroen,Basalt Ev,C3 X,c3-x,https://www.carwale.com/citroen-cars/basalt-ev/,carwale_versions,https://www.carwale.com/citroen-cars/basalt-ev/,2026-06-16 14:22:00
+Citroen,Basalt Ev,C5 Aircross,c5-aircross,https://www.carwale.com/citroen-cars/basalt-ev/,carwale_versions,https://www.carwale.com/citroen-cars/basalt-ev/,2026-06-16 14:22:00
+Citroen,Basalt Ev,eC3,ec3,https://www.carwale.com/citroen-cars/basalt-ev/,carwale_versions,https://www.carwale.com/citroen-cars/basalt-ev/,2026-06-16 14:22:00
+Citroen,Basalt,Max Petrol Turbo 6 Speed Manual,max-petrol-turbo-6-speed-manual,https://www.carwale.com/citroen-cars/basalt/,carwale_versions,https://www.carwale.com/citroen-cars/basalt/,2026-06-16 14:22:01
+Citroen,Basalt,Max Petrol Turbo 6 Speed Manual Dual Tone,max-petrol-turbo-6-speed-manual-dual-tone,https://www.carwale.com/citroen-cars/basalt/,carwale_versions,https://www.carwale.com/citroen-cars/basalt/,2026-06-16 14:22:01
+Citroen,Basalt,Max Petrol Turbo Automatic,max-petrol-turbo-automatic,https://www.carwale.com/citroen-cars/basalt/,carwale_versions,https://www.carwale.com/citroen-cars/basalt/,2026-06-16 14:22:01
+Citroen,Basalt,Max Petrol Turbo Automatic Dual Tone,max-petrol-turbo-automatic-dual-tone,https://www.carwale.com/citroen-cars/basalt/,carwale_versions,https://www.carwale.com/citroen-cars/basalt/,2026-06-16 14:22:01
+Citroen,Basalt,Plus Petrol 5 Speed Manual,plus-petrol-5-speed-manual,https://www.carwale.com/citroen-cars/basalt/,carwale_versions,https://www.carwale.com/citroen-cars/basalt/,2026-06-16 14:22:01
+Citroen,Basalt,Plus Petrol Turbo 6 Speed Manual,plus-petrol-turbo-6-speed-manual,https://www.carwale.com/citroen-cars/basalt/,carwale_versions,https://www.carwale.com/citroen-cars/basalt/,2026-06-16 14:22:01
+Citroen,Basalt,Plus Petrol Turbo Automatic,plus-petrol-turbo-automatic,https://www.carwale.com/citroen-cars/basalt/,carwale_versions,https://www.carwale.com/citroen-cars/basalt/,2026-06-16 14:22:01
+Citroen,Basalt,You Petrol 5 Speed Manual,you-petrol-5-speed-manual,https://www.carwale.com/citroen-cars/basalt/,carwale_versions,https://www.carwale.com/citroen-cars/basalt/,2026-06-16 14:22:01
+Ferrari,849 Testarossa,4.0-litre V8 Hybrid (Electric + Petrol) Turbo Automatic,4-0-litre-v8-hybrid-electric-petrol-turbo-automatic,https://www.carwale.com/ferrari-cars/849-testarossa/,carwale_versions,https://www.carwale.com/ferrari-cars/849-testarossa/,2026-06-16 14:22:02
+Ferrari,Purosangue Suv,V12,v12,https://www.carwale.com/ferrari-cars/purosangue-suv/,carwale_versions,https://www.carwale.com/ferrari-cars/purosangue-suv/,2026-06-16 14:22:03
+Ferrari,296 Gtb,3.0 Petrol,3-0-petrol,https://www.carwale.com/ferrari-cars/296-gtb/,carwale_versions,https://www.carwale.com/ferrari-cars/296-gtb/,2026-06-16 14:22:03
+Ferrari,Roma,Coupe,coupe,https://www.carwale.com/ferrari-cars/roma/,carwale_versions,https://www.carwale.com/ferrari-cars/roma/,2026-06-16 14:22:04
+Ferrari,F8 Tributo,Berlinetta,berlinetta,https://www.carwale.com/ferrari-cars/f8-tributo/,carwale_versions,https://www.carwale.com/ferrari-cars/f8-tributo/,2026-06-16 14:22:05
+Ferrari,Portofino,M,m,https://www.carwale.com/ferrari-cars/portofino/,carwale_versions,https://www.carwale.com/ferrari-cars/portofino/,2026-06-16 14:22:05
+Ferrari,296 Gts,3.0 Petrol,3-0-petrol,https://www.carwale.com/ferrari-cars/296-gts/,carwale_versions,https://www.carwale.com/ferrari-cars/296-gts/,2026-06-16 14:22:06
+Ferrari,F12Berlinetta,F12 tdf,f12-tdf,https://www.carwale.com/ferrari-cars/f12berlinetta/,carwale_versions,https://www.carwale.com/ferrari-cars/f12berlinetta/,2026-06-16 14:22:07
+Ferrari,F12Berlinetta,V12,v12,https://www.carwale.com/ferrari-cars/f12berlinetta/,carwale_versions,https://www.carwale.com/ferrari-cars/f12berlinetta/,2026-06-16 14:22:07
+Ferrari,812,Superfast,superfast,https://www.carwale.com/ferrari-cars/812/,carwale_versions,https://www.carwale.com/ferrari-cars/812/,2026-06-16 14:22:08
+Ferrari,812,Superfast [2018-2020],superfast-2018-2020,https://www.carwale.com/ferrari-cars/812/,carwale_versions,https://www.carwale.com/ferrari-cars/812/,2026-06-16 14:22:08
+Ferrari,Gtc4 Lusso,V12,v12,https://www.carwale.com/ferrari-cars/gtc4-lusso/,carwale_versions,https://www.carwale.com/ferrari-cars/gtc4-lusso/,2026-06-16 14:22:08
+Ferrari,Gtc4 Lusso,V12 [2017-2020],v12-2017-2020,https://www.carwale.com/ferrari-cars/gtc4-lusso/,carwale_versions,https://www.carwale.com/ferrari-cars/gtc4-lusso/,2026-06-16 14:22:08
+Ferrari,Gtc4 Lusso,V8 T,v8-t,https://www.carwale.com/ferrari-cars/gtc4-lusso/,carwale_versions,https://www.carwale.com/ferrari-cars/gtc4-lusso/,2026-06-16 14:22:08
+Ferrari,Gtc4 Lusso,V8 T [2017-2020],v8-t-2017-2020,https://www.carwale.com/ferrari-cars/gtc4-lusso/,carwale_versions,https://www.carwale.com/ferrari-cars/gtc4-lusso/,2026-06-16 14:22:08
+Ferrari,488,GTB,gtb,https://www.carwale.com/ferrari-cars/488/,carwale_versions,https://www.carwale.com/ferrari-cars/488/,2026-06-16 14:22:10
+Ferrari,488,Spider,spider,https://www.carwale.com/ferrari-cars/488/,carwale_versions,https://www.carwale.com/ferrari-cars/488/,2026-06-16 14:22:10
+Ferrari,458,Italia,italia,https://www.carwale.com/ferrari-cars/458/,carwale_versions,https://www.carwale.com/ferrari-cars/458/,2026-06-16 14:22:10
+Ferrari,458,Speciale Petrol Automatic,speciale-petrol-automatic,https://www.carwale.com/ferrari-cars/458/,carwale_versions,https://www.carwale.com/ferrari-cars/458/,2026-06-16 14:22:10
+Ferrari,360,Spider,spider,https://www.carwale.com/ferrari-cars/360/,carwale_versions,https://www.carwale.com/ferrari-cars/360/,2026-06-16 14:22:11
+Ferrari,Ff,6.3L V12,6-3l-v12,https://www.carwale.com/ferrari-cars/ff/,carwale_versions,https://www.carwale.com/ferrari-cars/ff/,2026-06-16 14:22:12
+Ferrari,California,Convertible,convertible,https://www.carwale.com/ferrari-cars/california/,carwale_versions,https://www.carwale.com/ferrari-cars/california/,2026-06-16 14:22:12
+Ferrari,California,T,t,https://www.carwale.com/ferrari-cars/california/,carwale_versions,https://www.carwale.com/ferrari-cars/california/,2026-06-16 14:22:12
+Ferrari,575Superamerica,Coupe,coupe,https://www.carwale.com/ferrari-cars/575superamerica/,carwale_versions,https://www.carwale.com/ferrari-cars/575superamerica/,2026-06-16 14:22:13
+Ferrari,612,Scaglietti,scaglietti,https://www.carwale.com/ferrari-cars/612/,carwale_versions,https://www.carwale.com/ferrari-cars/612/,2026-06-16 14:22:14
+Ferrari,F430,Coupe,coupe,https://www.carwale.com/ferrari-cars/f430/,carwale_versions,https://www.carwale.com/ferrari-cars/f430/,2026-06-16 14:22:14
+Ferrari,F430,Spider,spider,https://www.carwale.com/ferrari-cars/f430/,carwale_versions,https://www.carwale.com/ferrari-cars/f430/,2026-06-16 14:22:14
+Fisker,Ocean Ev,Extreme,extreme,https://www.carwale.com/fisker-cars/ocean-ev/,carwale_versions,https://www.carwale.com/fisker-cars/ocean-ev/,2026-06-16 14:22:15
+Fisker,Ocean Ev,One,one,https://www.carwale.com/fisker-cars/ocean-ev/,carwale_versions,https://www.carwale.com/fisker-cars/ocean-ev/,2026-06-16 14:22:15
+Fisker,Ocean Ev,Sport,sport,https://www.carwale.com/fisker-cars/ocean-ev/,carwale_versions,https://www.carwale.com/fisker-cars/ocean-ev/,2026-06-16 14:22:15
+Fisker,Ocean Ev,Ultra,ultra,https://www.carwale.com/fisker-cars/ocean-ev/,carwale_versions,https://www.carwale.com/fisker-cars/ocean-ev/,2026-06-16 14:22:15
+Force Motors,Gurkha,3 Door (4-Seater),3-door-4-seater,https://www.carwale.com/force-motors-cars/gurkha/,carwale_versions,https://www.carwale.com/force-motors-cars/gurkha/,2026-06-16 14:22:16
+Force Motors,Gurkha,5 Door (7-Seater),5-door-7-seater,https://www.carwale.com/force-motors-cars/gurkha/,carwale_versions,https://www.carwale.com/force-motors-cars/gurkha/,2026-06-16 14:22:16
+Force Motors,Trax Cruiser,12 STR,12-str,https://www.carwale.com/force-motors-cars/trax-cruiser/,carwale_versions,https://www.carwale.com/force-motors-cars/trax-cruiser/,2026-06-16 14:22:16
+Force Motors,Trax Cruiser,12 STR AC,12-str-ac,https://www.carwale.com/force-motors-cars/trax-cruiser/,carwale_versions,https://www.carwale.com/force-motors-cars/trax-cruiser/,2026-06-16 14:22:16
+Force Motors,Trax Cruiser,9 STR,9-str,https://www.carwale.com/force-motors-cars/trax-cruiser/,carwale_versions,https://www.carwale.com/force-motors-cars/trax-cruiser/,2026-06-16 14:22:16
+Force Motors,Trax Cruiser,9 STR AC,9-str-ac,https://www.carwale.com/force-motors-cars/trax-cruiser/,carwale_versions,https://www.carwale.com/force-motors-cars/trax-cruiser/,2026-06-16 14:22:16
+Force Motors,Forceone,EX 7 STR,ex-7-str,https://www.carwale.com/force-motors-cars/forceone/,carwale_versions,https://www.carwale.com/force-motors-cars/forceone/,2026-06-16 14:22:17
+Force Motors,Forceone,LX ABS 7 STR,lx-abs-7-str,https://www.carwale.com/force-motors-cars/forceone/,carwale_versions,https://www.carwale.com/force-motors-cars/forceone/,2026-06-16 14:22:17
+Force Motors,Forceone,SX 6 STR,sx-6-str,https://www.carwale.com/force-motors-cars/forceone/,carwale_versions,https://www.carwale.com/force-motors-cars/forceone/,2026-06-16 14:22:17
+Force Motors,Forceone,SX 7 STR,sx-7-str,https://www.carwale.com/force-motors-cars/forceone/,carwale_versions,https://www.carwale.com/force-motors-cars/forceone/,2026-06-16 14:22:17
+Force Motors,Forceone,SX ABS 6 STR,sx-abs-6-str,https://www.carwale.com/force-motors-cars/forceone/,carwale_versions,https://www.carwale.com/force-motors-cars/forceone/,2026-06-16 14:22:17
+Force Motors,Forceone,SX ABS 7 STR,sx-abs-7-str,https://www.carwale.com/force-motors-cars/forceone/,carwale_versions,https://www.carwale.com/force-motors-cars/forceone/,2026-06-16 14:22:17
+Honda,Amaze,V Petrol Automatic,v-petrol-automatic,https://www.carwale.com/honda-cars/amaze/,carwale_versions,https://www.carwale.com/honda-cars/amaze/,2026-06-16 14:22:20
+Honda,Amaze,V Petrol Manual,v-petrol-manual,https://www.carwale.com/honda-cars/amaze/,carwale_versions,https://www.carwale.com/honda-cars/amaze/,2026-06-16 14:22:20
+Honda,Amaze,VX Petrol Automatic,vx-petrol-automatic,https://www.carwale.com/honda-cars/amaze/,carwale_versions,https://www.carwale.com/honda-cars/amaze/,2026-06-16 14:22:20
+Honda,Amaze,VX Petrol Automatic Elite Pack,vx-petrol-automatic-elite-pack,https://www.carwale.com/honda-cars/amaze/,carwale_versions,https://www.carwale.com/honda-cars/amaze/,2026-06-16 14:22:20
+Honda,Amaze,VX Petrol Manual,vx-petrol-manual,https://www.carwale.com/honda-cars/amaze/,carwale_versions,https://www.carwale.com/honda-cars/amaze/,2026-06-16 14:22:20
+Honda,Amaze,VX Petrol Manual Elite Pack,vx-petrol-manual-elite-pack,https://www.carwale.com/honda-cars/amaze/,carwale_versions,https://www.carwale.com/honda-cars/amaze/,2026-06-16 14:22:20
+Honda,Amaze,ZX Petrol Automatic,zx-petrol-automatic,https://www.carwale.com/honda-cars/amaze/,carwale_versions,https://www.carwale.com/honda-cars/amaze/,2026-06-16 14:22:20
+Honda,Amaze,ZX Petrol Manual,zx-petrol-manual,https://www.carwale.com/honda-cars/amaze/,carwale_versions,https://www.carwale.com/honda-cars/amaze/,2026-06-16 14:22:20
+Honda,Elevate,Apex Edition V MT [2024-2025],apex-edition-v-mt-2024-2025,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,SV Petrol Manual,sv-petrol-manual,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,V MT [2023-2025],v-mt-2023-2025,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,V Petrol Automatic,v-petrol-automatic,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,V Petrol Manual,v-petrol-manual,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,VX CVT [2023-2025],vx-cvt-2023-2025,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,VX MT [2023-2025],vx-mt-2023-2025,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,VX Petrol Automatic,vx-petrol-automatic,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,VX Petrol Automatic Apex Edition,vx-petrol-automatic-apex-edition,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,VX Petrol Automatic Elite Pack,vx-petrol-automatic-elite-pack,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,VX Petrol Manual,vx-petrol-manual,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,VX Petrol Manual Apex Edition,vx-petrol-manual-apex-edition,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,VX Petrol Manual Elite Pack,vx-petrol-manual-elite-pack,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX CVT [2023-2025],zx-cvt-2023-2025,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Automatic,zx-petrol-automatic,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Automatic ADV Edition,zx-petrol-automatic-adv-edition,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Automatic Black Edition,zx-petrol-automatic-black-edition,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Automatic Dual Tone,zx-petrol-automatic-dual-tone,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Automatic Dual Tone ADV Edition,zx-petrol-automatic-dual-tone-adv-edition,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Automatic Dual Tone IVORY,zx-petrol-automatic-dual-tone-ivory,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Automatic Elite Pack,zx-petrol-automatic-elite-pack,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Automatic IVORY,zx-petrol-automatic-ivory,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Automatic Signature Black Edition,zx-petrol-automatic-signature-black-edition,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Manual,zx-petrol-manual,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Manual ADV Edition,zx-petrol-manual-adv-edition,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Manual Black Edition,zx-petrol-manual-black-edition,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Manual Dual Tone ADV Edition,zx-petrol-manual-dual-tone-adv-edition,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Manual Elite Pack,zx-petrol-manual-elite-pack,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Manual IVORY,zx-petrol-manual-ivory,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,Elevate,ZX Petrol Manual Signature Black Edition,zx-petrol-manual-signature-black-edition,https://www.carwale.com/honda-cars/elevate/,carwale_versions,https://www.carwale.com/honda-cars/elevate/,2026-06-16 14:22:20
+Honda,City,SV Petrol Manual,sv-petrol-manual,https://www.carwale.com/honda-cars/city/,carwale_versions,https://www.carwale.com/honda-cars/city/,2026-06-16 14:22:21
+Honda,City,V Petrol Automatic (CVT),v-petrol-automatic-cvt,https://www.carwale.com/honda-cars/city/,carwale_versions,https://www.carwale.com/honda-cars/city/,2026-06-16 14:22:21
+Honda,City,V Petrol Manual,v-petrol-manual,https://www.carwale.com/honda-cars/city/,carwale_versions,https://www.carwale.com/honda-cars/city/,2026-06-16 14:22:21
+Honda,City,ZX Petrol Automatic (CVT),zx-petrol-automatic-cvt,https://www.carwale.com/honda-cars/city/,carwale_versions,https://www.carwale.com/honda-cars/city/,2026-06-16 14:22:21
+Honda,City,ZX Petrol Manual,zx-petrol-manual,https://www.carwale.com/honda-cars/city/,carwale_versions,https://www.carwale.com/honda-cars/city/,2026-06-16 14:22:21
+Honda,City,ZX Plus Hybrid (Electric + Petrol) Automatic (e-CVT) e:HEV,zx-plus-hybrid-electric-petrol-automatic-e-cvt-e-hev,https://www.carwale.com/honda-cars/city/,carwale_versions,https://www.carwale.com/honda-cars/city/,2026-06-16 14:22:21
+Honda,City,ZX Plus Petrol Automatic (CVT),zx-plus-petrol-automatic-cvt,https://www.carwale.com/honda-cars/city/,carwale_versions,https://www.carwale.com/honda-cars/city/,2026-06-16 14:22:21
+Honda,City,ZX Plus Petrol Manual,zx-plus-petrol-manual,https://www.carwale.com/honda-cars/city/,carwale_versions,https://www.carwale.com/honda-cars/city/,2026-06-16 14:22:21
+Honda,Amaze 2Nd Gen,E 1.2 Petrol MT,e-1-2-petrol-mt,https://www.carwale.com/honda-cars/amaze-2nd-gen/,carwale_versions,https://www.carwale.com/honda-cars/amaze-2nd-gen/,2026-06-16 14:22:22
+Honda,Amaze 2Nd Gen,S 1.2 Petrol CVT,s-1-2-petrol-cvt,https://www.carwale.com/honda-cars/amaze-2nd-gen/,carwale_versions,https://www.carwale.com/honda-cars/amaze-2nd-gen/,2026-06-16 14:22:22
+Honda,Amaze 2Nd Gen,S 1.2 Petrol MT,s-1-2-petrol-mt,https://www.carwale.com/honda-cars/amaze-2nd-gen/,carwale_versions,https://www.carwale.com/honda-cars/amaze-2nd-gen/,2026-06-16 14:22:22
+Honda,Amaze 2Nd Gen,S MT 1.2 Petrol [2021],s-mt-1-2-petrol-2021,https://www.carwale.com/honda-cars/amaze-2nd-gen/,carwale_versions,https://www.carwale.com/honda-cars/amaze-2nd-gen/,2026-06-16 14:22:22
+Honda,Amaze 2Nd Gen,VX 1.2 Petrol CVT,vx-1-2-petrol-cvt,https://www.carwale.com/honda-cars/amaze-2nd-gen/,carwale_versions,https://www.carwale.com/honda-cars/amaze-2nd-gen/,2026-06-16 14:22:22
+Honda,Amaze 2Nd Gen,VX 1.2 Petrol MT,vx-1-2-petrol-mt,https://www.carwale.com/honda-cars/amaze-2nd-gen/,carwale_versions,https://www.carwale.com/honda-cars/amaze-2nd-gen/,2026-06-16 14:22:22
+Honda,Zr V,Amaze,amaze,https://www.carwale.com/honda-cars/zr-v/,carwale_versions,https://www.carwale.com/honda-cars/zr-v/,2026-06-16 14:22:22
+Honda,Zr V,Amaze 2nd Gen,amaze-2nd-gen,https://www.carwale.com/honda-cars/zr-v/,carwale_versions,https://www.carwale.com/honda-cars/zr-v/,2026-06-16 14:22:22
+Honda,Zr V,City,city,https://www.carwale.com/honda-cars/zr-v/,carwale_versions,https://www.carwale.com/honda-cars/zr-v/,2026-06-16 14:22:22
+Honda,Zr V,Elevate,elevate,https://www.carwale.com/honda-cars/zr-v/,carwale_versions,https://www.carwale.com/honda-cars/zr-v/,2026-06-16 14:22:22
+Honda,Zr V,Sport Hybrid (Electric + Petrol) Automatic e:HEV,sport-hybrid-electric-petrol-automatic-e-hev,https://www.carwale.com/honda-cars/zr-v/,carwale_versions,https://www.carwale.com/honda-cars/zr-v/,2026-06-16 14:22:22
+Honda,Super One,Amaze,amaze,https://www.carwale.com/honda-cars/super-one/,carwale_versions,https://www.carwale.com/honda-cars/super-one/,2026-06-16 14:22:23
+Honda,Super One,Amaze 2nd Gen,amaze-2nd-gen,https://www.carwale.com/honda-cars/super-one/,carwale_versions,https://www.carwale.com/honda-cars/super-one/,2026-06-16 14:22:23
+Honda,Super One,City,city,https://www.carwale.com/honda-cars/super-one/,carwale_versions,https://www.carwale.com/honda-cars/super-one/,2026-06-16 14:22:23
+Honda,Super One,Elevate,elevate,https://www.carwale.com/honda-cars/super-one/,carwale_versions,https://www.carwale.com/honda-cars/super-one/,2026-06-16 14:22:23
+Honda,0 Alpha,Amaze,amaze,https://www.carwale.com/honda-cars/0-alpha/,carwale_versions,https://www.carwale.com/honda-cars/0-alpha/,2026-06-16 14:22:24
+Honda,0 Alpha,Amaze 2nd Gen,amaze-2nd-gen,https://www.carwale.com/honda-cars/0-alpha/,carwale_versions,https://www.carwale.com/honda-cars/0-alpha/,2026-06-16 14:22:24
+Honda,0 Alpha,City,city,https://www.carwale.com/honda-cars/0-alpha/,carwale_versions,https://www.carwale.com/honda-cars/0-alpha/,2026-06-16 14:22:24
+Honda,0 Alpha,Elevate,elevate,https://www.carwale.com/honda-cars/0-alpha/,carwale_versions,https://www.carwale.com/honda-cars/0-alpha/,2026-06-16 14:22:24
+Honda,Prelude,Amaze,amaze,https://www.carwale.com/honda-cars/prelude/,carwale_versions,https://www.carwale.com/honda-cars/prelude/,2026-06-16 14:22:24
+Honda,Prelude,Amaze 2nd Gen,amaze-2nd-gen,https://www.carwale.com/honda-cars/prelude/,carwale_versions,https://www.carwale.com/honda-cars/prelude/,2026-06-16 14:22:24
+Honda,Prelude,City,city,https://www.carwale.com/honda-cars/prelude/,carwale_versions,https://www.carwale.com/honda-cars/prelude/,2026-06-16 14:22:24
+Honda,Prelude,Elevate,elevate,https://www.carwale.com/honda-cars/prelude/,carwale_versions,https://www.carwale.com/honda-cars/prelude/,2026-06-16 14:22:24
+Honda,Elevate Based Three Row Suv,Amaze,amaze,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,carwale_versions,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,2026-06-16 14:22:25
+Honda,Elevate Based Three Row Suv,Amaze 2nd Gen,amaze-2nd-gen,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,carwale_versions,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,2026-06-16 14:22:25
+Honda,Elevate Based Three Row Suv,City,city,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,carwale_versions,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,2026-06-16 14:22:25
+Honda,Elevate Based Three Row Suv,Elevate,elevate,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,carwale_versions,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,2026-06-16 14:22:25
+Honda,Elevate Based Three Row Suv,ZX Hybrid (Electric + Petrol) Automatic (e-CVT),zx-hybrid-electric-petrol-automatic-e-cvt,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,carwale_versions,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,2026-06-16 14:22:25
+Honda,Elevate Based Three Row Suv,ZX Petrol Automatic (CVT),zx-petrol-automatic-cvt,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,carwale_versions,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,2026-06-16 14:22:25
+Honda,Elevate Based Three Row Suv,ZX Petrol Manual,zx-petrol-manual,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,carwale_versions,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,2026-06-16 14:22:25
+Honda,Cr V Hybrid,Amaze,amaze,https://www.carwale.com/honda-cars/cr-v-hybrid/,carwale_versions,https://www.carwale.com/honda-cars/cr-v-hybrid/,2026-06-16 14:22:26
+Honda,Cr V Hybrid,Amaze 2nd Gen,amaze-2nd-gen,https://www.carwale.com/honda-cars/cr-v-hybrid/,carwale_versions,https://www.carwale.com/honda-cars/cr-v-hybrid/,2026-06-16 14:22:26
+Honda,Cr V Hybrid,City,city,https://www.carwale.com/honda-cars/cr-v-hybrid/,carwale_versions,https://www.carwale.com/honda-cars/cr-v-hybrid/,2026-06-16 14:22:26
+Honda,Cr V Hybrid,Elevate,elevate,https://www.carwale.com/honda-cars/cr-v-hybrid/,carwale_versions,https://www.carwale.com/honda-cars/cr-v-hybrid/,2026-06-16 14:22:26
+Honda,Compact Suv,Amaze,amaze,https://www.carwale.com/honda-cars/compact-suv/,carwale_versions,https://www.carwale.com/honda-cars/compact-suv/,2026-06-16 14:22:26
+Honda,Compact Suv,Amaze 2nd Gen,amaze-2nd-gen,https://www.carwale.com/honda-cars/compact-suv/,carwale_versions,https://www.carwale.com/honda-cars/compact-suv/,2026-06-16 14:22:26
+Honda,Compact Suv,City,city,https://www.carwale.com/honda-cars/compact-suv/,carwale_versions,https://www.carwale.com/honda-cars/compact-suv/,2026-06-16 14:22:26
+Honda,Compact Suv,Elevate,elevate,https://www.carwale.com/honda-cars/compact-suv/,carwale_versions,https://www.carwale.com/honda-cars/compact-suv/,2026-06-16 14:22:26
+Honda,City Hybrid Ehev,ZX Plus Hybrid (Electric + Petrol) Automatic,zx-plus-hybrid-electric-petrol-automatic,https://www.carwale.com/honda-cars/city-hybrid-ehev/,carwale_versions,https://www.carwale.com/honda-cars/city-hybrid-ehev/,2026-06-16 14:22:27
+Honda,Jazz,V,v,https://www.carwale.com/honda-cars/jazz/,carwale_versions,https://www.carwale.com/honda-cars/jazz/,2026-06-16 14:22:29
+Honda,Jazz,V CVT,v-cvt,https://www.carwale.com/honda-cars/jazz/,carwale_versions,https://www.carwale.com/honda-cars/jazz/,2026-06-16 14:22:29
+Honda,Jazz,VX,vx,https://www.carwale.com/honda-cars/jazz/,carwale_versions,https://www.carwale.com/honda-cars/jazz/,2026-06-16 14:22:29
+Honda,Jazz,VX CVT,vx-cvt,https://www.carwale.com/honda-cars/jazz/,carwale_versions,https://www.carwale.com/honda-cars/jazz/,2026-06-16 14:22:29
+Honda,Jazz,ZX,zx,https://www.carwale.com/honda-cars/jazz/,carwale_versions,https://www.carwale.com/honda-cars/jazz/,2026-06-16 14:22:29
+Honda,Jazz,ZX CVT,zx-cvt,https://www.carwale.com/honda-cars/jazz/,carwale_versions,https://www.carwale.com/honda-cars/jazz/,2026-06-16 14:22:29
+Honda,Civic,V CVT Petrol,v-cvt-petrol,https://www.carwale.com/honda-cars/civic/,carwale_versions,https://www.carwale.com/honda-cars/civic/,2026-06-16 14:22:30
+Honda,Civic,V CVT Petrol [2019-2020],v-cvt-petrol-2019-2020,https://www.carwale.com/honda-cars/civic/,carwale_versions,https://www.carwale.com/honda-cars/civic/,2026-06-16 14:22:30
+Honda,Civic,VX CVT Petrol,vx-cvt-petrol,https://www.carwale.com/honda-cars/civic/,carwale_versions,https://www.carwale.com/honda-cars/civic/,2026-06-16 14:22:30
+Honda,Civic,VX CVT Petrol [2019-2020],vx-cvt-petrol-2019-2020,https://www.carwale.com/honda-cars/civic/,carwale_versions,https://www.carwale.com/honda-cars/civic/,2026-06-16 14:22:30
+Honda,Civic,VX Diesel [2019-2020],vx-diesel-2019-2020,https://www.carwale.com/honda-cars/civic/,carwale_versions,https://www.carwale.com/honda-cars/civic/,2026-06-16 14:22:30
+Honda,Civic,VX MT Diesel,vx-mt-diesel,https://www.carwale.com/honda-cars/civic/,carwale_versions,https://www.carwale.com/honda-cars/civic/,2026-06-16 14:22:30
+Honda,Civic,ZX CVT Petrol,zx-cvt-petrol,https://www.carwale.com/honda-cars/civic/,carwale_versions,https://www.carwale.com/honda-cars/civic/,2026-06-16 14:22:30
+Honda,Civic,ZX CVT Petrol [2019-2020],zx-cvt-petrol-2019-2020,https://www.carwale.com/honda-cars/civic/,carwale_versions,https://www.carwale.com/honda-cars/civic/,2026-06-16 14:22:30
+Honda,Civic,ZX Diesel [2019-2020],zx-diesel-2019-2020,https://www.carwale.com/honda-cars/civic/,carwale_versions,https://www.carwale.com/honda-cars/civic/,2026-06-16 14:22:30
+Honda,Civic,ZX MT Diesel,zx-mt-diesel,https://www.carwale.com/honda-cars/civic/,carwale_versions,https://www.carwale.com/honda-cars/civic/,2026-06-16 14:22:30
+Honda,Brio,E MT,e-mt,https://www.carwale.com/honda-cars/brio/,carwale_versions,https://www.carwale.com/honda-cars/brio/,2026-06-16 14:22:31
+Honda,Brio,S (O)MT,s-omt,https://www.carwale.com/honda-cars/brio/,carwale_versions,https://www.carwale.com/honda-cars/brio/,2026-06-16 14:22:31
+Honda,Brio,S MT,s-mt,https://www.carwale.com/honda-cars/brio/,carwale_versions,https://www.carwale.com/honda-cars/brio/,2026-06-16 14:22:31
+Honda,Brio,VX AT,vx-at,https://www.carwale.com/honda-cars/brio/,carwale_versions,https://www.carwale.com/honda-cars/brio/,2026-06-16 14:22:31
+Honda,Brio,VX MT,vx-mt,https://www.carwale.com/honda-cars/brio/,carwale_versions,https://www.carwale.com/honda-cars/brio/,2026-06-16 14:22:31
+Honda,Accord,Hybrid,hybrid,https://www.carwale.com/honda-cars/accord/,carwale_versions,https://www.carwale.com/honda-cars/accord/,2026-06-16 14:22:31
+Honda,Cr V,1.6 AWD Diesel AT,1-6-awd-diesel-at,https://www.carwale.com/honda-cars/cr-v/,carwale_versions,https://www.carwale.com/honda-cars/cr-v/,2026-06-16 14:22:32
+Honda,Cr V,2WD Diesel AT,2wd-diesel-at,https://www.carwale.com/honda-cars/cr-v/,carwale_versions,https://www.carwale.com/honda-cars/cr-v/,2026-06-16 14:22:32
+Honda,Cr V,2WD Petrol CVT,2wd-petrol-cvt,https://www.carwale.com/honda-cars/cr-v/,carwale_versions,https://www.carwale.com/honda-cars/cr-v/,2026-06-16 14:22:32
+Honda,Cr V,2WD Petrol CVT [2018-2020],2wd-petrol-cvt-2018-2020,https://www.carwale.com/honda-cars/cr-v/,carwale_versions,https://www.carwale.com/honda-cars/cr-v/,2026-06-16 14:22:32
+Honda,Cr V,Special Edition 2WD Petrol CVT,special-edition-2wd-petrol-cvt,https://www.carwale.com/honda-cars/cr-v/,carwale_versions,https://www.carwale.com/honda-cars/cr-v/,2026-06-16 14:22:32
+Honda,Stepwgn,Wagon,wagon,https://www.carwale.com/honda-cars/stepwgn/,carwale_versions,https://www.carwale.com/honda-cars/stepwgn/,2026-06-16 14:22:33
+Honda,Concerto,Ex 1.6 MT,ex-1-6-mt,https://www.carwale.com/honda-cars/concerto/,carwale_versions,https://www.carwale.com/honda-cars/concerto/,2026-06-16 14:22:33
+Honda,Crx,Petrol,petrol,https://www.carwale.com/honda-cars/crx/,carwale_versions,https://www.carwale.com/honda-cars/crx/,2026-06-16 14:22:34
+Honda,Mobilio,E Diesel,e-diesel,https://www.carwale.com/honda-cars/mobilio/,carwale_versions,https://www.carwale.com/honda-cars/mobilio/,2026-06-16 14:22:35
+Honda,Mobilio,E Petrol,e-petrol,https://www.carwale.com/honda-cars/mobilio/,carwale_versions,https://www.carwale.com/honda-cars/mobilio/,2026-06-16 14:22:35
+Honda,Mobilio,RS Diesel,rs-diesel,https://www.carwale.com/honda-cars/mobilio/,carwale_versions,https://www.carwale.com/honda-cars/mobilio/,2026-06-16 14:22:35
+Honda,Mobilio,RS(O) Diesel,rso-diesel,https://www.carwale.com/honda-cars/mobilio/,carwale_versions,https://www.carwale.com/honda-cars/mobilio/,2026-06-16 14:22:35
+Honda,Mobilio,S Diesel,s-diesel,https://www.carwale.com/honda-cars/mobilio/,carwale_versions,https://www.carwale.com/honda-cars/mobilio/,2026-06-16 14:22:35
+Honda,Mobilio,S Petrol,s-petrol,https://www.carwale.com/honda-cars/mobilio/,carwale_versions,https://www.carwale.com/honda-cars/mobilio/,2026-06-16 14:22:35
+Honda,Mobilio,V (O) Diesel,v-o-diesel,https://www.carwale.com/honda-cars/mobilio/,carwale_versions,https://www.carwale.com/honda-cars/mobilio/,2026-06-16 14:22:35
+Honda,Mobilio,V (O) Petrol,v-o-petrol,https://www.carwale.com/honda-cars/mobilio/,carwale_versions,https://www.carwale.com/honda-cars/mobilio/,2026-06-16 14:22:35
+Honda,Mobilio,V Diesel,v-diesel,https://www.carwale.com/honda-cars/mobilio/,carwale_versions,https://www.carwale.com/honda-cars/mobilio/,2026-06-16 14:22:35
+Honda,Mobilio,V Petrol,v-petrol,https://www.carwale.com/honda-cars/mobilio/,carwale_versions,https://www.carwale.com/honda-cars/mobilio/,2026-06-16 14:22:35
+Honda,Br V,E Diesel,e-diesel,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,E Petrol,e-petrol,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,S Diesel,s-diesel,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,S Diesel Style Edition,s-diesel-style-edition,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,S Petrol,s-petrol,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,S Petrol Style Edition,s-petrol-style-edition,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,V CVT Petrol,v-cvt-petrol,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,V CVT Petrol Style Edition,v-cvt-petrol-style-edition,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,V Diesel,v-diesel,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,V Diesel Style Edition,v-diesel-style-edition,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,V Petrol,v-petrol,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,V Petrol Style Edition,v-petrol-style-edition,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,VX Diesel,vx-diesel,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,VX Diesel  [2016-2017],vx-diesel-2016-2017,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,VX Diesel Style Edition,vx-diesel-style-edition,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,VX Petrol,vx-petrol,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,VX Petrol Style Edition,vx-petrol-style-edition,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Honda,Br V,VX Petrol [2016-2017],vx-petrol-2016-2017,https://www.carwale.com/honda-cars/br-v/,carwale_versions,https://www.carwale.com/honda-cars/br-v/,2026-06-16 14:22:36
+Hyundai,Creta,E Diesel 1.5L Turbo Manual,e-diesel-1-5l-turbo-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,E Petrol 1.5L Manual,e-petrol-1-5l-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,EX (O) Diesel 1.5L Turbo Manual,ex-o-diesel-1-5l-turbo-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,EX (O) Petrol 1.5L CVT Speed Automatic (CVT),ex-o-petrol-1-5l-cvt-speed-automatic-cvt,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,EX (O) Petrol 1.5L Manual,ex-o-petrol-1-5l-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,EX Diesel 1.5L Turbo Manual,ex-diesel-1-5l-turbo-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,EX Petrol 1.5L Manual,ex-petrol-1-5l-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,King Edition Diesel 1.5L Turbo Automatic (TC),king-edition-diesel-1-5l-turbo-automatic-tc,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,King Edition Diesel 1.5L Turbo Automatic (TC) Dual Tone,king-edition-diesel-1-5l-turbo-automatic-tc-dual-tone,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,King Edition Diesel 1.5L Turbo Manual,king-edition-diesel-1-5l-turbo-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,King Edition Diesel 1.5L Turbo Manual Dual Tone,king-edition-diesel-1-5l-turbo-manual-dual-tone,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,King Edition Petrol 1.5L Automatic (DCT),king-edition-petrol-1-5l-automatic-dct,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,King Edition Petrol 1.5L CVT Speed Automatic (CVT),king-edition-petrol-1-5l-cvt-speed-automatic-cvt,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,King Edition Petrol 1.5L Manual,king-edition-petrol-1-5l-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,King Edition Petrol 1.5L Manual Dual Tone,king-edition-petrol-1-5l-manual-dual-tone,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,King Edition Petrol 1.5L Turbo Automatic (DCT) Dual Tone,king-edition-petrol-1-5l-turbo-automatic-dct-dual-tone,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,King Knight Edition Diesel 1.5L Turbo Automatic (TC),king-knight-edition-diesel-1-5l-turbo-automatic-tc,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,King Knight Edition Petrol 1.5L CVT Speed Automatic (CVT),king-knight-edition-petrol-1-5l-cvt-speed-automatic-cvt,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,S (O) Diesel 1.5L Turbo Automatic (TC),s-o-diesel-1-5l-turbo-automatic-tc,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,S (O) Diesel 1.5L Turbo Manual,s-o-diesel-1-5l-turbo-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,S (O) Knight Diesel 1.5L Turbo Manual Knight Edition,s-o-knight-diesel-1-5l-turbo-manual-knight-edition,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,S (O) Knight Petrol 1.5L Manual Knight Edition,s-o-knight-petrol-1-5l-manual-knight-edition,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,S (O) Petrol 1.5L CVT Speed Automatic (CVT),s-o-petrol-1-5l-cvt-speed-automatic-cvt,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,S (O) Petrol 1.5L Manual,s-o-petrol-1-5l-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,S Diesel 1.5L Turbo Manual,s-diesel-1-5l-turbo-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,SX (O) Petrol 1.5L Manual,sx-o-petrol-1-5l-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,SX Petrol 1.5L Manual,sx-petrol-1-5l-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,SX Petrol 1.5L Manual Dual Tone,sx-petrol-1-5l-manual-dual-tone,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,SX Premium Diesel 1.5L Turbo Manual,sx-premium-diesel-1-5l-turbo-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,SX Premium Diesel 1.5L Turbo Manual Dual Tone,sx-premium-diesel-1-5l-turbo-manual-dual-tone,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,SX Premium Petrol 1.5L CVT Speed Automatic (CVT),sx-premium-petrol-1-5l-cvt-speed-automatic-cvt,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,SX Premium Petrol 1.5L CVT Speed Automatic (CVT) Dual Tone,sx-premium-petrol-1-5l-cvt-speed-automatic-cvt-dual-tone,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,SX Premium Petrol 1.5L Manual,sx-premium-petrol-1-5l-manual,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Creta,SX Premium Petrol 1.5L Manual Dual Tone,sx-premium-petrol-1-5l-manual-dual-tone,https://www.carwale.com/hyundai-cars/creta/,carwale_versions,https://www.carwale.com/hyundai-cars/creta/,2026-06-16 14:22:36
+Hyundai,Venue,HX 10 Diesel 1.5L Turbo Automatic (TC),hx-10-diesel-1-5l-turbo-automatic-tc,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 10 Diesel 1.5L Turbo Automatic (TC) Dual Tone,hx-10-diesel-1-5l-turbo-automatic-tc-dual-tone,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 10 Petrol 1.0L Turbo Automatic (DCT),hx-10-petrol-1-0l-turbo-automatic-dct,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 10 Petrol 1.0L Turbo Automatic (DCT) Dual Tone,hx-10-petrol-1-0l-turbo-automatic-dct-dual-tone,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 10 Petrol 1.0L Turbo Automatic (DCT) Dual Tone Knight Edition,hx-10-petrol-1-0l-turbo-automatic-dct-dual-tone-knight-edition,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 10 Petrol 1.0L Turbo Automatic (DCT) Knight Edition,hx-10-petrol-1-0l-turbo-automatic-dct-knight-edition,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 10 Petrol 1.0L Turbo Automatic (DCT) [2025-2026],hx-10-petrol-1-0l-turbo-automatic-dct-2025-2026,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 2 Diesel 1.5L Turbo 6 Speed Manual,hx-2-diesel-1-5l-turbo-6-speed-manual,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 2 Petrol 1.0L Turbo 6 Speed Manual,hx-2-petrol-1-0l-turbo-6-speed-manual,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 2 Petrol 1.2L 5 Speed Manual,hx-2-petrol-1-2l-5-speed-manual,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 4 Petrol 1.2L 5 Speed Manual,hx-4-petrol-1-2l-5-speed-manual,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 5 Diesel 1.5L Turbo 6 Speed Manual,hx-5-diesel-1-5l-turbo-6-speed-manual,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 5 Diesel 1.5L Turbo 6 Speed Manual Knight Edition,hx-5-diesel-1-5l-turbo-6-speed-manual-knight-edition,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 5 Diesel 1.5L Turbo Automatic (TC),hx-5-diesel-1-5l-turbo-automatic-tc,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 5 Petrol 1.0L Turbo 6 Speed Manual,hx-5-petrol-1-0l-turbo-6-speed-manual,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 5 Petrol 1.0L Turbo Automatic (DCT),hx-5-petrol-1-0l-turbo-automatic-dct,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 5 Petrol 1.2L 5 Speed Manual,hx-5-petrol-1-2l-5-speed-manual,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 5 Petrol 1.2L 5 Speed Manual Knight Edition,hx-5-petrol-1-2l-5-speed-manual-knight-edition,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 5 Plus Petrol 1.2L 5 Speed Manual,hx-5-plus-petrol-1-2l-5-speed-manual,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 5 Plus Petrol 1.2L 5 Speed Manual Dual Tone,hx-5-plus-petrol-1-2l-5-speed-manual-dual-tone,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 6 Petrol 1.0L Turbo Automatic (DCT),hx-6-petrol-1-0l-turbo-automatic-dct,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 6T Petrol 1.2L 5 Speed Manual,hx-6t-petrol-1-2l-5-speed-manual,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 6T Petrol 1.2L 5 Speed Manual Dual Tone,hx-6t-petrol-1-2l-5-speed-manual-dual-tone,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 6T Petrol 1.2L 5 Speed Manual Dual Tone Knight Edition,hx-6t-petrol-1-2l-5-speed-manual-dual-tone-knight-edition,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 6T Petrol 1.2L 5 Speed Manual Knight Edition,hx-6t-petrol-1-2l-5-speed-manual-knight-edition,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 6T Petrol 1.2L 5 Speed Manual [2025-2026],hx-6t-petrol-1-2l-5-speed-manual-2025-2026,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 7 Diesel 1.5L Turbo 6 Speed Manual,hx-7-diesel-1-5l-turbo-6-speed-manual,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 7 Diesel 1.5L Turbo 6 Speed Manual Dual Tone,hx-7-diesel-1-5l-turbo-6-speed-manual-dual-tone,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 8 Diesel 1.5L Turbo Automatic (TC),hx-8-diesel-1-5l-turbo-automatic-tc,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 8 Diesel 1.5L Turbo Automatic (TC) Dual Tone,hx-8-diesel-1-5l-turbo-automatic-tc-dual-tone,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 8 Diesel 1.5L Turbo Automatic (TC) Dual Tone Knight Edition,hx-8-diesel-1-5l-turbo-automatic-tc-dual-tone-knight-edition,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 8 Diesel 1.5L Turbo Automatic (TC) Knight Edition,hx-8-diesel-1-5l-turbo-automatic-tc-knight-edition,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 8 Petrol 1.0L Turbo 6 Speed Manual,hx-8-petrol-1-0l-turbo-6-speed-manual,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Venue,HX 8 Petrol 1.0L Turbo 6 Speed Manual Dual Tone,hx-8-petrol-1-0l-turbo-6-speed-manual-dual-tone,https://www.carwale.com/hyundai-cars/venue/,carwale_versions,https://www.carwale.com/hyundai-cars/venue/,2026-06-16 14:22:37
+Hyundai,Exter,HX 10 Petrol Automatic,hx-10-petrol-automatic,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 10 Petrol Automatic Dual Tone,hx-10-petrol-automatic-dual-tone,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 10 Petrol Automatic Matte,hx-10-petrol-automatic-matte,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 2 CNG Manual,hx-2-cng-manual,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 2 Petrol Manual,hx-2-petrol-manual,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 3 CNG Manual,hx-3-cng-manual,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 3 CNG Manual Matte,hx-3-cng-manual-matte,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 3 Petrol Automatic,hx-3-petrol-automatic,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 3 Petrol Automatic Matte,hx-3-petrol-automatic-matte,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 3 Petrol Manual,hx-3-petrol-manual,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 3 Petrol Manual Matte,hx-3-petrol-manual-matte,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 4 CNG Manual,hx-4-cng-manual,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 4 CNG Manual Matte,hx-4-cng-manual-matte,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 4 Petrol Manual,hx-4-petrol-manual,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 4 Petrol Manual Matte,hx-4-petrol-manual-matte,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 4 Plus Petrol Automatic,hx-4-plus-petrol-automatic,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 4 Plus Petrol Automatic Matte,hx-4-plus-petrol-automatic-matte,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 6 CNG Manual,hx-6-cng-manual,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 6 CNG Manual Dual Tone,hx-6-cng-manual-dual-tone,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 6 CNG Manual Matte,hx-6-cng-manual-matte,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 6 Petrol Automatic,hx-6-petrol-automatic,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 6 Petrol Automatic Dual Tone,hx-6-petrol-automatic-dual-tone,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 6 Petrol Automatic Matte,hx-6-petrol-automatic-matte,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 6 Petrol Manual,hx-6-petrol-manual,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 6 Petrol Manual Dual Tone,hx-6-petrol-manual-dual-tone,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 6 Petrol Manual Matte,hx-6-petrol-manual-matte,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 8 CNG Manual,hx-8-cng-manual,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 8 CNG Manual Matte,hx-8-cng-manual-matte,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 8 Petrol Automatic,hx-8-petrol-automatic,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 8 Petrol Automatic Matte,hx-8-petrol-automatic-matte,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 8 Petrol Manual,hx-8-petrol-manual,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,Exter,HX 8 Petrol Manual Matte,hx-8-petrol-manual-matte,https://www.carwale.com/hyundai-cars/exter/,carwale_versions,https://www.carwale.com/hyundai-cars/exter/,2026-06-16 14:22:38
+Hyundai,I20,Asta (O) 1.2 MT [2023-2025],asta-o-1-2-mt-2023-2025,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Asta (O) Knight Edition Petrol Automatic Dual Tone,asta-o-knight-edition-petrol-automatic-dual-tone,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Asta (O) Knight Petrol Automatic,asta-o-knight-petrol-automatic,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Asta (O) Petrol Automatic,asta-o-petrol-automatic,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Asta (O) Petrol Automatic Dual Tone,asta-o-petrol-automatic-dual-tone,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Asta (O) Petrol Manual,asta-o-petrol-manual,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Asta (O) Petrol Manual Dual Tone,asta-o-petrol-manual-dual-tone,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Asta 1.2 MT Dual Tone,asta-1-2-mt-dual-tone,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Asta 1.2 MT [2023-2025],asta-1-2-mt-2023-2025,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Asta Petrol Manual,asta-petrol-manual,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Era Petrol Manual,era-petrol-manual,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Magna 1.2 MT [2023-2025],magna-1-2-mt-2023-2025,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Magna Executive Petrol Manual,magna-executive-petrol-manual,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Magna Petrol Manual,magna-petrol-manual,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Sportz (O) Knight Petrol Manual,sportz-o-knight-petrol-manual,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Sportz (O) Petrol Automatic,sportz-o-petrol-automatic,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Sportz (O) Petrol Manual,sportz-o-petrol-manual,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Sportz Petrol Automatic,sportz-petrol-automatic,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,I20,Sportz Petrol Manual,sportz-petrol-manual,https://www.carwale.com/hyundai-cars/i20/,carwale_versions,https://www.carwale.com/hyundai-cars/i20/,2026-06-16 14:22:39
+Hyundai,Grand I10 Nios,Asta Petrol Automatic,asta-petrol-automatic,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Asta Petrol Manual,asta-petrol-manual,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Corporate Petrol Automatic,corporate-petrol-automatic,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Corporate Petrol Manual,corporate-petrol-manual,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Era Petrol Manual,era-petrol-manual,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Magna CNG Manual,magna-cng-manual,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Magna Petrol Manual,magna-petrol-manual,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Sportz (O) Petrol Automatic,sportz-o-petrol-automatic,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Sportz (O) Petrol Manual,sportz-o-petrol-manual,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Sportz (O) Vibe Petrol Automatic,sportz-o-vibe-petrol-automatic,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Sportz 1.2 Kappa VTVT Dual Tone [BS6],sportz-1-2-kappa-vtvt-dual-tone-bs6,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Sportz 1.2 Kappa VTVT [BS6],sportz-1-2-kappa-vtvt-bs6,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Sportz CNG Manual,sportz-cng-manual,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Sportz CNG Manual Duo,sportz-cng-manual-duo,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Sportz Petrol Automatic,sportz-petrol-automatic,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Sportz Petrol Manual,sportz-petrol-manual,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Sportz Vibe Petrol Automatic,sportz-vibe-petrol-automatic,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Grand I10 Nios,Sportz Vibe Petrol Manual,sportz-vibe-petrol-manual,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10-nios/,2026-06-16 14:22:40
+Hyundai,Verna,HX 10 Petrol 1.5L Automatic (CVT),hx-10-petrol-1-5l-automatic-cvt,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 10 Petrol 1.5L Automatic (CVT) Dual Tone,hx-10-petrol-1-5l-automatic-cvt-dual-tone,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 10 Petrol 1.5L Automatic (CVT) Matte,hx-10-petrol-1-5l-automatic-cvt-matte,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 10 Petrol 1.5L Turbo Automatic (DCT),hx-10-petrol-1-5l-turbo-automatic-dct,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 10 Petrol 1.5L Turbo Automatic (DCT) Dual Tone,hx-10-petrol-1-5l-turbo-automatic-dct-dual-tone,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 10 Petrol 1.5L Turbo Automatic (DCT) Matte,hx-10-petrol-1-5l-turbo-automatic-dct-matte,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 2 Petrol 1.5L Manual,hx-2-petrol-1-5l-manual,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 4 Petrol 1.5L Manual,hx-4-petrol-1-5l-manual,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 4 Petrol 1.5L Manual Matte,hx-4-petrol-1-5l-manual-matte,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 6 Petrol 1.5L Automatic (CVT),hx-6-petrol-1-5l-automatic-cvt,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 6 Petrol 1.5L Automatic (CVT) Dual Tone,hx-6-petrol-1-5l-automatic-cvt-dual-tone,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 6 Petrol 1.5L Automatic (CVT) Matte,hx-6-petrol-1-5l-automatic-cvt-matte,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 6 Petrol 1.5L Manual,hx-6-petrol-1-5l-manual,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 6 Petrol 1.5L Manual Dual Tone,hx-6-petrol-1-5l-manual-dual-tone,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 6 Petrol 1.5L Manual Matte,hx-6-petrol-1-5l-manual-matte,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 6 Plus Petrol 1.5L Automatic (CVT),hx-6-plus-petrol-1-5l-automatic-cvt,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 6 Plus Petrol 1.5L Automatic (CVT) Dual Tone,hx-6-plus-petrol-1-5l-automatic-cvt-dual-tone,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 6 Plus Petrol 1.5L Automatic (CVT) Matte,hx-6-plus-petrol-1-5l-automatic-cvt-matte,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 6 Plus Petrol 1.5L Manual,hx-6-plus-petrol-1-5l-manual,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 6 Plus Petrol 1.5L Manual Dual Tone,hx-6-plus-petrol-1-5l-manual-dual-tone,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 6 Plus Petrol 1.5L Manual Matte,hx-6-plus-petrol-1-5l-manual-matte,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 8 Petrol 1.5L Automatic (CVT),hx-8-petrol-1-5l-automatic-cvt,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 8 Petrol 1.5L Automatic (CVT) Dual Tone,hx-8-petrol-1-5l-automatic-cvt-dual-tone,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 8 Petrol 1.5L Automatic (CVT) Matte,hx-8-petrol-1-5l-automatic-cvt-matte,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 8 Petrol 1.5L Manual,hx-8-petrol-1-5l-manual,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 8 Petrol 1.5L Manual Dual Tone,hx-8-petrol-1-5l-manual-dual-tone,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 8 Petrol 1.5L Manual Matte,hx-8-petrol-1-5l-manual-matte,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 8 Petrol 1.5L Turbo Automatic (DCT),hx-8-petrol-1-5l-turbo-automatic-dct,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 8 Petrol 1.5L Turbo Automatic (DCT) Dual Tone,hx-8-petrol-1-5l-turbo-automatic-dct-dual-tone,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 8 Petrol 1.5L Turbo Automatic (DCT) Matte,hx-8-petrol-1-5l-turbo-automatic-dct-matte,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 8 Petrol 1.5L Turbo Manual,hx-8-petrol-1-5l-turbo-manual,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 8 Petrol 1.5L Turbo Manual Dual Tone,hx-8-petrol-1-5l-turbo-manual-dual-tone,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Verna,HX 8 Petrol 1.5L Turbo Manual Matte,hx-8-petrol-1-5l-turbo-manual-matte,https://www.carwale.com/hyundai-cars/verna/,carwale_versions,https://www.carwale.com/hyundai-cars/verna/,2026-06-16 14:22:41
+Hyundai,Aura,Corporate CNG Manual,corporate-cng-manual,https://www.carwale.com/hyundai-cars/aura/,carwale_versions,https://www.carwale.com/hyundai-cars/aura/,2026-06-16 14:22:41
+Hyundai,Aura,Corporate Petrol Manual,corporate-petrol-manual,https://www.carwale.com/hyundai-cars/aura/,carwale_versions,https://www.carwale.com/hyundai-cars/aura/,2026-06-16 14:22:41
+Hyundai,Aura,E 1.2 Petrol [2023-2023],e-1-2-petrol-2023-2023,https://www.carwale.com/hyundai-cars/aura/,carwale_versions,https://www.carwale.com/hyundai-cars/aura/,2026-06-16 14:22:41
+Hyundai,Aura,E Petrol Manual,e-petrol-manual,https://www.carwale.com/hyundai-cars/aura/,carwale_versions,https://www.carwale.com/hyundai-cars/aura/,2026-06-16 14:22:41
+Hyundai,Aura,S CNG Manual,s-cng-manual,https://www.carwale.com/hyundai-cars/aura/,carwale_versions,https://www.carwale.com/hyundai-cars/aura/,2026-06-16 14:22:41
+Hyundai,Aura,S Petrol Automatic,s-petrol-automatic,https://www.carwale.com/hyundai-cars/aura/,carwale_versions,https://www.carwale.com/hyundai-cars/aura/,2026-06-16 14:22:41
+Hyundai,Aura,S Petrol Manual,s-petrol-manual,https://www.carwale.com/hyundai-cars/aura/,carwale_versions,https://www.carwale.com/hyundai-cars/aura/,2026-06-16 14:22:41
+Hyundai,Aura,SX (O) Petrol Manual,sx-o-petrol-manual,https://www.carwale.com/hyundai-cars/aura/,carwale_versions,https://www.carwale.com/hyundai-cars/aura/,2026-06-16 14:22:41
+Hyundai,Aura,SX 1.2 CNG [2023-2025],sx-1-2-cng-2023-2025,https://www.carwale.com/hyundai-cars/aura/,carwale_versions,https://www.carwale.com/hyundai-cars/aura/,2026-06-16 14:22:41
+Hyundai,Aura,SX 1.2 Petrol [2023-2025],sx-1-2-petrol-2023-2025,https://www.carwale.com/hyundai-cars/aura/,carwale_versions,https://www.carwale.com/hyundai-cars/aura/,2026-06-16 14:22:41
+Hyundai,Aura,SX CNG Manual,sx-cng-manual,https://www.carwale.com/hyundai-cars/aura/,carwale_versions,https://www.carwale.com/hyundai-cars/aura/,2026-06-16 14:22:41
+Hyundai,Aura,SX Petrol Manual,sx-petrol-manual,https://www.carwale.com/hyundai-cars/aura/,carwale_versions,https://www.carwale.com/hyundai-cars/aura/,2026-06-16 14:22:41
+Hyundai,Aura,SX Plus Petrol Automatic,sx-plus-petrol-automatic,https://www.carwale.com/hyundai-cars/aura/,carwale_versions,https://www.carwale.com/hyundai-cars/aura/,2026-06-16 14:22:41
+Hyundai,Creta Electric,Excellence 42.0 kWh,excellence-42-0-kwh,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Excellence 42.0 kWh Dual Tone,excellence-42-0-kwh-dual-tone,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Excellence 51.4 kWh Dual Tone,excellence-51-4-kwh-dual-tone,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Excellence Knight Edition 42.0 kWh,excellence-knight-edition-42-0-kwh,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Excellence Knight Edition 42.0 kWh (HC),excellence-knight-edition-42-0-kwh-hc,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Excellence Knight Edition 42.0 kWh Dual Tone,excellence-knight-edition-42-0-kwh-dual-tone,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Excellence Knight Edition 42.0 kWh Dual Tone (HC),excellence-knight-edition-42-0-kwh-dual-tone-hc,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Excellence LR 51.4 kWh,excellence-lr-51-4-kwh,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Excellence LR 51.4 kWh (HC),excellence-lr-51-4-kwh-hc,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Excellence LR 51.4 kWh Dual Tone,excellence-lr-51-4-kwh-dual-tone,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Excellence LR 51.4 kWh Dual Tone (HC),excellence-lr-51-4-kwh-dual-tone-hc,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Excellence LR 51.4 kWh Dual Tone (HC) Knight Edition,excellence-lr-51-4-kwh-dual-tone-hc-knight-edition,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Excellence LR 51.4 kWh Dual Tone Knight Edition,excellence-lr-51-4-kwh-dual-tone-knight-edition,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Excellence LR Knight Edition 51.4 kWh,excellence-lr-knight-edition-51-4-kwh,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Excellence LR Knight Edition 51.4 kWh (HC),excellence-lr-knight-edition-51-4-kwh-hc,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Executive (O) LR 51.4 kWh,executive-o-lr-51-4-kwh,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Executive 42.0 kWh,executive-42-0-kwh,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Executive Tech 42.0 kWh,executive-tech-42-0-kwh,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Premium 42.0 kWh,premium-42-0-kwh,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Premium 42.0 kWh (HC),premium-42-0-kwh-hc,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Premium 42.0 kWh Dual Tone,premium-42-0-kwh-dual-tone,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Premium 42.0 kWh Dual Tone (HC),premium-42-0-kwh-dual-tone-hc,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Smart (O) LR 51.4 kWh,smart-o-lr-51-4-kwh,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Creta Electric,Smart (O) LR 51.4 kWh (HC),smart-o-lr-51-4-kwh-hc,https://www.carwale.com/hyundai-cars/creta-electric/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-electric/,2026-06-16 14:22:42
+Hyundai,Alcazar,Corporate Diesel 1.5L Turbo 6 Speed Manual 7 STR,corporate-diesel-1-5l-turbo-6-speed-manual-7-str,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Corporate Diesel 1.5L Turbo Automatic (TC) 7 STR,corporate-diesel-1-5l-turbo-automatic-tc-7-str,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Executive Diesel 1.5L Turbo 6 Speed Manual 7 STR,executive-diesel-1-5l-turbo-6-speed-manual-7-str,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Executive Petrol 1.5L Turbo 6 Speed Manual 7 STR,executive-petrol-1-5l-turbo-6-speed-manual-7-str,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Platinum Diesel 1.5L Turbo 6 Speed Manual 7 STR,platinum-diesel-1-5l-turbo-6-speed-manual-7-str,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Platinum Petrol 1.5L Turbo 6 Speed Manual 7 STR,platinum-petrol-1-5l-turbo-6-speed-manual-7-str,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Prestige Petrol 1.5L Turbo 6 Speed Manual 7 STR,prestige-petrol-1-5l-turbo-6-speed-manual-7-str,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Prestige Petrol 1.5L Turbo Automatic (DCT) 7 STR,prestige-petrol-1-5l-turbo-automatic-dct-7-str,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Signature Diesel 1.5L Turbo Automatic (TC) 6 STR,signature-diesel-1-5l-turbo-automatic-tc-6-str,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Signature Diesel 1.5L Turbo Automatic (TC) 6 STR Dual Tone,signature-diesel-1-5l-turbo-automatic-tc-6-str-dual-tone,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Signature Diesel 1.5L Turbo Automatic (TC) 7 STR,signature-diesel-1-5l-turbo-automatic-tc-7-str,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Signature Diesel 1.5L Turbo Automatic (TC) 7 STR Dual Tone,signature-diesel-1-5l-turbo-automatic-tc-7-str-dual-tone,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Signature Knight Diesel 1.5L Turbo Automatic (TC) 7 STR,signature-knight-diesel-1-5l-turbo-automatic-tc-7-str,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Signature Knight Petrol 1.5L Turbo Automatic (DCT) 7 STR,signature-knight-petrol-1-5l-turbo-automatic-dct-7-str,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Signature Matte 1.5 Petrol DCT 7STR Dual Tone,signature-matte-1-5-petrol-dct-7str-dual-tone,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Signature Petrol 1.5L Turbo Automatic (DCT) 6 STR,signature-petrol-1-5l-turbo-automatic-dct-6-str,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Signature Petrol 1.5L Turbo Automatic (DCT) 6 STR Dual Tone,signature-petrol-1-5l-turbo-automatic-dct-6-str-dual-tone,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Signature Petrol 1.5L Turbo Automatic (DCT) 7 STR,signature-petrol-1-5l-turbo-automatic-dct-7-str,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Alcazar,Signature Petrol 1.5L Turbo Automatic (DCT) 7 STR Dual Tone,signature-petrol-1-5l-turbo-automatic-dct-7-str-dual-tone,https://www.carwale.com/hyundai-cars/alcazar/,carwale_versions,https://www.carwale.com/hyundai-cars/alcazar/,2026-06-16 14:22:43
+Hyundai,Venue N Line,N10 Petrol Turbo Automatic,n10-petrol-turbo-automatic,https://www.carwale.com/hyundai-cars/venue-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/venue-n-line/,2026-06-16 14:22:43
+Hyundai,Venue N Line,N10 Petrol Turbo Automatic Dual Tone,n10-petrol-turbo-automatic-dual-tone,https://www.carwale.com/hyundai-cars/venue-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/venue-n-line/,2026-06-16 14:22:43
+Hyundai,Venue N Line,N6 Petrol Turbo Automatic,n6-petrol-turbo-automatic,https://www.carwale.com/hyundai-cars/venue-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/venue-n-line/,2026-06-16 14:22:43
+Hyundai,Venue N Line,N6 Petrol Turbo Automatic Dual Tone,n6-petrol-turbo-automatic-dual-tone,https://www.carwale.com/hyundai-cars/venue-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/venue-n-line/,2026-06-16 14:22:43
+Hyundai,Venue N Line,N6 Petrol Turbo Manual,n6-petrol-turbo-manual,https://www.carwale.com/hyundai-cars/venue-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/venue-n-line/,2026-06-16 14:22:43
+Hyundai,Venue N Line,N6 Petrol Turbo Manual Dual Tone,n6-petrol-turbo-manual-dual-tone,https://www.carwale.com/hyundai-cars/venue-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/venue-n-line/,2026-06-16 14:22:43
+Hyundai,I20 N Line,N6 Petrol Turbo Automatic,n6-petrol-turbo-automatic,https://www.carwale.com/hyundai-cars/i20-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/i20-n-line/,2026-06-16 14:22:44
+Hyundai,I20 N Line,N6 Petrol Turbo Manual,n6-petrol-turbo-manual,https://www.carwale.com/hyundai-cars/i20-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/i20-n-line/,2026-06-16 14:22:44
+Hyundai,I20 N Line,N8 1.0 Turbo DCT [2023-2025],n8-1-0-turbo-dct-2023-2025,https://www.carwale.com/hyundai-cars/i20-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/i20-n-line/,2026-06-16 14:22:44
+Hyundai,I20 N Line,N8 Petrol Turbo Automatic,n8-petrol-turbo-automatic,https://www.carwale.com/hyundai-cars/i20-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/i20-n-line/,2026-06-16 14:22:44
+Hyundai,I20 N Line,N8 Petrol Turbo Automatic Dual Tone,n8-petrol-turbo-automatic-dual-tone,https://www.carwale.com/hyundai-cars/i20-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/i20-n-line/,2026-06-16 14:22:44
+Hyundai,I20 N Line,N8 Petrol Turbo Manual,n8-petrol-turbo-manual,https://www.carwale.com/hyundai-cars/i20-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/i20-n-line/,2026-06-16 14:22:44
+Hyundai,I20 N Line,N8 Petrol Turbo Manual Dual Tone,n8-petrol-turbo-manual-dual-tone,https://www.carwale.com/hyundai-cars/i20-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/i20-n-line/,2026-06-16 14:22:44
+Hyundai,Creta N Line,N10 1.5 Turbo DCT Titan Grey Matte,n10-1-5-turbo-dct-titan-grey-matte,https://www.carwale.com/hyundai-cars/creta-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-n-line/,2026-06-16 14:22:45
+Hyundai,Creta N Line,N10 Petrol Turbo Automatic,n10-petrol-turbo-automatic,https://www.carwale.com/hyundai-cars/creta-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-n-line/,2026-06-16 14:22:45
+Hyundai,Creta N Line,N10 Petrol Turbo Automatic Dual Tone,n10-petrol-turbo-automatic-dual-tone,https://www.carwale.com/hyundai-cars/creta-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-n-line/,2026-06-16 14:22:45
+Hyundai,Creta N Line,N10 Petrol Turbo Manual,n10-petrol-turbo-manual,https://www.carwale.com/hyundai-cars/creta-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-n-line/,2026-06-16 14:22:45
+Hyundai,Creta N Line,N10 Petrol Turbo Manual Dual Tone,n10-petrol-turbo-manual-dual-tone,https://www.carwale.com/hyundai-cars/creta-n-line/,carwale_versions,https://www.carwale.com/hyundai-cars/creta-n-line/,2026-06-16 14:22:45
+Hyundai,Ioniq 5,RWD 84.0 kWh,rwd-84-0-kwh,https://www.carwale.com/hyundai-cars/ioniq-5/,carwale_versions,https://www.carwale.com/hyundai-cars/ioniq-5/,2026-06-16 14:22:46
+Hyundai,Mid Size Suv,Creta,creta,https://www.carwale.com/hyundai-cars/mid-size-suv/,carwale_versions,https://www.carwale.com/hyundai-cars/mid-size-suv/,2026-06-16 14:22:46
+Hyundai,Mid Size Suv,Exter,exter,https://www.carwale.com/hyundai-cars/mid-size-suv/,carwale_versions,https://www.carwale.com/hyundai-cars/mid-size-suv/,2026-06-16 14:22:46
+Hyundai,Mid Size Suv,Grand i10 Nios,grand-i10-nios,https://www.carwale.com/hyundai-cars/mid-size-suv/,carwale_versions,https://www.carwale.com/hyundai-cars/mid-size-suv/,2026-06-16 14:22:46
+Hyundai,Mid Size Suv,Venue,venue,https://www.carwale.com/hyundai-cars/mid-size-suv/,carwale_versions,https://www.carwale.com/hyundai-cars/mid-size-suv/,2026-06-16 14:22:46
+Hyundai,Mid Size Suv,i20,i20,https://www.carwale.com/hyundai-cars/mid-size-suv/,carwale_versions,https://www.carwale.com/hyundai-cars/mid-size-suv/,2026-06-16 14:22:46
+Hyundai,Bayon,Creta,creta,https://www.carwale.com/hyundai-cars/bayon/,carwale_versions,https://www.carwale.com/hyundai-cars/bayon/,2026-06-16 14:22:47
+Hyundai,Bayon,Exter,exter,https://www.carwale.com/hyundai-cars/bayon/,carwale_versions,https://www.carwale.com/hyundai-cars/bayon/,2026-06-16 14:22:47
+Hyundai,Bayon,Grand i10 Nios,grand-i10-nios,https://www.carwale.com/hyundai-cars/bayon/,carwale_versions,https://www.carwale.com/hyundai-cars/bayon/,2026-06-16 14:22:47
+Hyundai,Bayon,Venue,venue,https://www.carwale.com/hyundai-cars/bayon/,carwale_versions,https://www.carwale.com/hyundai-cars/bayon/,2026-06-16 14:22:47
+Hyundai,Bayon,i20,i20,https://www.carwale.com/hyundai-cars/bayon/,carwale_versions,https://www.carwale.com/hyundai-cars/bayon/,2026-06-16 14:22:47
+Hyundai,Ioniq 6,Creta,creta,https://www.carwale.com/hyundai-cars/ioniq-6/,carwale_versions,https://www.carwale.com/hyundai-cars/ioniq-6/,2026-06-16 14:22:47
+Hyundai,Ioniq 6,Exter,exter,https://www.carwale.com/hyundai-cars/ioniq-6/,carwale_versions,https://www.carwale.com/hyundai-cars/ioniq-6/,2026-06-16 14:22:47
+Hyundai,Ioniq 6,Grand i10 Nios,grand-i10-nios,https://www.carwale.com/hyundai-cars/ioniq-6/,carwale_versions,https://www.carwale.com/hyundai-cars/ioniq-6/,2026-06-16 14:22:47
+Hyundai,Ioniq 6,Venue,venue,https://www.carwale.com/hyundai-cars/ioniq-6/,carwale_versions,https://www.carwale.com/hyundai-cars/ioniq-6/,2026-06-16 14:22:47
+Hyundai,Ioniq 6,i20,i20,https://www.carwale.com/hyundai-cars/ioniq-6/,carwale_versions,https://www.carwale.com/hyundai-cars/ioniq-6/,2026-06-16 14:22:47
+Hyundai,Sub Compact Ev Suv,Creta,creta,https://www.carwale.com/hyundai-cars/sub-compact-ev-suv/,carwale_versions,https://www.carwale.com/hyundai-cars/sub-compact-ev-suv/,2026-06-16 14:22:48
+Hyundai,Sub Compact Ev Suv,Exter,exter,https://www.carwale.com/hyundai-cars/sub-compact-ev-suv/,carwale_versions,https://www.carwale.com/hyundai-cars/sub-compact-ev-suv/,2026-06-16 14:22:48
+Hyundai,Sub Compact Ev Suv,Grand i10 Nios,grand-i10-nios,https://www.carwale.com/hyundai-cars/sub-compact-ev-suv/,carwale_versions,https://www.carwale.com/hyundai-cars/sub-compact-ev-suv/,2026-06-16 14:22:48
+Hyundai,Sub Compact Ev Suv,Venue,venue,https://www.carwale.com/hyundai-cars/sub-compact-ev-suv/,carwale_versions,https://www.carwale.com/hyundai-cars/sub-compact-ev-suv/,2026-06-16 14:22:48
+Hyundai,Sub Compact Ev Suv,i20,i20,https://www.carwale.com/hyundai-cars/sub-compact-ev-suv/,carwale_versions,https://www.carwale.com/hyundai-cars/sub-compact-ev-suv/,2026-06-16 14:22:48
+Hyundai,New I20,1.2 Petrol Automatic,1-2-petrol-automatic,https://www.carwale.com/hyundai-cars/new-i20/,carwale_versions,https://www.carwale.com/hyundai-cars/new-i20/,2026-06-16 14:22:49
+Hyundai,New I20,1.2 Petrol Manual,1-2-petrol-manual,https://www.carwale.com/hyundai-cars/new-i20/,carwale_versions,https://www.carwale.com/hyundai-cars/new-i20/,2026-06-16 14:22:49
+Hyundai,New I20,Creta,creta,https://www.carwale.com/hyundai-cars/new-i20/,carwale_versions,https://www.carwale.com/hyundai-cars/new-i20/,2026-06-16 14:22:49
+Hyundai,New I20,Exter,exter,https://www.carwale.com/hyundai-cars/new-i20/,carwale_versions,https://www.carwale.com/hyundai-cars/new-i20/,2026-06-16 14:22:49
+Hyundai,New I20,Grand i10 Nios,grand-i10-nios,https://www.carwale.com/hyundai-cars/new-i20/,carwale_versions,https://www.carwale.com/hyundai-cars/new-i20/,2026-06-16 14:22:49
+Hyundai,New I20,Venue,venue,https://www.carwale.com/hyundai-cars/new-i20/,carwale_versions,https://www.carwale.com/hyundai-cars/new-i20/,2026-06-16 14:22:49
+Hyundai,New I20,i20,i20,https://www.carwale.com/hyundai-cars/new-i20/,carwale_versions,https://www.carwale.com/hyundai-cars/new-i20/,2026-06-16 14:22:49
+Hyundai,Ioniq 9,AWD,awd,https://www.carwale.com/hyundai-cars/ioniq-9/,carwale_versions,https://www.carwale.com/hyundai-cars/ioniq-9/,2026-06-16 14:22:49
+Hyundai,Ioniq 9,Creta,creta,https://www.carwale.com/hyundai-cars/ioniq-9/,carwale_versions,https://www.carwale.com/hyundai-cars/ioniq-9/,2026-06-16 14:22:49
+Hyundai,Ioniq 9,Exter,exter,https://www.carwale.com/hyundai-cars/ioniq-9/,carwale_versions,https://www.carwale.com/hyundai-cars/ioniq-9/,2026-06-16 14:22:49
+Hyundai,Ioniq 9,Grand i10 Nios,grand-i10-nios,https://www.carwale.com/hyundai-cars/ioniq-9/,carwale_versions,https://www.carwale.com/hyundai-cars/ioniq-9/,2026-06-16 14:22:49
+Hyundai,Ioniq 9,RWD,rwd,https://www.carwale.com/hyundai-cars/ioniq-9/,carwale_versions,https://www.carwale.com/hyundai-cars/ioniq-9/,2026-06-16 14:22:49
+Hyundai,Ioniq 9,Venue,venue,https://www.carwale.com/hyundai-cars/ioniq-9/,carwale_versions,https://www.carwale.com/hyundai-cars/ioniq-9/,2026-06-16 14:22:49
+Hyundai,Ioniq 9,i20,i20,https://www.carwale.com/hyundai-cars/ioniq-9/,carwale_versions,https://www.carwale.com/hyundai-cars/ioniq-9/,2026-06-16 14:22:49
+Hyundai,Palisade,Creta,creta,https://www.carwale.com/hyundai-cars/palisade/,carwale_versions,https://www.carwale.com/hyundai-cars/palisade/,2026-06-16 14:22:50
+Hyundai,Palisade,Exter,exter,https://www.carwale.com/hyundai-cars/palisade/,carwale_versions,https://www.carwale.com/hyundai-cars/palisade/,2026-06-16 14:22:50
+Hyundai,Palisade,Grand i10 Nios,grand-i10-nios,https://www.carwale.com/hyundai-cars/palisade/,carwale_versions,https://www.carwale.com/hyundai-cars/palisade/,2026-06-16 14:22:50
+Hyundai,Palisade,Venue,venue,https://www.carwale.com/hyundai-cars/palisade/,carwale_versions,https://www.carwale.com/hyundai-cars/palisade/,2026-06-16 14:22:50
+Hyundai,Palisade,i20,i20,https://www.carwale.com/hyundai-cars/palisade/,carwale_versions,https://www.carwale.com/hyundai-cars/palisade/,2026-06-16 14:22:50
+Hyundai,New Santa Fe,Creta,creta,https://www.carwale.com/hyundai-cars/new-santa-fe/,carwale_versions,https://www.carwale.com/hyundai-cars/new-santa-fe/,2026-06-16 14:22:51
+Hyundai,New Santa Fe,Exter,exter,https://www.carwale.com/hyundai-cars/new-santa-fe/,carwale_versions,https://www.carwale.com/hyundai-cars/new-santa-fe/,2026-06-16 14:22:51
+Hyundai,New Santa Fe,Grand i10 Nios,grand-i10-nios,https://www.carwale.com/hyundai-cars/new-santa-fe/,carwale_versions,https://www.carwale.com/hyundai-cars/new-santa-fe/,2026-06-16 14:22:51
+Hyundai,New Santa Fe,Venue,venue,https://www.carwale.com/hyundai-cars/new-santa-fe/,carwale_versions,https://www.carwale.com/hyundai-cars/new-santa-fe/,2026-06-16 14:22:51
+Hyundai,New Santa Fe,i20,i20,https://www.carwale.com/hyundai-cars/new-santa-fe/,carwale_versions,https://www.carwale.com/hyundai-cars/new-santa-fe/,2026-06-16 14:22:51
+Hyundai,Stargazer,1.5 CVT,1-5-cvt,https://www.carwale.com/hyundai-cars/stargazer/,carwale_versions,https://www.carwale.com/hyundai-cars/stargazer/,2026-06-16 14:22:51
+Hyundai,Stargazer,1.5 MT,1-5-mt,https://www.carwale.com/hyundai-cars/stargazer/,carwale_versions,https://www.carwale.com/hyundai-cars/stargazer/,2026-06-16 14:22:51
+Hyundai,Stargazer,Creta,creta,https://www.carwale.com/hyundai-cars/stargazer/,carwale_versions,https://www.carwale.com/hyundai-cars/stargazer/,2026-06-16 14:22:51
+Hyundai,Stargazer,Exter,exter,https://www.carwale.com/hyundai-cars/stargazer/,carwale_versions,https://www.carwale.com/hyundai-cars/stargazer/,2026-06-16 14:22:51
+Hyundai,Stargazer,Grand i10 Nios,grand-i10-nios,https://www.carwale.com/hyundai-cars/stargazer/,carwale_versions,https://www.carwale.com/hyundai-cars/stargazer/,2026-06-16 14:22:51
+Hyundai,Stargazer,Venue,venue,https://www.carwale.com/hyundai-cars/stargazer/,carwale_versions,https://www.carwale.com/hyundai-cars/stargazer/,2026-06-16 14:22:51
+Hyundai,Stargazer,i20,i20,https://www.carwale.com/hyundai-cars/stargazer/,carwale_versions,https://www.carwale.com/hyundai-cars/stargazer/,2026-06-16 14:22:51
+Hyundai,Staria,Creta,creta,https://www.carwale.com/hyundai-cars/staria/,carwale_versions,https://www.carwale.com/hyundai-cars/staria/,2026-06-16 14:22:52
+Hyundai,Staria,Exter,exter,https://www.carwale.com/hyundai-cars/staria/,carwale_versions,https://www.carwale.com/hyundai-cars/staria/,2026-06-16 14:22:52
+Hyundai,Staria,Grand i10 Nios,grand-i10-nios,https://www.carwale.com/hyundai-cars/staria/,carwale_versions,https://www.carwale.com/hyundai-cars/staria/,2026-06-16 14:22:52
+Hyundai,Staria,Venue,venue,https://www.carwale.com/hyundai-cars/staria/,carwale_versions,https://www.carwale.com/hyundai-cars/staria/,2026-06-16 14:22:52
+Hyundai,Staria,i20,i20,https://www.carwale.com/hyundai-cars/staria/,carwale_versions,https://www.carwale.com/hyundai-cars/staria/,2026-06-16 14:22:52
+Hyundai,Boulder,Creta,creta,https://www.carwale.com/hyundai-cars/boulder/,carwale_versions,https://www.carwale.com/hyundai-cars/boulder/,2026-06-16 14:22:53
+Hyundai,Boulder,Exter,exter,https://www.carwale.com/hyundai-cars/boulder/,carwale_versions,https://www.carwale.com/hyundai-cars/boulder/,2026-06-16 14:22:53
+Hyundai,Boulder,Grand i10 Nios,grand-i10-nios,https://www.carwale.com/hyundai-cars/boulder/,carwale_versions,https://www.carwale.com/hyundai-cars/boulder/,2026-06-16 14:22:53
+Hyundai,Boulder,Venue,venue,https://www.carwale.com/hyundai-cars/boulder/,carwale_versions,https://www.carwale.com/hyundai-cars/boulder/,2026-06-16 14:22:53
+Hyundai,Boulder,i20,i20,https://www.carwale.com/hyundai-cars/boulder/,carwale_versions,https://www.carwale.com/hyundai-cars/boulder/,2026-06-16 14:22:53
+Hyundai,Tucson,Platinum 2.0 AT Diesel,platinum-2-0-at-diesel,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Platinum 2.0 AT Diesel Dual Tone,platinum-2-0-at-diesel-dual-tone,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Platinum 2.0 AT Diesel [2022-2023],platinum-2-0-at-diesel-2022-2023,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Platinum 2.0 AT Petrol,platinum-2-0-at-petrol,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Platinum 2.0 AT Petrol Dual Tone,platinum-2-0-at-petrol-dual-tone,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Platinum 2.0 AT Petrol [2022-2023],platinum-2-0-at-petrol-2022-2023,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Signature 2.0 4WD AT Diesel,signature-2-0-4wd-at-diesel,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Signature 2.0 4WD AT Diesel Dual Tone,signature-2-0-4wd-at-diesel-dual-tone,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Signature 2.0 4WD AT Diesel Dual Tone [2022-2023],signature-2-0-4wd-at-diesel-dual-tone-2022-2023,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Signature 2.0 4WD AT Diesel [2022-2023],signature-2-0-4wd-at-diesel-2022-2023,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Signature 2.0 AT Diesel,signature-2-0-at-diesel,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Signature 2.0 AT Diesel Dual Tone,signature-2-0-at-diesel-dual-tone,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Signature 2.0 AT Diesel Dual Tone [2022-2023],signature-2-0-at-diesel-dual-tone-2022-2023,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Signature 2.0 AT Diesel [2022-2023],signature-2-0-at-diesel-2022-2023,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Signature 2.0 AT Petrol,signature-2-0-at-petrol,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Signature 2.0 AT Petrol Dual Tone,signature-2-0-at-petrol-dual-tone,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Signature 2.0 AT Petrol Dual Tone [2022-2023],signature-2-0-at-petrol-dual-tone-2022-2023,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Tucson,Signature 2.0 AT Petrol [2022-2023],signature-2-0-at-petrol-2022-2023,https://www.carwale.com/hyundai-cars/tucson/,carwale_versions,https://www.carwale.com/hyundai-cars/tucson/,2026-06-16 14:22:54
+Hyundai,Accent,CNG,cng,https://www.carwale.com/hyundai-cars/accent/,carwale_versions,https://www.carwale.com/hyundai-cars/accent/,2026-06-16 14:22:54
+Hyundai,Accent,Executive,executive,https://www.carwale.com/hyundai-cars/accent/,carwale_versions,https://www.carwale.com/hyundai-cars/accent/,2026-06-16 14:22:54
+Hyundai,Accent,Executive Edition,executive-edition,https://www.carwale.com/hyundai-cars/accent/,carwale_versions,https://www.carwale.com/hyundai-cars/accent/,2026-06-16 14:22:54
+Hyundai,Accent,Executive LPG,executive-lpg,https://www.carwale.com/hyundai-cars/accent/,carwale_versions,https://www.carwale.com/hyundai-cars/accent/,2026-06-16 14:22:54
+Hyundai,Elantra,2.0 S MT,2-0-s-mt,https://www.carwale.com/hyundai-cars/elantra/,carwale_versions,https://www.carwale.com/hyundai-cars/elantra/,2026-06-16 14:22:55
+Hyundai,Elantra,SX (O) 1.5 AT,sx-o-1-5-at,https://www.carwale.com/hyundai-cars/elantra/,carwale_versions,https://www.carwale.com/hyundai-cars/elantra/,2026-06-16 14:22:55
+Hyundai,Elantra,SX (O) 2.0 AT,sx-o-2-0-at,https://www.carwale.com/hyundai-cars/elantra/,carwale_versions,https://www.carwale.com/hyundai-cars/elantra/,2026-06-16 14:22:55
+Hyundai,Elantra,SX 1.5 MT,sx-1-5-mt,https://www.carwale.com/hyundai-cars/elantra/,carwale_versions,https://www.carwale.com/hyundai-cars/elantra/,2026-06-16 14:22:55
+Hyundai,Elantra,SX 2.0 AT,sx-2-0-at,https://www.carwale.com/hyundai-cars/elantra/,carwale_versions,https://www.carwale.com/hyundai-cars/elantra/,2026-06-16 14:22:55
+Hyundai,Elantra,SX 2.0 MT,sx-2-0-mt,https://www.carwale.com/hyundai-cars/elantra/,carwale_versions,https://www.carwale.com/hyundai-cars/elantra/,2026-06-16 14:22:55
+Hyundai,Getzprime20072010,1.1 GLE,1-1-gle,https://www.carwale.com/hyundai-cars/getzprime20072010/,carwale_versions,https://www.carwale.com/hyundai-cars/getzprime20072010/,2026-06-16 14:22:56
+Hyundai,Getzprime20072010,1.1 GVS,1-1-gvs,https://www.carwale.com/hyundai-cars/getzprime20072010/,carwale_versions,https://www.carwale.com/hyundai-cars/getzprime20072010/,2026-06-16 14:22:56
+Hyundai,Getzprime20072010,1.1 GVS Option,1-1-gvs-option,https://www.carwale.com/hyundai-cars/getzprime20072010/,carwale_versions,https://www.carwale.com/hyundai-cars/getzprime20072010/,2026-06-16 14:22:56
+Hyundai,Getzprime20072010,1.3 GLS,1-3-gls,https://www.carwale.com/hyundai-cars/getzprime20072010/,carwale_versions,https://www.carwale.com/hyundai-cars/getzprime20072010/,2026-06-16 14:22:56
+Hyundai,Getzprime20072010,1.3 GLX,1-3-glx,https://www.carwale.com/hyundai-cars/getzprime20072010/,carwale_versions,https://www.carwale.com/hyundai-cars/getzprime20072010/,2026-06-16 14:22:56
+Hyundai,Getzprime20072010,1.3 GVS,1-3-gvs,https://www.carwale.com/hyundai-cars/getzprime20072010/,carwale_versions,https://www.carwale.com/hyundai-cars/getzprime20072010/,2026-06-16 14:22:56
+Hyundai,Getzprime20072010,1.5 GVS CRDi,1-5-gvs-crdi,https://www.carwale.com/hyundai-cars/getzprime20072010/,carwale_versions,https://www.carwale.com/hyundai-cars/getzprime20072010/,2026-06-16 14:22:56
+Hyundai,Santro,Asta,asta,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Asta AMT,asta-amt,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Asta [2018-2020],asta-2018-2020,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Dlite,dlite,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Era,era,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Era Executive,era-executive,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Era Executive [2019-2020],era-executive-2019-2020,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Magna,magna,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Magna AMT,magna-amt,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Magna AMT Corporate Edition,magna-amt-corporate-edition,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Magna AMT [2018-2020],magna-amt-2018-2020,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Magna CNG,magna-cng,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Magna CNG [2018-2020],magna-cng-2018-2020,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Magna Corporate Edition,magna-corporate-edition,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Magna [2018-2020],magna-2018-2020,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Sportz,sportz,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Sportz AMT,sportz-amt,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Sportz AMT SE,sportz-amt-se,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Sportz AMT SE [2019-2020],sportz-amt-se-2019-2020,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Sportz AMT [2018-2020],sportz-amt-2018-2020,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Sportz CNG,sportz-cng,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Sportz CNG [2018-2020],sportz-cng-2018-2020,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Sportz SE,sportz-se,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Sportz SE [2019-2020],sportz-se-2019-2020,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Santro,Sportz [2018-2020],sportz-2018-2020,https://www.carwale.com/hyundai-cars/santro/,carwale_versions,https://www.carwale.com/hyundai-cars/santro/,2026-06-16 14:22:56
+Hyundai,Sonata,2.4 GDi AT,2-4-gdi-at,https://www.carwale.com/hyundai-cars/sonata/,carwale_versions,https://www.carwale.com/hyundai-cars/sonata/,2026-06-16 14:22:57
+Hyundai,Sonata,2.4 GDi MT,2-4-gdi-mt,https://www.carwale.com/hyundai-cars/sonata/,carwale_versions,https://www.carwale.com/hyundai-cars/sonata/,2026-06-16 14:22:57
+Hyundai,Terracan20032006,CRDi,crdi,https://www.carwale.com/hyundai-cars/terracan20032006/,carwale_versions,https://www.carwale.com/hyundai-cars/terracan20032006/,2026-06-16 14:22:58
+Hyundai,Eon,1.0 Kappa Era +,1-0-kappa-era,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,1.0 Kappa Magna (O) AirBag,1-0-kappa-magna-o-airbag,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,1.0 Kappa Magna + (O) [2014-2016],1-0-kappa-magna-o-2014-2016,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,1.0 Kappa Magna + [2014-2016],1-0-kappa-magna-2014-2016,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,1.0 Kappa Magna AirBag,1-0-kappa-magna-airbag,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,D-Lite,d-lite,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,D-Lite +,d-lite,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,D-Lite + AirBag,d-lite-airbag,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,D-Lite + LPG [2012-2015],d-lite-lpg-2012-2015,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,D-Lite O [2011-2012],d-lite-o-2011-2012,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,Era +,era,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,Era + AirBag,era-airbag,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,Era + LPG,era-lpg,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,Era + LPG Airbag,era-lpg-airbag,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,Era + SE,era-se,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,Era [2011-2012],era-2011-2012,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,Magna +,magna,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,Magna + AirBag,magna-airbag,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,Magna + LPG [2012-2016],magna-lpg-2012-2016,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,Magna + SE,magna-se,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,Magna O [2011-2012],magna-o-2011-2012,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,Magna [2011-2012],magna-2011-2012,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Eon,Sportz,sportz,https://www.carwale.com/hyundai-cars/eon/,carwale_versions,https://www.carwale.com/hyundai-cars/eon/,2026-06-16 14:22:58
+Hyundai,Grand I10,Asta 1.2 Kappa VTVT,asta-1-2-kappa-vtvt,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Asta U2 1.2 CRDi,asta-u2-1-2-crdi,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Era 1.2 Kappa VTVT,era-1-2-kappa-vtvt,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Era U2 1.2 CRDi,era-u2-1-2-crdi,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Magna 1.2 Kappa VTVT,magna-1-2-kappa-vtvt,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Magna 1.2 Kappa VTVT CNG,magna-1-2-kappa-vtvt-cng,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Magna 1.2 Kappa VTVT CNG [2019-2020],magna-1-2-kappa-vtvt-cng-2019-2020,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Magna 1.2 Kappa VTVT [2017-2020],magna-1-2-kappa-vtvt-2017-2020,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Magna AT 1.2 Kappa VTVT,magna-at-1-2-kappa-vtvt,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Magna U2 1.2 CRDi,magna-u2-1-2-crdi,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Sportz (O) 1.2 Kappa VTVT [2017-2018],sportz-o-1-2-kappa-vtvt-2017-2018,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Sportz (O) AT 1.2 Kappa VTVT [2017-2018],sportz-o-at-1-2-kappa-vtvt-2017-2018,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Sportz (O) U2 1.2 CRDi [2017-2018],sportz-o-u2-1-2-crdi-2017-2018,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Sportz 1.2 Kappa VTVT,sportz-1-2-kappa-vtvt,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Sportz 1.2 Kappa VTVT Dual Tone,sportz-1-2-kappa-vtvt-dual-tone,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Sportz 1.2 Kappa VTVT [2017-2020],sportz-1-2-kappa-vtvt-2017-2020,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Sportz AT 1.2 Kappa VTVT,sportz-at-1-2-kappa-vtvt,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Sportz U2 1.2 CRDi,sportz-u2-1-2-crdi,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Grand I10,Sportz U2 1.2 CRDi Dual Tone,sportz-u2-1-2-crdi-dual-tone,https://www.carwale.com/hyundai-cars/grand-i10/,carwale_versions,https://www.carwale.com/hyundai-cars/grand-i10/,2026-06-16 14:22:59
+Hyundai,Xcent,E,e,https://www.carwale.com/hyundai-cars/xcent/,carwale_versions,https://www.carwale.com/hyundai-cars/xcent/,2026-06-16 14:23:00
+Hyundai,Xcent,E CRDi,e-crdi,https://www.carwale.com/hyundai-cars/xcent/,carwale_versions,https://www.carwale.com/hyundai-cars/xcent/,2026-06-16 14:23:00
+Hyundai,Xcent,E Plus,e-plus,https://www.carwale.com/hyundai-cars/xcent/,carwale_versions,https://www.carwale.com/hyundai-cars/xcent/,2026-06-16 14:23:00
+Hyundai,Xcent,E Plus CRDi,e-plus-crdi,https://www.carwale.com/hyundai-cars/xcent/,carwale_versions,https://www.carwale.com/hyundai-cars/xcent/,2026-06-16 14:23:00
+Hyundai,Xcent,S,s,https://www.carwale.com/hyundai-cars/xcent/,carwale_versions,https://www.carwale.com/hyundai-cars/xcent/,2026-06-16 14:23:00
+Hyundai,Xcent,S AT,s-at,https://www.carwale.com/hyundai-cars/xcent/,carwale_versions,https://www.carwale.com/hyundai-cars/xcent/,2026-06-16 14:23:00
+Hyundai,Xcent,S CRDi,s-crdi,https://www.carwale.com/hyundai-cars/xcent/,carwale_versions,https://www.carwale.com/hyundai-cars/xcent/,2026-06-16 14:23:00
+Hyundai,Xcent,SX,sx,https://www.carwale.com/hyundai-cars/xcent/,carwale_versions,https://www.carwale.com/hyundai-cars/xcent/,2026-06-16 14:23:00
+Hyundai,Xcent,SX (O),sx-o,https://www.carwale.com/hyundai-cars/xcent/,carwale_versions,https://www.carwale.com/hyundai-cars/xcent/,2026-06-16 14:23:00
+Hyundai,Xcent,SX (O)CRDi,sx-ocrdi,https://www.carwale.com/hyundai-cars/xcent/,carwale_versions,https://www.carwale.com/hyundai-cars/xcent/,2026-06-16 14:23:00
+Hyundai,Xcent,SX CRDi,sx-crdi,https://www.carwale.com/hyundai-cars/xcent/,carwale_versions,https://www.carwale.com/hyundai-cars/xcent/,2026-06-16 14:23:00
+Hyundai,I20 Active,1.2 Base,1-2-base,https://www.carwale.com/hyundai-cars/i20-active/,carwale_versions,https://www.carwale.com/hyundai-cars/i20-active/,2026-06-16 14:23:00
+Hyundai,I20 Active,1.2 S,1-2-s,https://www.carwale.com/hyundai-cars/i20-active/,carwale_versions,https://www.carwale.com/hyundai-cars/i20-active/,2026-06-16 14:23:00
+Hyundai,I20 Active,1.2 SX,1-2-sx,https://www.carwale.com/hyundai-cars/i20-active/,carwale_versions,https://www.carwale.com/hyundai-cars/i20-active/,2026-06-16 14:23:00
+Hyundai,I20 Active,1.2 SX Dual Tone,1-2-sx-dual-tone,https://www.carwale.com/hyundai-cars/i20-active/,carwale_versions,https://www.carwale.com/hyundai-cars/i20-active/,2026-06-16 14:23:00
+Hyundai,I20 Active,1.4 S,1-4-s,https://www.carwale.com/hyundai-cars/i20-active/,carwale_versions,https://www.carwale.com/hyundai-cars/i20-active/,2026-06-16 14:23:00
+Hyundai,I20 Active,1.4 SX,1-4-sx,https://www.carwale.com/hyundai-cars/i20-active/,carwale_versions,https://www.carwale.com/hyundai-cars/i20-active/,2026-06-16 14:23:00
+Hyundai,I20 Active,1.4 SX Dual Tone,1-4-sx-dual-tone,https://www.carwale.com/hyundai-cars/i20-active/,carwale_versions,https://www.carwale.com/hyundai-cars/i20-active/,2026-06-16 14:23:00
+Hyundai,Genesis,3.8,3-8,https://www.carwale.com/hyundai-cars/genesis/,carwale_versions,https://www.carwale.com/hyundai-cars/genesis/,2026-06-16 14:23:02
+Isuzu,V Cross,Z 4WD Diesel Turbo Manual,z-4wd-diesel-turbo-manual,https://www.carwale.com/isuzu-cars/v-cross/,carwale_versions,https://www.carwale.com/isuzu-cars/v-cross/,2026-06-16 14:23:03
+Isuzu,V Cross,Z Prestige 4WD Diesel Turbo Automatic,z-prestige-4wd-diesel-turbo-automatic,https://www.carwale.com/isuzu-cars/v-cross/,carwale_versions,https://www.carwale.com/isuzu-cars/v-cross/,2026-06-16 14:23:03
+Isuzu,V Cross,Z Prestige 4WD Diesel Turbo Automatic [2024-2026],z-prestige-4wd-diesel-turbo-automatic-2024-2026,https://www.carwale.com/isuzu-cars/v-cross/,carwale_versions,https://www.carwale.com/isuzu-cars/v-cross/,2026-06-16 14:23:03
+Isuzu,V Cross,Z Prestige 4WD Diesel Turbo Manual,z-prestige-4wd-diesel-turbo-manual,https://www.carwale.com/isuzu-cars/v-cross/,carwale_versions,https://www.carwale.com/isuzu-cars/v-cross/,2026-06-16 14:23:03
+Isuzu,Hi Lander,2WD Diesel Turbo Automatic,2wd-diesel-turbo-automatic,https://www.carwale.com/isuzu-cars/hi-lander/,carwale_versions,https://www.carwale.com/isuzu-cars/hi-lander/,2026-06-16 14:23:04
+Isuzu,Hi Lander,2WD Diesel Turbo Manual,2wd-diesel-turbo-manual,https://www.carwale.com/isuzu-cars/hi-lander/,carwale_versions,https://www.carwale.com/isuzu-cars/hi-lander/,2026-06-16 14:23:04
+Isuzu,Mu X,4x2 AT,4x2-at,https://www.carwale.com/isuzu-cars/mu-x/,carwale_versions,https://www.carwale.com/isuzu-cars/mu-x/,2026-06-16 14:23:04
+Isuzu,Mu X,4x4 AT,4x4-at,https://www.carwale.com/isuzu-cars/mu-x/,carwale_versions,https://www.carwale.com/isuzu-cars/mu-x/,2026-06-16 14:23:04
+Isuzu,Trooper,4X4,4x4,https://www.carwale.com/isuzu-cars/trooper/,carwale_versions,https://www.carwale.com/isuzu-cars/trooper/,2026-06-16 14:23:05
+Jaguar,F Pace,S R-Dynamic 2.0 Diesel,s-r-dynamic-2-0-diesel,https://www.carwale.com/jaguar-cars/f-pace/,carwale_versions,https://www.carwale.com/jaguar-cars/f-pace/,2026-06-16 14:23:07
+Jaguar,F Pace,S R-Dynamic 2.0 Diesel [2021-2023],s-r-dynamic-2-0-diesel-2021-2023,https://www.carwale.com/jaguar-cars/f-pace/,carwale_versions,https://www.carwale.com/jaguar-cars/f-pace/,2026-06-16 14:23:07
+Jaguar,F Pace,S R-Dynamic 2.0 Petrol,s-r-dynamic-2-0-petrol,https://www.carwale.com/jaguar-cars/f-pace/,carwale_versions,https://www.carwale.com/jaguar-cars/f-pace/,2026-06-16 14:23:07
+Jaguar,Type 00,F-Pace,f-pace,https://www.carwale.com/jaguar-cars/type-00/,carwale_versions,https://www.carwale.com/jaguar-cars/type-00/,2026-06-16 14:23:07
+Jaguar,I Pace,HSE,hse,https://www.carwale.com/jaguar-cars/i-pace/,carwale_versions,https://www.carwale.com/jaguar-cars/i-pace/,2026-06-16 14:23:08
+Jaguar,I Pace,S,s,https://www.carwale.com/jaguar-cars/i-pace/,carwale_versions,https://www.carwale.com/jaguar-cars/i-pace/,2026-06-16 14:23:08
+Jaguar,I Pace,SE,se,https://www.carwale.com/jaguar-cars/i-pace/,carwale_versions,https://www.carwale.com/jaguar-cars/i-pace/,2026-06-16 14:23:08
+Jaguar,I Pace,SE Black Edition,se-black-edition,https://www.carwale.com/jaguar-cars/i-pace/,carwale_versions,https://www.carwale.com/jaguar-cars/i-pace/,2026-06-16 14:23:08
+Jaguar,Xj50,3.0 V6,3-0-v6,https://www.carwale.com/jaguar-cars/xj50/,carwale_versions,https://www.carwale.com/jaguar-cars/xj50/,2026-06-16 14:23:10
+Jaguar,Xf,2.0 Prestige Petrol,2-0-prestige-petrol,https://www.carwale.com/jaguar-cars/xf/,carwale_versions,https://www.carwale.com/jaguar-cars/xf/,2026-06-16 14:23:10
+Jaguar,Xf,Portfolio Diesel,portfolio-diesel,https://www.carwale.com/jaguar-cars/xf/,carwale_versions,https://www.carwale.com/jaguar-cars/xf/,2026-06-16 14:23:10
+Jaguar,Xf,Portfolio Diesel CBU,portfolio-diesel-cbu,https://www.carwale.com/jaguar-cars/xf/,carwale_versions,https://www.carwale.com/jaguar-cars/xf/,2026-06-16 14:23:10
+Jaguar,Xf,Portfolio Petrol,portfolio-petrol,https://www.carwale.com/jaguar-cars/xf/,carwale_versions,https://www.carwale.com/jaguar-cars/xf/,2026-06-16 14:23:10
+Jaguar,Xf,Portfolio Petrol CBU,portfolio-petrol-cbu,https://www.carwale.com/jaguar-cars/xf/,carwale_versions,https://www.carwale.com/jaguar-cars/xf/,2026-06-16 14:23:10
+Jaguar,Xf,Prestige Diesel,prestige-diesel,https://www.carwale.com/jaguar-cars/xf/,carwale_versions,https://www.carwale.com/jaguar-cars/xf/,2026-06-16 14:23:10
+Jaguar,Xf,Prestige Diesel CBU,prestige-diesel-cbu,https://www.carwale.com/jaguar-cars/xf/,carwale_versions,https://www.carwale.com/jaguar-cars/xf/,2026-06-16 14:23:10
+Jaguar,Xf,Prestige Petrol CBU,prestige-petrol-cbu,https://www.carwale.com/jaguar-cars/xf/,carwale_versions,https://www.carwale.com/jaguar-cars/xf/,2026-06-16 14:23:10
+Jaguar,Xf,Prestige Petrol [2017-2020],prestige-petrol-2017-2020,https://www.carwale.com/jaguar-cars/xf/,carwale_versions,https://www.carwale.com/jaguar-cars/xf/,2026-06-16 14:23:10
+Jaguar,Xf,Pure Diesel,pure-diesel,https://www.carwale.com/jaguar-cars/xf/,carwale_versions,https://www.carwale.com/jaguar-cars/xf/,2026-06-16 14:23:10
+Jaguar,Xf,Pure Diesel CBU,pure-diesel-cbu,https://www.carwale.com/jaguar-cars/xf/,carwale_versions,https://www.carwale.com/jaguar-cars/xf/,2026-06-16 14:23:10
+Jaguar,Xf,R-Dynamic S D200,r-dynamic-s-d200,https://www.carwale.com/jaguar-cars/xf/,carwale_versions,https://www.carwale.com/jaguar-cars/xf/,2026-06-16 14:23:10
+Jaguar,Xf,R-Dynamic S P250,r-dynamic-s-p250,https://www.carwale.com/jaguar-cars/xf/,carwale_versions,https://www.carwale.com/jaguar-cars/xf/,2026-06-16 14:23:10

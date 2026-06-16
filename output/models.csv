@@ -1,0 +1,649 @@
+brand_slug,brand_name,model_slug,model_name,model_url,model_source
+aston-martin,Aston Martin,db11,Db11,https://www.carwale.com/aston-martin-cars/db11/,carwale
+aston-martin,Aston Martin,vanquish,Vanquish,https://www.carwale.com/aston-martin-cars/vanquish/,carwale
+aston-martin,Aston Martin,vantage,Vantage,https://www.carwale.com/aston-martin-cars/vantage/,carwale
+aston-martin,Aston Martin,dbx,Dbx,https://www.carwale.com/aston-martin-cars/dbx/,carwale
+aston-martin,Aston Martin,db12,Db12,https://www.carwale.com/aston-martin-cars/db12/,carwale
+aston-martin,Aston Martin,db9,Db9,https://www.carwale.com/aston-martin-cars/db9/,carwale
+aston-martin,Aston Martin,dbs20072012,Dbs20072012,https://www.carwale.com/aston-martin-cars/dbs20072012/,carwale
+aston-martin,Aston Martin,rapide,Rapide,https://www.carwale.com/aston-martin-cars/rapide/,carwale
+aston-martin,Aston Martin,virage,Virage,https://www.carwale.com/aston-martin-cars/virage/,carwale
+audi,Audi,q3,Q3,https://www.carwale.com/audi-cars/q3/,carwale
+audi,Audi,a4,A4,https://www.carwale.com/audi-cars/a4/,carwale
+audi,Audi,q8,Q8,https://www.carwale.com/audi-cars/q8/,carwale
+audi,Audi,q7,Q7,https://www.carwale.com/audi-cars/q7/,carwale
+audi,Audi,a6,A6,https://www.carwale.com/audi-cars/a6/,carwale
+audi,Audi,rs5,Rs5,https://www.carwale.com/audi-cars/rs5/,carwale
+audi,Audi,q5,Q5,https://www.carwale.com/audi-cars/q5/,carwale
+audi,Audi,s5-sportback,S5 Sportback,https://www.carwale.com/audi-cars/s5-sportback/,carwale
+audi,Audi,q3-sportback,Q3 Sportback,https://www.carwale.com/audi-cars/q3-sportback/,carwale
+audi,Audi,e-tron-gt,E Tron Gt,https://www.carwale.com/audi-cars/e-tron-gt/,carwale
+audi,Audi,rs-q8-performance,Rs Q8 Performance,https://www.carwale.com/audi-cars/rs-q8-performance/,carwale
+audi,Audi,a8-l,A8 L,https://www.carwale.com/audi-cars/a8-l/,carwale
+audi,Audi,sq8,Sq8,https://www.carwale.com/audi-cars/sq8/,carwale
+audi,Audi,e-tron-sportback,E Tron Sportback,https://www.carwale.com/audi-cars/e-tron-sportback/,carwale
+audi,Audi,e-tron,E Tron,https://www.carwale.com/audi-cars/e-tron/,carwale
+audi,Audi,q8-e-tron,Q8 E Tron,https://www.carwale.com/audi-cars/q8-e-tron/,carwale
+audi,Audi,q8-sportback-e-tron,Q8 Sportback E Tron,https://www.carwale.com/audi-cars/q8-sportback-e-tron/,carwale
+audi,Audi,new-q3,New Q3,https://www.carwale.com/audi-cars/new-q3/,carwale
+audi,Audi,new-q5-third-gen,New Q5 Third Gen,https://www.carwale.com/audi-cars/new-q5-third-gen/,carwale
+audi,Audi,q6-e-tron,Q6 E Tron,https://www.carwale.com/audi-cars/q6-e-tron/,carwale
+audi,Audi,q9,Q9,https://www.carwale.com/audi-cars/q9/,carwale
+audi,Audi,rs7-sportback,Rs7 Sportback,https://www.carwale.com/audi-cars/rs7-sportback/,carwale
+audi,Audi,a5,A5,https://www.carwale.com/audi-cars/a5/,carwale
+audi,Audi,new-a3,New A3,https://www.carwale.com/audi-cars/new-a3/,carwale
+audi,Audi,s6,S6,https://www.carwale.com/audi-cars/s6/,carwale
+audi,Audi,r8,R8,https://www.carwale.com/audi-cars/r8/,carwale
+audi,Audi,tt,Tt,https://www.carwale.com/audi-cars/tt/,carwale
+audi,Audi,q2,Q2,https://www.carwale.com/audi-cars/q2/,carwale
+bmw,BMW,2-series-gran-coupe,2 Series Gran Coupe,https://www.carwale.com/bmw-cars/2-series-gran-coupe/,carwale
+bmw,BMW,m4,M4,https://www.carwale.com/bmw-cars/m4/,carwale
+bmw,BMW,3-series,3 Series,https://www.carwale.com/bmw-cars/3-series/,carwale
+bmw,BMW,m340i,M340I,https://www.carwale.com/bmw-cars/m340i/,carwale
+bmw,BMW,x1,X1,https://www.carwale.com/bmw-cars/x1/,carwale
+bmw,BMW,m5,M5,https://www.carwale.com/bmw-cars/m5/,carwale
+bmw,BMW,x7,X7,https://www.carwale.com/bmw-cars/x7/,carwale
+bmw,BMW,x5,X5,https://www.carwale.com/bmw-cars/x5/,carwale
+bmw,BMW,x3,X3,https://www.carwale.com/bmw-cars/x3/,carwale
+bmw,BMW,z4,Z4,https://www.carwale.com/bmw-cars/z4/,carwale
+bmw,BMW,7-series,7 Series,https://www.carwale.com/bmw-cars/7-series/,carwale
+bmw,BMW,m440i,M440I,https://www.carwale.com/bmw-cars/m440i/,carwale
+bmw,BMW,ix1-lwb,Ix1 Lwb,https://www.carwale.com/bmw-cars/ix1-lwb/,carwale
+bmw,BMW,m2,M2,https://www.carwale.com/bmw-cars/m2/,carwale
+bmw,BMW,5-series,5 Series,https://www.carwale.com/bmw-cars/5-series/,carwale
+bmw,BMW,ix1,Ix1,https://www.carwale.com/bmw-cars/ix1/,carwale
+bmw,BMW,xm,Xm,https://www.carwale.com/bmw-cars/xm/,carwale
+bmw,BMW,m8,M8,https://www.carwale.com/bmw-cars/m8/,carwale
+bmw,BMW,i7,I7,https://www.carwale.com/bmw-cars/i7/,carwale
+bmw,BMW,i4,I4,https://www.carwale.com/bmw-cars/i4/,carwale
+bmw,BMW,x4,X4,https://www.carwale.com/bmw-cars/x4/,carwale
+bmw,BMW,ix,Ix,https://www.carwale.com/bmw-cars/ix/,carwale
+bmw,BMW,i5,I5,https://www.carwale.com/bmw-cars/i5/,carwale
+bmw,BMW,ix3,Ix3,https://www.carwale.com/bmw-cars/ix3/,carwale
+bmw,BMW,3-series-gran-limousine,3 Series Gran Limousine,https://www.carwale.com/bmw-cars/3-series-gran-limousine/,carwale
+bmw,BMW,1-series,1 Series,https://www.carwale.com/bmw-cars/1-series/,carwale
+bmw,BMW,6-series-gran-coupe,6 Series Gran Coupe,https://www.carwale.com/bmw-cars/6-series-gran-coupe/,carwale
+bmw,BMW,m3,M3,https://www.carwale.com/bmw-cars/m3/,carwale
+bmw,BMW,z3,Z3,https://www.carwale.com/bmw-cars/z3/,carwale
+bmw,BMW,x6,X6,https://www.carwale.com/bmw-cars/x6/,carwale
+bmw,BMW,m6,M6,https://www.carwale.com/bmw-cars/m6/,carwale
+bmw,BMW,6-series-gt,6 Series Gt,https://www.carwale.com/bmw-cars/6-series-gt/,carwale
+bmw,BMW,8-series,8 Series,https://www.carwale.com/bmw-cars/8-series/,carwale
+bmw,BMW,x8,X8,https://www.carwale.com/bmw-cars/x8/,carwale
+bmw,BMW,x3-m,X3 M,https://www.carwale.com/bmw-cars/x3-m/,carwale
+bmw,BMW,x5-m,X5 M,https://www.carwale.com/bmw-cars/x5-m/,carwale
+bmw,BMW,x3-m40i,X3 M40I,https://www.carwale.com/bmw-cars/x3-m40i/,carwale
+bmw,BMW,m4-cs,M4 Cs,https://www.carwale.com/bmw-cars/m4-cs/,carwale
+byd,BYD,atto-3,Atto 3,https://www.carwale.com/byd-cars/atto-3/,carwale
+byd,BYD,sealion-7,Sealion 7,https://www.carwale.com/byd-cars/sealion-7/,carwale
+byd,BYD,seal,Seal,https://www.carwale.com/byd-cars/seal/,carwale
+byd,BYD,emax-7,Emax 7,https://www.carwale.com/byd-cars/emax-7/,carwale
+byd,BYD,atto-2,Atto 2,https://www.carwale.com/byd-cars/atto-2/,carwale
+byd,BYD,seal-u-dm-i,Seal U Dm I,https://www.carwale.com/byd-cars/seal-u-dm-i/,carwale
+byd,BYD,e6,E6,https://www.carwale.com/byd-cars/e6/,carwale
+bentley,Bentley,bentayga,Bentayga,https://www.carwale.com/bentley-cars/bentayga/,carwale
+bentley,Bentley,arnage,Arnage,https://www.carwale.com/bentley-cars/arnage/,carwale
+bentley,Bentley,continentalgtc,Continentalgtc,https://www.carwale.com/bentley-cars/continentalgtc/,carwale
+bentley,Bentley,azure,Azure,https://www.carwale.com/bentley-cars/azure/,carwale
+bentley,Bentley,mulsanne,Mulsanne,https://www.carwale.com/bentley-cars/mulsanne/,carwale
+bentley,Bentley,continentalsupersports,Continentalsupersports,https://www.carwale.com/bentley-cars/continentalsupersports/,carwale
+citroen,Citroen,c3-x,C3 X,https://www.carwale.com/citroen-cars/c3-x/,carwale
+citroen,Citroen,aircross-x,Aircross X,https://www.carwale.com/citroen-cars/aircross-x/,carwale
+citroen,Citroen,basalt-x,Basalt X,https://www.carwale.com/citroen-cars/basalt-x/,carwale
+citroen,Citroen,ec3,Ec3,https://www.carwale.com/citroen-cars/ec3/,carwale
+citroen,Citroen,c5-aircross,C5 Aircross,https://www.carwale.com/citroen-cars/c5-aircross/,carwale
+citroen,Citroen,new-c5-aircross,New C5 Aircross,https://www.carwale.com/citroen-cars/new-c5-aircross/,carwale
+citroen,Citroen,basalt-ev,Basalt Ev,https://www.carwale.com/citroen-cars/basalt-ev/,carwale
+citroen,Citroen,basalt,Basalt,https://www.carwale.com/citroen-cars/basalt/,carwale
+citroen,Citroen,sub-4-metre-compact-suv,Sub 4 Metre Compact Suv,https://www.carwale.com/citroen-cars/sub-4-metre-compact-suv/,carwale
+ferrari,Ferrari,849-testarossa,849 Testarossa,https://www.carwale.com/ferrari-cars/849-testarossa/,carwale
+ferrari,Ferrari,purosangue-suv,Purosangue Suv,https://www.carwale.com/ferrari-cars/purosangue-suv/,carwale
+ferrari,Ferrari,296-gtb,296 Gtb,https://www.carwale.com/ferrari-cars/296-gtb/,carwale
+ferrari,Ferrari,roma,Roma,https://www.carwale.com/ferrari-cars/roma/,carwale
+ferrari,Ferrari,f8-tributo,F8 Tributo,https://www.carwale.com/ferrari-cars/f8-tributo/,carwale
+ferrari,Ferrari,portofino,Portofino,https://www.carwale.com/ferrari-cars/portofino/,carwale
+ferrari,Ferrari,296-gts,296 Gts,https://www.carwale.com/ferrari-cars/296-gts/,carwale
+ferrari,Ferrari,f12berlinetta,F12Berlinetta,https://www.carwale.com/ferrari-cars/f12berlinetta/,carwale
+ferrari,Ferrari,812,812,https://www.carwale.com/ferrari-cars/812/,carwale
+ferrari,Ferrari,gtc4-lusso,Gtc4 Lusso,https://www.carwale.com/ferrari-cars/gtc4-lusso/,carwale
+ferrari,Ferrari,599gtbfiorano,599Gtbfiorano,https://www.carwale.com/ferrari-cars/599gtbfiorano/,carwale
+ferrari,Ferrari,488,488,https://www.carwale.com/ferrari-cars/488/,carwale
+ferrari,Ferrari,458,458,https://www.carwale.com/ferrari-cars/458/,carwale
+ferrari,Ferrari,360,360,https://www.carwale.com/ferrari-cars/360/,carwale
+ferrari,Ferrari,ff,Ff,https://www.carwale.com/ferrari-cars/ff/,carwale
+ferrari,Ferrari,california,California,https://www.carwale.com/ferrari-cars/california/,carwale
+ferrari,Ferrari,575superamerica,575Superamerica,https://www.carwale.com/ferrari-cars/575superamerica/,carwale
+ferrari,Ferrari,612,612,https://www.carwale.com/ferrari-cars/612/,carwale
+ferrari,Ferrari,f430,F430,https://www.carwale.com/ferrari-cars/f430/,carwale
+fisker,Fisker,ocean-ev,Ocean Ev,https://www.carwale.com/fisker-cars/ocean-ev/,carwale
+force-motors,Force Motors,gurkha,Gurkha,https://www.carwale.com/force-motors-cars/gurkha/,carwale
+force-motors,Force Motors,trax-cruiser,Trax Cruiser,https://www.carwale.com/force-motors-cars/trax-cruiser/,carwale
+force-motors,Force Motors,forceone,Forceone,https://www.carwale.com/force-motors-cars/forceone/,carwale
+genesis,Genesis,gv60,Gv60,https://www.cardekho.com/genesis/gv60,cardekho
+genesis,Genesis,gv70,Gv70,https://www.cardekho.com/genesis/gv70,cardekho
+genesis,Genesis,gv80,Gv80,https://www.cardekho.com/genesis/gv80,cardekho
+honda,Honda,amaze,Amaze,https://www.carwale.com/honda-cars/amaze/,carwale
+honda,Honda,elevate,Elevate,https://www.carwale.com/honda-cars/elevate/,carwale
+honda,Honda,city,City,https://www.carwale.com/honda-cars/city/,carwale
+honda,Honda,amaze-2nd-gen,Amaze 2Nd Gen,https://www.carwale.com/honda-cars/amaze-2nd-gen/,carwale
+honda,Honda,zr-v,Zr V,https://www.carwale.com/honda-cars/zr-v/,carwale
+honda,Honda,super-one,Super One,https://www.carwale.com/honda-cars/super-one/,carwale
+honda,Honda,0-alpha,0 Alpha,https://www.carwale.com/honda-cars/0-alpha/,carwale
+honda,Honda,prelude,Prelude,https://www.carwale.com/honda-cars/prelude/,carwale
+honda,Honda,elevate-based-three-row-suv,Elevate Based Three Row Suv,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/,carwale
+honda,Honda,cr-v-hybrid,Cr V Hybrid,https://www.carwale.com/honda-cars/cr-v-hybrid/,carwale
+honda,Honda,compact-suv,Compact Suv,https://www.carwale.com/honda-cars/compact-suv/,carwale
+honda,Honda,city-hybrid-ehev,City Hybrid Ehev,https://www.carwale.com/honda-cars/city-hybrid-ehev/,carwale
+honda,Honda,wr-v,Wr V,https://www.carwale.com/honda-cars/wr-v/,carwale
+honda,Honda,elevate-ev,Elevate Ev,https://www.carwale.com/honda-cars/elevate-ev/,carwale
+honda,Honda,jazz,Jazz,https://www.carwale.com/honda-cars/jazz/,carwale
+honda,Honda,civic,Civic,https://www.carwale.com/honda-cars/civic/,carwale
+honda,Honda,brio,Brio,https://www.carwale.com/honda-cars/brio/,carwale
+honda,Honda,accord,Accord,https://www.carwale.com/honda-cars/accord/,carwale
+honda,Honda,cr-v,Cr V,https://www.carwale.com/honda-cars/cr-v/,carwale
+honda,Honda,stepwgn,Stepwgn,https://www.carwale.com/honda-cars/stepwgn/,carwale
+honda,Honda,concerto,Concerto,https://www.carwale.com/honda-cars/concerto/,carwale
+honda,Honda,crx,Crx,https://www.carwale.com/honda-cars/crx/,carwale
+honda,Honda,mobilio,Mobilio,https://www.carwale.com/honda-cars/mobilio/,carwale
+honda,Honda,br-v,Br V,https://www.carwale.com/honda-cars/br-v/,carwale
+hyundai,Hyundai,creta,Creta,https://www.carwale.com/hyundai-cars/creta/,carwale
+hyundai,Hyundai,venue,Venue,https://www.carwale.com/hyundai-cars/venue/,carwale
+hyundai,Hyundai,exter,Exter,https://www.carwale.com/hyundai-cars/exter/,carwale
+hyundai,Hyundai,i20,I20,https://www.carwale.com/hyundai-cars/i20/,carwale
+hyundai,Hyundai,grand-i10-nios,Grand I10 Nios,https://www.carwale.com/hyundai-cars/grand-i10-nios/,carwale
+hyundai,Hyundai,verna,Verna,https://www.carwale.com/hyundai-cars/verna/,carwale
+hyundai,Hyundai,aura,Aura,https://www.carwale.com/hyundai-cars/aura/,carwale
+hyundai,Hyundai,creta-electric,Creta Electric,https://www.carwale.com/hyundai-cars/creta-electric/,carwale
+hyundai,Hyundai,alcazar,Alcazar,https://www.carwale.com/hyundai-cars/alcazar/,carwale
+hyundai,Hyundai,venue-n-line,Venue N Line,https://www.carwale.com/hyundai-cars/venue-n-line/,carwale
+hyundai,Hyundai,i20-n-line,I20 N Line,https://www.carwale.com/hyundai-cars/i20-n-line/,carwale
+hyundai,Hyundai,creta-n-line,Creta N Line,https://www.carwale.com/hyundai-cars/creta-n-line/,carwale
+hyundai,Hyundai,ioniq-5,Ioniq 5,https://www.carwale.com/hyundai-cars/ioniq-5/,carwale
+hyundai,Hyundai,mid-size-suv,Mid Size Suv,https://www.carwale.com/hyundai-cars/mid-size-suv/,carwale
+hyundai,Hyundai,bayon,Bayon,https://www.carwale.com/hyundai-cars/bayon/,carwale
+hyundai,Hyundai,ioniq-6,Ioniq 6,https://www.carwale.com/hyundai-cars/ioniq-6/,carwale
+hyundai,Hyundai,sub-compact-ev-suv,Sub Compact Ev Suv,https://www.carwale.com/hyundai-cars/sub-compact-ev-suv/,carwale
+hyundai,Hyundai,new-i20,New I20,https://www.carwale.com/hyundai-cars/new-i20/,carwale
+hyundai,Hyundai,ioniq-9,Ioniq 9,https://www.carwale.com/hyundai-cars/ioniq-9/,carwale
+hyundai,Hyundai,palisade,Palisade,https://www.carwale.com/hyundai-cars/palisade/,carwale
+hyundai,Hyundai,new-santa-fe,New Santa Fe,https://www.carwale.com/hyundai-cars/new-santa-fe/,carwale
+hyundai,Hyundai,stargazer,Stargazer,https://www.carwale.com/hyundai-cars/stargazer/,carwale
+hyundai,Hyundai,staria,Staria,https://www.carwale.com/hyundai-cars/staria/,carwale
+hyundai,Hyundai,boulder,Boulder,https://www.carwale.com/hyundai-cars/boulder/,carwale
+hyundai,Hyundai,tucson,Tucson,https://www.carwale.com/hyundai-cars/tucson/,carwale
+hyundai,Hyundai,accent,Accent,https://www.carwale.com/hyundai-cars/accent/,carwale
+hyundai,Hyundai,elantra,Elantra,https://www.carwale.com/hyundai-cars/elantra/,carwale
+hyundai,Hyundai,getzprime20072010,Getzprime20072010,https://www.carwale.com/hyundai-cars/getzprime20072010/,carwale
+hyundai,Hyundai,santro,Santro,https://www.carwale.com/hyundai-cars/santro/,carwale
+hyundai,Hyundai,sonata,Sonata,https://www.carwale.com/hyundai-cars/sonata/,carwale
+hyundai,Hyundai,terracan20032006,Terracan20032006,https://www.carwale.com/hyundai-cars/terracan20032006/,carwale
+hyundai,Hyundai,eon,Eon,https://www.carwale.com/hyundai-cars/eon/,carwale
+hyundai,Hyundai,grand-i10,Grand I10,https://www.carwale.com/hyundai-cars/grand-i10/,carwale
+hyundai,Hyundai,xcent,Xcent,https://www.carwale.com/hyundai-cars/xcent/,carwale
+hyundai,Hyundai,i20-active,I20 Active,https://www.carwale.com/hyundai-cars/i20-active/,carwale
+hyundai,Hyundai,new-kona,New Kona,https://www.carwale.com/hyundai-cars/new-kona/,carwale
+hyundai,Hyundai,casper,Casper,https://www.carwale.com/hyundai-cars/casper/,carwale
+hyundai,Hyundai,genesis,Genesis,https://www.carwale.com/hyundai-cars/genesis/,carwale
+isuzu,Isuzu,v-cross,V Cross,https://www.carwale.com/isuzu-cars/v-cross/,carwale
+isuzu,Isuzu,hi-lander,Hi Lander,https://www.carwale.com/isuzu-cars/hi-lander/,carwale
+isuzu,Isuzu,mu-x,Mu X,https://www.carwale.com/isuzu-cars/mu-x/,carwale
+isuzu,Isuzu,trooper,Trooper,https://www.carwale.com/isuzu-cars/trooper/,carwale
+jsw,JSW,jetour-t2,Jetour T2,https://www.carwale.com/jsw-cars/jetour-t2/,carwale
+jsw,JSW,jaecoo-j5,Jaecoo J5,https://www.carwale.com/jsw-cars/jaecoo-j5/,carwale
+jaguar,Jaguar,f-pace,F Pace,https://www.carwale.com/jaguar-cars/f-pace/,carwale
+jaguar,Jaguar,type-00,Type 00,https://www.carwale.com/jaguar-cars/type-00/,carwale
+jaguar,Jaguar,i-pace,I Pace,https://www.carwale.com/jaguar-cars/i-pace/,carwale
+jaguar,Jaguar,e-pace,E Pace,https://www.carwale.com/jaguar-cars/e-pace/,carwale
+jaguar,Jaguar,xj50,Xj50,https://www.carwale.com/jaguar-cars/xj50/,carwale
+jaguar,Jaguar,xf,Xf,https://www.carwale.com/jaguar-cars/xf/,carwale
+jaguar,Jaguar,f-type,F Type,https://www.carwale.com/jaguar-cars/f-type/,carwale
+jaguar,Jaguar,xe,Xe,https://www.carwale.com/jaguar-cars/xe/,carwale
+jaguar,Jaguar,xj-l,Xj L,https://www.carwale.com/jaguar-cars/xj-l/,carwale
+jaguar,Jaguar,xk,Xk,https://www.carwale.com/jaguar-cars/xk/,carwale
+jeep,Jeep,compass,Compass,https://www.carwale.com/jeep-cars/compass/,carwale
+jeep,Jeep,meridian,Meridian,https://www.carwale.com/jeep-cars/meridian/,carwale
+jeep,Jeep,wrangler,Wrangler,https://www.carwale.com/jeep-cars/wrangler/,carwale
+jeep,Jeep,grand-cherokee,Grand Cherokee,https://www.carwale.com/jeep-cars/grand-cherokee/,carwale
+jeep,Jeep,avenger,Avenger,https://www.carwale.com/jeep-cars/avenger/,carwale
+jeep,Jeep,willys,Willys,https://www.carwale.com/jeep-cars/willys/,carwale
+jeep,Jeep,kaiser,Kaiser,https://www.carwale.com/jeep-cars/kaiser/,carwale
+jeep,Jeep,renegade,Renegade,https://www.carwale.com/jeep-cars/renegade/,carwale
+kia,Kia,seltos,Seltos,https://www.carwale.com/kia-cars/seltos/,carwale
+kia,Kia,sonet,Sonet,https://www.carwale.com/kia-cars/sonet/,carwale
+kia,Kia,carens,Carens,https://www.carwale.com/kia-cars/carens/,carwale
+kia,Kia,carens-clavis,Carens Clavis,https://www.carwale.com/kia-cars/carens-clavis/,carwale
+kia,Kia,syros,Syros,https://www.carwale.com/kia-cars/syros/,carwale
+kia,Kia,carens-clavis-ev,Carens Clavis Ev,https://www.carwale.com/kia-cars/carens-clavis-ev/,carwale
+kia,Kia,carnival,Carnival,https://www.carwale.com/kia-cars/carnival/,carwale
+kia,Kia,ev6,Ev6,https://www.carwale.com/kia-cars/ev6/,carwale
+kia,Kia,ev9,Ev9,https://www.carwale.com/kia-cars/ev9/,carwale
+kia,Kia,syros-ev,Syros Ev,https://www.carwale.com/kia-cars/syros-ev/,carwale
+kia,Kia,sorento-hybrid,Sorento Hybrid,https://www.carwale.com/kia-cars/sorento-hybrid/,carwale
+kia,Kia,ev5,Ev5,https://www.carwale.com/kia-cars/ev5/,carwale
+kia,Kia,new-sonet,New Sonet,https://www.carwale.com/kia-cars/new-sonet/,carwale
+kia,Kia,ev3,Ev3,https://www.carwale.com/kia-cars/ev3/,carwale
+kia,Kia,tasman,Tasman,https://www.carwale.com/kia-cars/tasman/,carwale
+kia,Kia,rio,Rio,https://www.carwale.com/kia-cars/rio/,carwale
+lamborghini,Lamborghini,revuelto,Revuelto,https://www.carwale.com/lamborghini-cars/revuelto/,carwale
+lamborghini,Lamborghini,urus-se,Urus Se,https://www.carwale.com/lamborghini-cars/urus-se/,carwale
+lamborghini,Lamborghini,temerario,Temerario,https://www.carwale.com/lamborghini-cars/temerario/,carwale
+lamborghini,Lamborghini,huracan-tecnica,Huracan Tecnica,https://www.carwale.com/lamborghini-cars/huracan-tecnica/,carwale
+lamborghini,Lamborghini,huracan-evo-spyder,Huracan Evo Spyder,https://www.carwale.com/lamborghini-cars/huracan-evo-spyder/,carwale
+lamborghini,Lamborghini,huracan-sto,Huracan Sto,https://www.carwale.com/lamborghini-cars/huracan-sto/,carwale
+lamborghini,Lamborghini,huracan-sterrato,Huracan Sterrato,https://www.carwale.com/lamborghini-cars/huracan-sterrato/,carwale
+lamborghini,Lamborghini,murcielago,Murcielago,https://www.carwale.com/lamborghini-cars/murcielago/,carwale
+lamborghini,Lamborghini,aventador-ultimae,Aventador Ultimae,https://www.carwale.com/lamborghini-cars/aventador-ultimae/,carwale
+lamborghini,Lamborghini,urus-s,Urus S,https://www.carwale.com/lamborghini-cars/urus-s/,carwale
+lamborghini,Lamborghini,urus-performante,Urus Performante,https://www.carwale.com/lamborghini-cars/urus-performante/,carwale
+land-rover,Land Rover,defender,Defender,https://www.carwale.com/land-rover-cars/defender/,carwale
+land-rover,Land Rover,range-rover-velar,Range Rover Velar,https://www.carwale.com/land-rover-cars/range-rover-velar/,carwale
+land-rover,Land Rover,range-rover,Range Rover,https://www.carwale.com/land-rover-cars/range-rover/,carwale
+land-rover,Land Rover,range-rover-sport,Range Rover Sport,https://www.carwale.com/land-rover-cars/range-rover-sport/,carwale
+land-rover,Land Rover,range-rover-evoque,Range Rover Evoque,https://www.carwale.com/land-rover-cars/range-rover-evoque/,carwale
+land-rover,Land Rover,discovery-sport,Discovery Sport,https://www.carwale.com/land-rover-cars/discovery-sport/,carwale
+land-rover,Land Rover,discovery,Discovery,https://www.carwale.com/land-rover-cars/discovery/,carwale
+land-rover,Land Rover,freelander-2,Freelander 2,https://www.carwale.com/land-rover-cars/freelander-2/,carwale
+leapmotor,Leapmotor,c10,C10,https://www.carwale.com/leapmotor-cars/c10/,carwale
+leapmotor,Leapmotor,t03,T03,https://www.carwale.com/leapmotor-cars/t03/,carwale
+lexus,Lexus,es,Es,https://www.carwale.com/lexus-cars/es/,carwale
+lexus,Lexus,lx,Lx,https://www.carwale.com/lexus-cars/lx/,carwale
+lexus,Lexus,nx,Nx,https://www.carwale.com/lexus-cars/nx/,carwale
+lexus,Lexus,lm,Lm,https://www.carwale.com/lexus-cars/lm/,carwale
+lexus,Lexus,rx,Rx,https://www.carwale.com/lexus-cars/rx/,carwale
+lexus,Lexus,ls,Ls,https://www.carwale.com/lexus-cars/ls/,carwale
+lexus,Lexus,ux-300e,Ux 300E,https://www.carwale.com/lexus-cars/ux-300e/,carwale
+lexus,Lexus,lc-500h,Lc 500H,https://www.carwale.com/lexus-cars/lc-500h/,carwale
+lexus,Lexus,gs350,Gs350,https://www.carwale.com/lexus-cars/gs350/,carwale
+lexus,Lexus,sc430,Sc430,https://www.carwale.com/lexus-cars/sc430/,carwale
+lotus,Lotus,emeya,Emeya,https://www.carwale.com/lotus-cars/emeya/,carwale
+lotus,Lotus,eletre,Eletre,https://www.carwale.com/lotus-cars/eletre/,carwale
+lotus,Lotus,emira,Emira,https://www.carwale.com/lotus-cars/emira/,carwale
+mg,MG,windsor-ev,Windsor Ev,https://www.carwale.com/mg-cars/windsor-ev/,carwale
+mg,MG,majestor,Majestor,https://www.carwale.com/mg-cars/majestor/,carwale
+mg,MG,hector,Hector,https://www.carwale.com/mg-cars/hector/,carwale
+mg,MG,comet-ev,Comet Ev,https://www.carwale.com/mg-cars/comet-ev/,carwale
+mg,MG,astor,Astor,https://www.carwale.com/mg-cars/astor/,carwale
+mg,MG,cyberster,Cyberster,https://www.carwale.com/mg-cars/cyberster/,carwale
+mg,MG,m9,M9,https://www.carwale.com/mg-cars/m9/,carwale
+mg,MG,zs-ev,Zs Ev,https://www.carwale.com/mg-cars/zs-ev/,carwale
+mg,MG,hector-plus,Hector Plus,https://www.carwale.com/mg-cars/hector-plus/,carwale
+mg,MG,gloster,Gloster,https://www.carwale.com/mg-cars/gloster/,carwale
+mg,MG,im6,Im6,https://www.carwale.com/mg-cars/im6/,carwale
+mg,MG,ehs,Ehs,https://www.carwale.com/mg-cars/ehs/,carwale
+mg,MG,6,6,https://www.carwale.com/mg-cars/6/,carwale
+mg,MG,erx5,Erx5,https://www.carwale.com/mg-cars/erx5/,carwale
+mg,MG,marvel-r,Marvel R,https://www.carwale.com/mg-cars/marvel-r/,carwale
+mg,MG,5-estate,5 Estate,https://www.carwale.com/mg-cars/5-estate/,carwale
+mg,MG,4,4,https://www.carwale.com/mg-cars/4/,carwale
+mg,MG,euniq-7,Euniq 7,https://www.carwale.com/mg-cars/euniq-7/,carwale
+mahindra,Mahindra,xuv-7xo,Xuv 7Xo,https://www.carwale.com/mahindra-cars/xuv-7xo/,carwale
+mahindra,Mahindra,scorpio-n,Scorpio N,https://www.carwale.com/mahindra-cars/scorpio-n/,carwale
+mahindra,Mahindra,thar-roxx,Thar Roxx,https://www.carwale.com/mahindra-cars/thar-roxx/,carwale
+mahindra,Mahindra,xuv-3xo,Xuv 3Xo,https://www.carwale.com/mahindra-cars/xuv-3xo/,carwale
+mahindra,Mahindra,thar,Thar,https://www.carwale.com/mahindra-cars/thar/,carwale
+mahindra,Mahindra,be-6,Be 6,https://www.carwale.com/mahindra-cars/be-6/,carwale
+mahindra,Mahindra,scorpio,Scorpio,https://www.carwale.com/mahindra-cars/scorpio/,carwale
+mahindra,Mahindra,xev-9s,Xev 9S,https://www.carwale.com/mahindra-cars/xev-9s/,carwale
+mahindra,Mahindra,xev-9e,Xev 9E,https://www.carwale.com/mahindra-cars/xev-9e/,carwale
+mahindra,Mahindra,bolero,Bolero,https://www.carwale.com/mahindra-cars/bolero/,carwale
+mahindra,Mahindra,bolero-neo,Bolero Neo,https://www.carwale.com/mahindra-cars/bolero-neo/,carwale
+mahindra,Mahindra,be-6-fe,Be 6 Fe,https://www.carwale.com/mahindra-cars/be-6-fe/,carwale
+mahindra,Mahindra,xuv-3xo-ev,Xuv 3Xo Ev,https://www.carwale.com/mahindra-cars/xuv-3xo-ev/,carwale
+mahindra,Mahindra,bolero-neo-plus,Bolero Neo Plus,https://www.carwale.com/mahindra-cars/bolero-neo-plus/,carwale
+mahindra,Mahindra,xuv400,Xuv400,https://www.carwale.com/mahindra-cars/xuv400/,carwale
+mahindra,Mahindra,marazzo,Marazzo,https://www.carwale.com/mahindra-cars/marazzo/,carwale
+mahindra,Mahindra,global-pik-up,Global Pik Up,https://www.carwale.com/mahindra-cars/global-pik-up/,carwale
+mahindra,Mahindra,be07,Be07,https://www.carwale.com/mahindra-cars/be07/,carwale
+mahindra,Mahindra,vision-s-compact-suv,Vision S Compact Suv,https://www.carwale.com/mahindra-cars/vision-s-compact-suv/,carwale
+mahindra,Mahindra,vision-s-sub-compact-suv,Vision S Sub Compact Suv,https://www.carwale.com/mahindra-cars/vision-s-sub-compact-suv/,carwale
+mahindra,Mahindra,be09,Be09,https://www.carwale.com/mahindra-cars/be09/,carwale
+mahindra,Mahindra,vision-x-sub-compact-suv,Vision X Sub Compact Suv,https://www.carwale.com/mahindra-cars/vision-x-sub-compact-suv/,carwale
+mahindra,Mahindra,vision-x-compact-suv,Vision X Compact Suv,https://www.carwale.com/mahindra-cars/vision-x-compact-suv/,carwale
+mahindra,Mahindra,thar-electric,Thar Electric,https://www.carwale.com/mahindra-cars/thar-electric/,carwale
+mahindra,Mahindra,vision-t,Vision T,https://www.carwale.com/mahindra-cars/vision-t/,carwale
+mahindra,Mahindra,vision-sxt,Vision Sxt,https://www.carwale.com/mahindra-cars/vision-sxt/,carwale
+mahindra,Mahindra,xev-7e,Xev 7E,https://www.carwale.com/mahindra-cars/xev-7e/,carwale
+mahindra,Mahindra,xuv300-turbosport,Xuv300 Turbosport,https://www.carwale.com/mahindra-cars/xuv300-turbosport/,carwale
+mahindra,Mahindra,veritovibecs,Veritovibecs,https://www.carwale.com/mahindra-cars/veritovibecs/,carwale
+mahindra,Mahindra,xuv500,Xuv500,https://www.carwale.com/mahindra-cars/xuv500/,carwale
+mahindra,Mahindra,xylo,Xylo,https://www.carwale.com/mahindra-cars/xylo/,carwale
+mahindra,Mahindra,jeep,Jeep,https://www.carwale.com/mahindra-cars/jeep/,carwale
+mahindra,Mahindra,marshal,Marshal,https://www.carwale.com/mahindra-cars/marshal/,carwale
+mahindra,Mahindra,armada,Armada,https://www.carwale.com/mahindra-cars/armada/,carwale
+mahindra,Mahindra,voyager,Voyager,https://www.carwale.com/mahindra-cars/voyager/,carwale
+mahindra,Mahindra,tuv300,Tuv300,https://www.carwale.com/mahindra-cars/tuv300/,carwale
+mahindra,Mahindra,nuvosport,Nuvosport,https://www.carwale.com/mahindra-cars/nuvosport/,carwale
+mahindra,Mahindra,e2o-plus,E2O Plus,https://www.carwale.com/mahindra-cars/e2o-plus/,carwale
+mahindra,Mahindra,kuv100-nxt,Kuv100 Nxt,https://www.carwale.com/mahindra-cars/kuv100-nxt/,carwale
+mahindra,Mahindra,ekuv100,Ekuv100,https://www.carwale.com/mahindra-cars/ekuv100/,carwale
+mahindra,Mahindra,alturas-g4,Alturas G4,https://www.carwale.com/mahindra-cars/alturas-g4/,carwale
+mahindra,Mahindra,revai,Revai,https://www.carwale.com/mahindra-cars/revai/,carwale
+maruti-suzuki,Maruti Suzuki,fronx,Fronx,https://www.carwale.com/maruti-suzuki-cars/fronx/,carwale
+maruti-suzuki,Maruti Suzuki,baleno,Baleno,https://www.carwale.com/maruti-suzuki-cars/baleno/,carwale
+maruti-suzuki,Maruti Suzuki,swift,Swift,https://www.carwale.com/maruti-suzuki-cars/swift/,carwale
+maruti-suzuki,Maruti Suzuki,dzire,Dzire,https://www.carwale.com/maruti-suzuki-cars/dzire/,carwale
+maruti-suzuki,Maruti Suzuki,grand-vitara,Grand Vitara,https://www.carwale.com/maruti-suzuki-cars/grand-vitara/,carwale
+maruti-suzuki,Maruti Suzuki,brezza,Brezza,https://www.carwale.com/maruti-suzuki-cars/brezza/,carwale
+maruti-suzuki,Maruti Suzuki,victoris,Victoris,https://www.carwale.com/maruti-suzuki-cars/victoris/,carwale
+maruti-suzuki,Maruti Suzuki,wagon-r,Wagon R,https://www.carwale.com/maruti-suzuki-cars/wagon-r/,carwale
+maruti-suzuki,Maruti Suzuki,ertiga,Ertiga,https://www.carwale.com/maruti-suzuki-cars/ertiga/,carwale
+maruti-suzuki,Maruti Suzuki,alto-k10,Alto K10,https://www.carwale.com/maruti-suzuki-cars/alto-k10/,carwale
+maruti-suzuki,Maruti Suzuki,xl6,Xl6,https://www.carwale.com/maruti-suzuki-cars/xl6/,carwale
+maruti-suzuki,Maruti Suzuki,e-vitara,E Vitara,https://www.carwale.com/maruti-suzuki-cars/e-vitara/,carwale
+maruti-suzuki,Maruti Suzuki,celerio,Celerio,https://www.carwale.com/maruti-suzuki-cars/celerio/,carwale
+maruti-suzuki,Maruti Suzuki,s-presso,S Presso,https://www.carwale.com/maruti-suzuki-cars/s-presso/,carwale
+maruti-suzuki,Maruti Suzuki,jimny,Jimny,https://www.carwale.com/maruti-suzuki-cars/jimny/,carwale
+maruti-suzuki,Maruti Suzuki,eeco,Eeco,https://www.carwale.com/maruti-suzuki-cars/eeco/,carwale
+maruti-suzuki,Maruti Suzuki,invicto,Invicto,https://www.carwale.com/maruti-suzuki-cars/invicto/,carwale
+maruti-suzuki,Maruti Suzuki,2026-brezza,2026 Brezza,https://www.carwale.com/maruti-suzuki-cars/2026-brezza/,carwale
+maruti-suzuki,Maruti Suzuki,new-ertiga,New Ertiga,https://www.carwale.com/maruti-suzuki-cars/new-ertiga/,carwale
+maruti-suzuki,Maruti Suzuki,seven-seat-ev-mpv-ymc,Seven Seat Ev Mpv Ymc,https://www.carwale.com/maruti-suzuki-cars/seven-seat-ev-mpv-ymc/,carwale
+maruti-suzuki,Maruti Suzuki,sub-compact-suv,Sub Compact Suv,https://www.carwale.com/maruti-suzuki-cars/sub-compact-suv/,carwale
+maruti-suzuki,Maruti Suzuki,ignis,Ignis,https://www.carwale.com/maruti-suzuki-cars/ignis/,carwale
+maruti-suzuki,Maruti Suzuki,ciaz,Ciaz,https://www.carwale.com/maruti-suzuki-cars/ciaz/,carwale
+maruti-suzuki,Maruti Suzuki,fronx-flex-fuel,Fronx Flex Fuel,https://www.carwale.com/maruti-suzuki-cars/fronx-flex-fuel/,carwale
+maruti-suzuki,Maruti Suzuki,esteem,Esteem,https://www.carwale.com/maruti-suzuki-cars/esteem/,carwale
+maruti-suzuki,Maruti Suzuki,gypsy,Gypsy,https://www.carwale.com/maruti-suzuki-cars/gypsy/,carwale
+maruti-suzuki,Maruti Suzuki,omni,Omni,https://www.carwale.com/maruti-suzuki-cars/omni/,carwale
+maruti-suzuki,Maruti Suzuki,versa,Versa,https://www.carwale.com/maruti-suzuki-cars/versa/,carwale
+maruti-suzuki,Maruti Suzuki,zen,Zen,https://www.carwale.com/maruti-suzuki-cars/zen/,carwale
+maruti-suzuki,Maruti Suzuki,estilo,Estilo,https://www.carwale.com/maruti-suzuki-cars/estilo/,carwale
+maruti-suzuki,Maruti Suzuki,sx4,Sx4,https://www.carwale.com/maruti-suzuki-cars/sx4/,carwale
+maruti-suzuki,Maruti Suzuki,a-star,A Star,https://www.carwale.com/maruti-suzuki-cars/a-star/,carwale
+maruti-suzuki,Maruti Suzuki,ritz,Ritz,https://www.carwale.com/maruti-suzuki-cars/ritz/,carwale
+maruti-suzuki,Maruti Suzuki,kizashi,Kizashi,https://www.carwale.com/maruti-suzuki-cars/kizashi/,carwale
+maruti-suzuki,Maruti Suzuki,alto-800,Alto 800,https://www.carwale.com/maruti-suzuki-cars/alto-800/,carwale
+maruti-suzuki,Maruti Suzuki,s-cross,S Cross,https://www.carwale.com/maruti-suzuki-cars/s-cross/,carwale
+maruti-suzuki,Maruti Suzuki,celerio-x,Celerio X,https://www.carwale.com/maruti-suzuki-cars/celerio-x/,carwale
+maruti-suzuki,Maruti Suzuki,futuro-e,Futuro E,https://www.carwale.com/maruti-suzuki-cars/futuro-e/,carwale
+maserati,Maserati,ghibli,Ghibli,https://www.carwale.com/maserati-cars/ghibli/,carwale
+maserati,Maserati,mc20,Mc20,https://www.carwale.com/maserati-cars/mc20/,carwale
+maserati,Maserati,levante,Levante,https://www.carwale.com/maserati-cars/levante/,carwale
+maserati,Maserati,mcpura,Mcpura,https://www.carwale.com/maserati-cars/mcpura/,carwale
+maserati,Maserati,granturismo,Granturismo,https://www.carwale.com/maserati-cars/granturismo/,carwale
+maserati,Maserati,grecale,Grecale,https://www.carwale.com/maserati-cars/grecale/,carwale
+maserati,Maserati,quattroporte,Quattroporte,https://www.carwale.com/maserati-cars/quattroporte/,carwale
+maserati,Maserati,grancabrio,Grancabrio,https://www.carwale.com/maserati-cars/grancabrio/,carwale
+mclaren,McLaren,750s,750S,https://www.carwale.com/mclaren-cars/750s/,carwale
+mclaren,McLaren,gt,Gt,https://www.carwale.com/mclaren-cars/gt/,carwale
+mclaren,McLaren,720s,720S,https://www.carwale.com/mclaren-cars/720s/,carwale
+mclaren,McLaren,570s,570S,https://www.carwale.com/mclaren-cars/570s/,carwale
+mclaren,McLaren,artura,Artura,https://www.carwale.com/mclaren-cars/artura/,carwale
+mercedes-benz,Mercedes-Benz,g580-with-eq-technology,G580 With Eq Technology,https://www.carwale.com/mercedes-benz-cars/g580-with-eq-technology/,carwale
+mercedes-benz,Mercedes-Benz,c-class,C Class,https://www.carwale.com/mercedes-benz-cars/c-class/,carwale
+mercedes-benz,Mercedes-Benz,cla-ev,Cla Ev,https://www.carwale.com/mercedes-benz-cars/cla-ev/,carwale
+mercedes-benz,Mercedes-Benz,g-class,G Class,https://www.carwale.com/mercedes-benz-cars/g-class/,carwale
+mercedes-benz,Mercedes-Benz,gls,Gls,https://www.carwale.com/mercedes-benz-cars/gls/,carwale
+mercedes-benz,Mercedes-Benz,gla,Gla,https://www.carwale.com/mercedes-benz-cars/gla/,carwale
+mercedes-benz,Mercedes-Benz,e-class,E Class,https://www.carwale.com/mercedes-benz-cars/e-class/,carwale
+mercedes-benz,Mercedes-Benz,glc,Glc,https://www.carwale.com/mercedes-benz-cars/glc/,carwale
+mercedes-benz,Mercedes-Benz,gle,Gle,https://www.carwale.com/mercedes-benz-cars/gle/,carwale
+mercedes-benz,Mercedes-Benz,maybach-s-class,Maybach S Class,https://www.carwale.com/mercedes-benz-cars/maybach-s-class/,carwale
+mercedes-benz,Mercedes-Benz,amg-cle,Amg Cle,https://www.carwale.com/mercedes-benz-cars/amg-cle/,carwale
+mercedes-benz,Mercedes-Benz,v-class,V Class,https://www.carwale.com/mercedes-benz-cars/v-class/,carwale
+mercedes-benz,Mercedes-Benz,s-class,S Class,https://www.carwale.com/mercedes-benz-cars/s-class/,carwale
+mercedes-benz,Mercedes-Benz,amg-g-class,Amg G Class,https://www.carwale.com/mercedes-benz-cars/amg-g-class/,carwale
+mercedes-benz,Mercedes-Benz,maybach-gls,Maybach Gls,https://www.carwale.com/mercedes-benz-cars/maybach-gls/,carwale
+mercedes-benz,Mercedes-Benz,amg-gla35,Amg Gla35,https://www.carwale.com/mercedes-benz-cars/amg-gla35/,carwale
+mercedes-benz,Mercedes-Benz,amg-glc43-coupe,Amg Glc43 Coupe,https://www.carwale.com/mercedes-benz-cars/amg-glc43-coupe/,carwale
+mercedes-benz,Mercedes-Benz,amg-gt-63,Amg Gt 63,https://www.carwale.com/mercedes-benz-cars/amg-gt-63/,carwale
+mercedes-benz,Mercedes-Benz,eqs,Eqs,https://www.carwale.com/mercedes-benz-cars/eqs/,carwale
+mercedes-benz,Mercedes-Benz,amg-c-43,Amg C 43,https://www.carwale.com/mercedes-benz-cars/amg-c-43/,carwale
+mercedes-benz,Mercedes-Benz,amg-gle-coupe,Amg Gle Coupe,https://www.carwale.com/mercedes-benz-cars/amg-gle-coupe/,carwale
+mercedes-benz,Mercedes-Benz,eqs-suv,Eqs Suv,https://www.carwale.com/mercedes-benz-cars/eqs-suv/,carwale
+mercedes-benz,Mercedes-Benz,amg-a45-s,Amg A45 S,https://www.carwale.com/mercedes-benz-cars/amg-a45-s/,carwale
+mercedes-benz,Mercedes-Benz,maybach-sl-680,Maybach Sl 680,https://www.carwale.com/mercedes-benz-cars/maybach-sl-680/,carwale
+mercedes-benz,Mercedes-Benz,amg-gt-63-s-4matic-plus,Amg Gt 63 S 4Matic Plus,https://www.carwale.com/mercedes-benz-cars/amg-gt-63-s-4matic-plus/,carwale
+mercedes-benz,Mercedes-Benz,amg-eqs,Amg Eqs,https://www.carwale.com/mercedes-benz-cars/amg-eqs/,carwale
+mercedes-benz,Mercedes-Benz,eqe-suv,Eqe Suv,https://www.carwale.com/mercedes-benz-cars/eqe-suv/,carwale
+mercedes-benz,Mercedes-Benz,amg-gt-63-s-e-performance,Amg Gt 63 S E Performance,https://www.carwale.com/mercedes-benz-cars/amg-gt-63-s-e-performance/,carwale
+mercedes-benz,Mercedes-Benz,maybach-eqs-suv,Maybach Eqs Suv,https://www.carwale.com/mercedes-benz-cars/maybach-eqs-suv/,carwale
+mercedes-benz,Mercedes-Benz,amg-s-63-e-performance,Amg S 63 E Performance,https://www.carwale.com/mercedes-benz-cars/amg-s-63-e-performance/,carwale
+mercedes-benz,Mercedes-Benz,amg-c-63-s-e-performance,Amg C 63 S E Performance,https://www.carwale.com/mercedes-benz-cars/amg-c-63-s-e-performance/,carwale
+mercedes-benz,Mercedes-Benz,new-gls,New Gls,https://www.carwale.com/mercedes-benz-cars/new-gls/,carwale
+mercedes-benz,Mercedes-Benz,c-class-ev,C Class Ev,https://www.carwale.com/mercedes-benz-cars/c-class-ev/,carwale
+mercedes-benz,Mercedes-Benz,new-gle,New Gle,https://www.carwale.com/mercedes-benz-cars/new-gle/,carwale
+mercedes-benz,Mercedes-Benz,glc-ev,Glc Ev,https://www.carwale.com/mercedes-benz-cars/glc-ev/,carwale
+mercedes-benz,Mercedes-Benz,a-class-limousine,A Class Limousine,https://www.carwale.com/mercedes-benz-cars/a-class-limousine/,carwale
+mercedes-benz,Mercedes-Benz,eqb,Eqb,https://www.carwale.com/mercedes-benz-cars/eqb/,carwale
+mercedes-benz,Mercedes-Benz,eqa,Eqa,https://www.carwale.com/mercedes-benz-cars/eqa/,carwale
+mercedes-benz,Mercedes-Benz,sl,Sl,https://www.carwale.com/mercedes-benz-cars/sl/,carwale
+mercedes-benz,Mercedes-Benz,clk,Clk,https://www.carwale.com/mercedes-benz-cars/clk/,carwale
+mercedes-benz,Mercedes-Benz,slk,Slk,https://www.carwale.com/mercedes-benz-cars/slk/,carwale
+mercedes-benz,Mercedes-Benz,cls,Cls,https://www.carwale.com/mercedes-benz-cars/cls/,carwale
+mercedes-benz,Mercedes-Benz,amg-e53,Amg E53,https://www.carwale.com/mercedes-benz-cars/amg-e53/,carwale
+mercedes-benz,Mercedes-Benz,mclass,Mclass,https://www.carwale.com/mercedes-benz-cars/mclass/,carwale
+mercedes-benz,Mercedes-Benz,mbclass,Mbclass,https://www.carwale.com/mercedes-benz-cars/mbclass/,carwale
+mercedes-benz,Mercedes-Benz,gl,Gl,https://www.carwale.com/mercedes-benz-cars/gl/,carwale
+mercedes-benz,Mercedes-Benz,amg-gt,Amg Gt,https://www.carwale.com/mercedes-benz-cars/amg-gt/,carwale
+mercedes-benz,Mercedes-Benz,rclass,Rclass,https://www.carwale.com/mercedes-benz-cars/rclass/,carwale
+mercedes-benz,Mercedes-Benz,190,190,https://www.carwale.com/mercedes-benz-cars/190/,carwale
+mercedes-benz,Mercedes-Benz,b-class,B Class,https://www.carwale.com/mercedes-benz-cars/b-class/,carwale
+mercedes-benz,Mercedes-Benz,sdl,Sdl,https://www.carwale.com/mercedes-benz-cars/sdl/,carwale
+mercedes-benz,Mercedes-Benz,viano,Viano,https://www.carwale.com/mercedes-benz-cars/viano/,carwale
+mercedes-benz,Mercedes-Benz,s-coupe,S Coupe,https://www.carwale.com/mercedes-benz-cars/s-coupe/,carwale
+mercedes-benz,Mercedes-Benz,slc,Slc,https://www.carwale.com/mercedes-benz-cars/slc/,carwale
+mercedes-benz,Mercedes-Benz,w123,W123,https://www.carwale.com/mercedes-benz-cars/w123/,carwale
+mercedes-benz,Mercedes-Benz,200,200,https://www.carwale.com/mercedes-benz-cars/200/,carwale
+mercedes-benz,Mercedes-Benz,glc-coupe,Glc Coupe,https://www.carwale.com/mercedes-benz-cars/glc-coupe/,carwale
+mercedes-benz,Mercedes-Benz,e-class-all-terrain,E Class All Terrain,https://www.carwale.com/mercedes-benz-cars/e-class-all-terrain/,carwale
+mercedes-benz,Mercedes-Benz,c-coupe,C Coupe,https://www.carwale.com/mercedes-benz-cars/c-coupe/,carwale
+mercedes-benz,Mercedes-Benz,eqc,Eqc,https://www.carwale.com/mercedes-benz-cars/eqc/,carwale
+mercedes-benz,Mercedes-Benz,amg-a35,Amg A35,https://www.carwale.com/mercedes-benz-cars/amg-a35/,carwale
+mini,Mini,countryman-c,Countryman C,https://www.carwale.com/mini-cars/countryman-c/,carwale
+mini,Mini,cooper,Cooper,https://www.carwale.com/mini-cars/cooper/,carwale
+mini,Mini,cooper-s-convertible,Cooper S Convertible,https://www.carwale.com/mini-cars/cooper-s-convertible/,carwale
+mini,Mini,countryman,Countryman,https://www.carwale.com/mini-cars/countryman/,carwale
+mini,Mini,cooper-se,Cooper Se,https://www.carwale.com/mini-cars/cooper-se/,carwale
+mini,Mini,countryman-electric,Countryman Electric,https://www.carwale.com/mini-cars/countryman-electric/,carwale
+mini,Mini,countryman-jcw,Countryman Jcw,https://www.carwale.com/mini-cars/countryman-jcw/,carwale
+mini,Mini,clubman,Clubman,https://www.carwale.com/mini-cars/clubman/,carwale
+mini,Mini,cooper-jcw,Cooper Jcw,https://www.carwale.com/mini-cars/cooper-jcw/,carwale
+mini,Mini,cooper-convertible,Cooper Convertible,https://www.carwale.com/mini-cars/cooper-convertible/,carwale
+nissan,Nissan,tekton,Tekton,https://www.carwale.com/nissan-cars/tekton/,carwale
+nissan,Nissan,gravite,Gravite,https://www.carwale.com/nissan-cars/gravite/,carwale
+nissan,Nissan,magnite,Magnite,https://www.carwale.com/nissan-cars/magnite/,carwale
+nissan,Nissan,x-trail,X Trail,https://www.carwale.com/nissan-cars/x-trail/,carwale
+nissan,Nissan,sunny,Sunny,https://www.carwale.com/nissan-cars/sunny/,carwale
+nissan,Nissan,safarigranroad,Safarigranroad,https://www.carwale.com/nissan-cars/safarigranroad/,carwale
+nissan,Nissan,micra-active,Micra Active,https://www.carwale.com/nissan-cars/micra-active/,carwale
+nissan,Nissan,terrano,Terrano,https://www.carwale.com/nissan-cars/terrano/,carwale
+nissan,Nissan,nv350,Nv350,https://www.carwale.com/nissan-cars/nv350/,carwale
+nissan,Nissan,kicks,Kicks,https://www.carwale.com/nissan-cars/kicks/,carwale
+nissan,Nissan,murano,Murano,https://www.carwale.com/nissan-cars/murano/,carwale
+nissan,Nissan,qashqai,Qashqai,https://www.carwale.com/nissan-cars/qashqai/,carwale
+nissan,Nissan,juke,Juke,https://www.carwale.com/nissan-cars/juke/,carwale
+nissan,Nissan,leaf-ev,Leaf Ev,https://www.carwale.com/nissan-cars/leaf-ev/,carwale
+nissan,Nissan,patrol,Patrol,https://www.carwale.com/nissan-cars/patrol/,carwale
+nissan,Nissan,infiniti,Infiniti,https://www.carwale.com/nissan-cars/infiniti/,carwale
+nissan,Nissan,cima,Cima,https://www.carwale.com/nissan-cars/cima/,carwale
+nissan,Nissan,gloria,Gloria,https://www.carwale.com/nissan-cars/gloria/,carwale
+nissan,Nissan,350z,350Z,https://www.carwale.com/nissan-cars/350z/,carwale
+nissan,Nissan,serena,Serena,https://www.carwale.com/nissan-cars/serena/,carwale
+nissan,Nissan,fairlady300zx,Fairlady300Zx,https://www.carwale.com/nissan-cars/fairlady300zx/,carwale
+nissan,Nissan,gtr,Gtr,https://www.carwale.com/nissan-cars/gtr/,carwale
+nissan,Nissan,cedric,Cedric,https://www.carwale.com/nissan-cars/cedric/,carwale
+nissan,Nissan,jonga,Jonga,https://www.carwale.com/nissan-cars/jonga/,carwale
+nissan,Nissan,laurel,Laurel,https://www.carwale.com/nissan-cars/laurel/,carwale
+nissan,Nissan,bluebird,Bluebird,https://www.carwale.com/nissan-cars/bluebird/,carwale
+ola,Ola,electric-sedan,Electric Sedan,https://www.carwale.com/ola-cars/electric-sedan/,carwale
+porsche,Porsche,911,911,https://www.carwale.com/porsche-cars/911/,carwale
+porsche,Porsche,macan,Macan,https://www.carwale.com/porsche-cars/macan/,carwale
+porsche,Porsche,cayenne,Cayenne,https://www.carwale.com/porsche-cars/cayenne/,carwale
+porsche,Porsche,taycan,Taycan,https://www.carwale.com/porsche-cars/taycan/,carwale
+porsche,Porsche,panamera,Panamera,https://www.carwale.com/porsche-cars/panamera/,carwale
+porsche,Porsche,macan-turbo-ev,Macan Turbo Ev,https://www.carwale.com/porsche-cars/macan-turbo-ev/,carwale
+porsche,Porsche,cayenne-ev,Cayenne Ev,https://www.carwale.com/porsche-cars/cayenne-ev/,carwale
+porsche,Porsche,cayenne-coupe,Cayenne Coupe,https://www.carwale.com/porsche-cars/cayenne-coupe/,carwale
+porsche,Porsche,718,718,https://www.carwale.com/porsche-cars/718/,carwale
+porsche,Porsche,taycan-cross-turismo,Taycan Cross Turismo,https://www.carwale.com/porsche-cars/taycan-cross-turismo/,carwale
+porsche,Porsche,carreragt,Carreragt,https://www.carwale.com/porsche-cars/carreragt/,carwale
+pravaig,Pravaig,defy,Defy,https://www.carwale.com/pravaig-cars/defy/,carwale
+renault,Renault,triber,Triber,https://www.carwale.com/renault-cars/triber/,carwale
+renault,Renault,duster,Duster,https://www.carwale.com/renault-cars/duster/,carwale
+renault,Renault,kiger,Kiger,https://www.carwale.com/renault-cars/kiger/,carwale
+renault,Renault,kwid,Kwid,https://www.carwale.com/renault-cars/kwid/,carwale
+renault,Renault,boreal-bigster,Boreal Bigster,https://www.carwale.com/renault-cars/boreal-bigster/,carwale
+renault,Renault,bridger,Bridger,https://www.carwale.com/renault-cars/bridger/,carwale
+renault,Renault,kwid-ev,Kwid Ev,https://www.carwale.com/renault-cars/kwid-ev/,carwale
+renault,Renault,lodgy,Lodgy,https://www.carwale.com/renault-cars/lodgy/,carwale
+renault,Renault,scenic,Scenic,https://www.carwale.com/renault-cars/scenic/,carwale
+renault,Renault,megane,Megane,https://www.carwale.com/renault-cars/megane/,carwale
+renault,Renault,captur,Captur,https://www.carwale.com/renault-cars/captur/,carwale
+rolls-royce,Rolls-Royce,phantom,Phantom,https://www.carwale.com/rolls-royce-cars/phantom/,carwale
+rolls-royce,Rolls-Royce,cullinan,Cullinan,https://www.carwale.com/rolls-royce-cars/cullinan/,carwale
+rolls-royce,Rolls-Royce,spectre,Spectre,https://www.carwale.com/rolls-royce-cars/spectre/,carwale
+rolls-royce,Rolls-Royce,phantomcoupe,Phantomcoupe,https://www.carwale.com/rolls-royce-cars/phantomcoupe/,carwale
+rolls-royce,Rolls-Royce,dropheadcoupe,Dropheadcoupe,https://www.carwale.com/rolls-royce-cars/dropheadcoupe/,carwale
+rolls-royce,Rolls-Royce,ghost-series-ii,Ghost Series Ii,https://www.carwale.com/rolls-royce-cars/ghost-series-ii/,carwale
+rolls-royce,Rolls-Royce,wraith,Wraith,https://www.carwale.com/rolls-royce-cars/wraith/,carwale
+rolls-royce,Rolls-Royce,dawn,Dawn,https://www.carwale.com/rolls-royce-cars/dawn/,carwale
+rolls-royce,Rolls-Royce,silver-spur,Silver Spur,https://www.carwale.com/rolls-royce-cars/silver-spur/,carwale
+skoda,Skoda,kylaq,Kylaq,https://www.carwale.com/skoda-cars/kylaq/,carwale
+skoda,Skoda,slavia,Slavia,https://www.carwale.com/skoda-cars/slavia/,carwale
+skoda,Skoda,kushaq,Kushaq,https://www.carwale.com/skoda-cars/kushaq/,carwale
+skoda,Skoda,kodiaq,Kodiaq,https://www.carwale.com/skoda-cars/kodiaq/,carwale
+skoda,Skoda,octaviars,Octaviars,https://www.carwale.com/skoda-cars/octaviars/,carwale
+skoda,Skoda,kodiaq-rs,Kodiaq Rs,https://www.carwale.com/skoda-cars/kodiaq-rs/,carwale
+skoda,Skoda,new-superb,New Superb,https://www.carwale.com/skoda-cars/new-superb/,carwale
+skoda,Skoda,epiq,Epiq,https://www.carwale.com/skoda-cars/epiq/,carwale
+skoda,Skoda,peaq,Peaq,https://www.carwale.com/skoda-cars/peaq/,carwale
+skoda,Skoda,elroq,Elroq,https://www.carwale.com/skoda-cars/elroq/,carwale
+skoda,Skoda,enyaq,Enyaq,https://www.carwale.com/skoda-cars/enyaq/,carwale
+skoda,Skoda,rapid-tsi,Rapid Tsi,https://www.carwale.com/skoda-cars/rapid-tsi/,carwale
+skoda,Skoda,octavia,Octavia,https://www.carwale.com/skoda-cars/octavia/,carwale
+skoda,Skoda,kamiq,Kamiq,https://www.carwale.com/skoda-cars/kamiq/,carwale
+skoda,Skoda,yeti,Yeti,https://www.carwale.com/skoda-cars/yeti/,carwale
+skoda,Skoda,laura,Laura,https://www.carwale.com/skoda-cars/laura/,carwale
+skoda,Skoda,fabia-scout,Fabia Scout,https://www.carwale.com/skoda-cars/fabia-scout/,carwale
+skoda,Skoda,karoq,Karoq,https://www.carwale.com/skoda-cars/karoq/,carwale
+tata,Tata,punch,Punch,https://www.carwale.com/tata-cars/punch/,carwale
+tata,Tata,nexon,Nexon,https://www.carwale.com/tata-cars/nexon/,carwale
+tata,Tata,tiago,Tiago,https://www.carwale.com/tata-cars/tiago/,carwale
+tata,Tata,sierra,Sierra,https://www.carwale.com/tata-cars/sierra/,carwale
+tata,Tata,tiago-ev,Tiago Ev,https://www.carwale.com/tata-cars/tiago-ev/,carwale
+tata,Tata,harrier,Harrier,https://www.carwale.com/tata-cars/harrier/,carwale
+tata,Tata,punch-ev,Punch Ev,https://www.carwale.com/tata-cars/punch-ev/,carwale
+tata,Tata,altroz,Altroz,https://www.carwale.com/tata-cars/altroz/,carwale
+tata,Tata,harrier-ev,Harrier Ev,https://www.carwale.com/tata-cars/harrier-ev/,carwale
+tata,Tata,safari,Safari,https://www.carwale.com/tata-cars/safari/,carwale
+tata,Tata,curvv,Curvv,https://www.carwale.com/tata-cars/curvv/,carwale
+tata,Tata,nexon-ev,Nexon Ev,https://www.carwale.com/tata-cars/nexon-ev/,carwale
+tata,Tata,curvv-ev,Curvv Ev,https://www.carwale.com/tata-cars/curvv-ev/,carwale
+tata,Tata,tigor,Tigor,https://www.carwale.com/tata-cars/tigor/,carwale
+tata,Tata,tigor-ev,Tigor Ev,https://www.carwale.com/tata-cars/tigor-ev/,carwale
+tata,Tata,sierra-ev,Sierra Ev,https://www.carwale.com/tata-cars/sierra-ev/,carwale
+tata,Tata,new-tigor,New Tigor,https://www.carwale.com/tata-cars/new-tigor/,carwale
+tata,Tata,new-tigor-ev,New Tigor Ev,https://www.carwale.com/tata-cars/new-tigor-ev/,carwale
+tata,Tata,safari-ev,Safari Ev,https://www.carwale.com/tata-cars/safari-ev/,carwale
+tata,Tata,altroz-ev,Altroz Ev,https://www.carwale.com/tata-cars/altroz-ev/,carwale
+tata,Tata,avinya,Avinya,https://www.carwale.com/tata-cars/avinya/,carwale
+tata,Tata,tiago-nrg,Tiago Nrg,https://www.carwale.com/tata-cars/tiago-nrg/,carwale
+tata,Tata,tigor-jtp,Tigor Jtp,https://www.carwale.com/tata-cars/tigor-jtp/,carwale
+tata,Tata,tiago-jtp,Tiago Jtp,https://www.carwale.com/tata-cars/tiago-jtp/,carwale
+tata,Tata,harrier-old-generation,Harrier Old Generation,https://www.carwale.com/tata-cars/harrier-old-generation/,carwale
+tata,Tata,hexa,Hexa,https://www.carwale.com/tata-cars/hexa/,carwale
+tata,Tata,safari-old-generation,Safari Old Generation,https://www.carwale.com/tata-cars/safari-old-generation/,carwale
+tata,Tata,nexon-ev-prime,Nexon Ev Prime,https://www.carwale.com/tata-cars/nexon-ev-prime/,carwale
+tata,Tata,movus,Movus,https://www.carwale.com/tata-cars/movus/,carwale
+tata,Tata,vistatech,Vistatech,https://www.carwale.com/tata-cars/vistatech/,carwale
+tata,Tata,venture,Venture,https://www.carwale.com/tata-cars/venture/,carwale
+tata,Tata,nano-genx,Nano Genx,https://www.carwale.com/tata-cars/nano-genx/,carwale
+tata,Tata,xenonxt,Xenonxt,https://www.carwale.com/tata-cars/xenonxt/,carwale
+tata,Tata,zest,Zest,https://www.carwale.com/tata-cars/zest/,carwale
+tata,Tata,tl,Tl,https://www.carwale.com/tata-cars/tl/,carwale
+tata,Tata,estate,Estate,https://www.carwale.com/tata-cars/estate/,carwale
+tata,Tata,sumo-gold,Sumo Gold,https://www.carwale.com/tata-cars/sumo-gold/,carwale
+tata,Tata,bolt,Bolt,https://www.carwale.com/tata-cars/bolt/,carwale
+tesla,Tesla,model-y,Model Y,https://www.carwale.com/tesla-cars/model-y/,carwale
+tesla,Tesla,model-3,Model 3,https://www.carwale.com/tesla-cars/model-3/,carwale
+tesla,Tesla,model-s,Model S,https://www.carwale.com/tesla-cars/model-s/,carwale
+toyota,Toyota,hyryder,Hyryder,https://www.carwale.com/toyota-cars/hyryder/,carwale
+toyota,Toyota,innova-crysta,Innova Crysta,https://www.carwale.com/toyota-cars/innova-crysta/,carwale
+toyota,Toyota,innova-hycross,Innova Hycross,https://www.carwale.com/toyota-cars/innova-hycross/,carwale
+toyota,Toyota,fortuner,Fortuner,https://www.carwale.com/toyota-cars/fortuner/,carwale
+toyota,Toyota,taisor,Taisor,https://www.carwale.com/toyota-cars/taisor/,carwale
+toyota,Toyota,glanza,Glanza,https://www.carwale.com/toyota-cars/glanza/,carwale
+toyota,Toyota,rumion,Rumion,https://www.carwale.com/toyota-cars/rumion/,carwale
+toyota,Toyota,hilux,Hilux,https://www.carwale.com/toyota-cars/hilux/,carwale
+toyota,Toyota,camry,Camry,https://www.carwale.com/toyota-cars/camry/,carwale
+toyota,Toyota,fortuner-legender,Fortuner Legender,https://www.carwale.com/toyota-cars/fortuner-legender/,carwale
+toyota,Toyota,urban-cruiser-ebella,Urban Cruiser Ebella,https://www.carwale.com/toyota-cars/urban-cruiser-ebella/,carwale
+toyota,Toyota,land-cruiser,Land Cruiser,https://www.carwale.com/toyota-cars/land-cruiser/,carwale
+toyota,Toyota,vellfire,Vellfire,https://www.carwale.com/toyota-cars/vellfire/,carwale
+toyota,Toyota,urban-cruiser-hyryder-7-seater,Urban Cruiser Hyryder 7 Seater,https://www.carwale.com/toyota-cars/urban-cruiser-hyryder-7-seater/,carwale
+toyota,Toyota,bz4x,Bz4X,https://www.carwale.com/toyota-cars/bz4x/,carwale
+toyota,Toyota,new-rumion,New Rumion,https://www.carwale.com/toyota-cars/new-rumion/,carwale
+toyota,Toyota,new-land-cruiser-fj,New Land Cruiser Fj,https://www.carwale.com/toyota-cars/new-land-cruiser-fj/,carwale
+toyota,Toyota,urban-cruiser,Urban Cruiser,https://www.carwale.com/toyota-cars/urban-cruiser/,carwale
+toyota,Toyota,ventury,Ventury,https://www.carwale.com/toyota-cars/ventury/,carwale
+toyota,Toyota,prius,Prius,https://www.carwale.com/toyota-cars/prius/,carwale
+toyota,Toyota,platinum-etios,Platinum Etios,https://www.carwale.com/toyota-cars/platinum-etios/,carwale
+toyota,Toyota,etios-liva,Etios Liva,https://www.carwale.com/toyota-cars/etios-liva/,carwale
+toyota,Toyota,corolla-altis,Corolla Altis,https://www.carwale.com/toyota-cars/corolla-altis/,carwale
+toyota,Toyota,new-toyota-rumion,New Toyota Rumion,https://www.carwale.com/toyota-cars/new-toyota-rumion/,carwale
+toyota,Toyota,hiace,Hiace,https://www.carwale.com/toyota-cars/hiace/,carwale
+toyota,Toyota,belta,Belta,https://www.carwale.com/toyota-cars/belta/,carwale
+toyota,Toyota,tundra,Tundra,https://www.carwale.com/toyota-cars/tundra/,carwale
+toyota,Toyota,rush,Rush,https://www.carwale.com/toyota-cars/rush/,carwale
+toyota,Toyota,lexus,Lexus,https://www.carwale.com/toyota-cars/lexus/,carwale
+toyota,Toyota,commuter,Commuter,https://www.carwale.com/toyota-cars/commuter/,carwale
+toyota,Toyota,rav4,Rav4,https://www.carwale.com/toyota-cars/rav4/,carwale
+toyota,Toyota,estima,Estima,https://www.carwale.com/toyota-cars/estima/,carwale
+toyota,Toyota,tercel,Tercel,https://www.carwale.com/toyota-cars/tercel/,carwale
+toyota,Toyota,cressida,Cressida,https://www.carwale.com/toyota-cars/cressida/,carwale
+toyota,Toyota,majesta,Majesta,https://www.carwale.com/toyota-cars/majesta/,carwale
+toyota,Toyota,corollaceres,Corollaceres,https://www.carwale.com/toyota-cars/corollaceres/,carwale
+toyota,Toyota,sera,Sera,https://www.carwale.com/toyota-cars/sera/,carwale
+toyota,Toyota,cresta,Cresta,https://www.carwale.com/toyota-cars/cresta/,carwale
+toyota,Toyota,celica,Celica,https://www.carwale.com/toyota-cars/celica/,carwale
+toyota,Toyota,cynos,Cynos,https://www.carwale.com/toyota-cars/cynos/,carwale
+toyota,Toyota,mr2,Mr2,https://www.carwale.com/toyota-cars/mr2/,carwale
+toyota,Toyota,crown,Crown,https://www.carwale.com/toyota-cars/crown/,carwale
+toyota,Toyota,corona,Corona,https://www.carwale.com/toyota-cars/corona/,carwale
+toyota,Toyota,landcruiserprado,Landcruiserprado,https://www.carwale.com/toyota-cars/landcruiserprado/,carwale
+toyota,Toyota,yaris,Yaris,https://www.carwale.com/toyota-cars/yaris/,carwale
+toyota,Toyota,markii,Markii,https://www.carwale.com/toyota-cars/markii/,carwale
+toyota,Toyota,masterace,Masterace,https://www.carwale.com/toyota-cars/masterace/,carwale
+vinfast,VinFast,vf-6,Vf 6,https://www.carwale.com/vinfast-cars/vf-6/,carwale
+vinfast,VinFast,vf-7,Vf 7,https://www.carwale.com/vinfast-cars/vf-7/,carwale
+vinfast,VinFast,vf-mpv-7,Vf Mpv 7,https://www.carwale.com/vinfast-cars/vf-mpv-7/,carwale
+vinfast,VinFast,vf-3,Vf 3,https://www.carwale.com/vinfast-cars/vf-3/,carwale
+vinfast,VinFast,vf-9,Vf 9,https://www.carwale.com/vinfast-cars/vf-9/,carwale
+vinfast,VinFast,vf-e34,Vf E34,https://www.carwale.com/vinfast-cars/vf-e34/,carwale
+vinfast,VinFast,vf-8,Vf 8,https://www.carwale.com/vinfast-cars/vf-8/,carwale
+volkswagen,Volkswagen,taigun,Taigun,https://www.carwale.com/volkswagen-cars/taigun/,carwale
+volkswagen,Volkswagen,virtus,Virtus,https://www.carwale.com/volkswagen-cars/virtus/,carwale
+volkswagen,Volkswagen,tiguan-r-line,Tiguan R Line,https://www.carwale.com/volkswagen-cars/tiguan-r-line/,carwale
+volkswagen,Volkswagen,tayron-r-line,Tayron R Line,https://www.carwale.com/volkswagen-cars/tayron-r-line/,carwale
+volkswagen,Volkswagen,golf-gti,Golf Gti,https://www.carwale.com/volkswagen-cars/golf-gti/,carwale
+volkswagen,Volkswagen,tera-suv,Tera Suv,https://www.carwale.com/volkswagen-cars/tera-suv/,carwale
+volkswagen,Volkswagen,id4,Id4,https://www.carwale.com/volkswagen-cars/id4/,carwale
+volkswagen,Volkswagen,tiguan,Tiguan,https://www.carwale.com/volkswagen-cars/tiguan/,carwale
+volkswagen,Volkswagen,vento,Vento,https://www.carwale.com/volkswagen-cars/vento/,carwale
+volkswagen,Volkswagen,passat,Passat,https://www.carwale.com/volkswagen-cars/passat/,carwale
+volkswagen,Volkswagen,polo,Polo,https://www.carwale.com/volkswagen-cars/polo/,carwale
+volkswagen,Volkswagen,t-roc,T Roc,https://www.carwale.com/volkswagen-cars/t-roc/,carwale
+volkswagen,Volkswagen,tiguan-allspace,Tiguan Allspace,https://www.carwale.com/volkswagen-cars/tiguan-allspace/,carwale
+volkswagen,Volkswagen,transporter,Transporter,https://www.carwale.com/volkswagen-cars/transporter/,carwale
+volkswagen,Volkswagen,7hm-h13,7Hm H13,https://www.carwale.com/volkswagen-cars/7hm-h13/,carwale
+volkswagen,Volkswagen,touareg,Touareg,https://www.carwale.com/volkswagen-cars/touareg/,carwale
+volkswagen,Volkswagen,1600,1600,https://www.carwale.com/volkswagen-cars/1600/,carwale
+volkswagen,Volkswagen,caravelle,Caravelle,https://www.carwale.com/volkswagen-cars/caravelle/,carwale
+volkswagen,Volkswagen,beetle,Beetle,https://www.carwale.com/volkswagen-cars/beetle/,carwale
+volkswagen,Volkswagen,phaeton,Phaeton,https://www.carwale.com/volkswagen-cars/phaeton/,carwale
+volkswagen,Volkswagen,jetta,Jetta,https://www.carwale.com/volkswagen-cars/jetta/,carwale
+volkswagen,Volkswagen,ameo,Ameo,https://www.carwale.com/volkswagen-cars/ameo/,carwale
+volkswagen,Volkswagen,gti,Gti,https://www.carwale.com/volkswagen-cars/gti/,carwale
+volvo,Volvo,ex30,Ex30,https://www.carwale.com/volvo-cars/ex30/,carwale
+volvo,Volvo,xc90,Xc90,https://www.carwale.com/volvo-cars/xc90/,carwale
+volvo,Volvo,xc60,Xc60,https://www.carwale.com/volvo-cars/xc60/,carwale
+volvo,Volvo,ec40,Ec40,https://www.carwale.com/volvo-cars/ec40/,carwale
+volvo,Volvo,ex90,Ex90,https://www.carwale.com/volvo-cars/ex90/,carwale
+volvo,Volvo,s90,S90,https://www.carwale.com/volvo-cars/s90/,carwale
+volvo,Volvo,ex40,Ex40,https://www.carwale.com/volvo-cars/ex40/,carwale
+volvo,Volvo,v90-cross-country,V90 Cross Country,https://www.carwale.com/volvo-cars/v90-cross-country/,carwale
+volvo,Volvo,xc40,Xc40,https://www.carwale.com/volvo-cars/xc40/,carwale
+volvo,Volvo,s40,S40,https://www.carwale.com/volvo-cars/s40/,carwale
+volvo,Volvo,s60,S60,https://www.carwale.com/volvo-cars/s60/,carwale
+volvo,Volvo,v70,V70,https://www.carwale.com/volvo-cars/v70/,carwale
