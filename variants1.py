@@ -119,8 +119,13 @@ def main():
                 continue
             
             print(f"  Versions found: {len(versions)}")
+           
 
             for version_name in versions:
+                variant_slug = slugify(version_name)
+                variant_url = (
+                f"{BASE_URL}/{brand_slug}-cars/{model_slug}/{variant_slug}/"
+              )
                 writer.writerow({
                     "brand_name": brand_name,
                     "brand_slug": brand_slug,
@@ -128,8 +133,8 @@ def main():
                     "model_slug":model_slug,
                     "variant_name": version_name,
                     "variant_slug": slugify(version_name),
-                    "variant_url": model_url,
-                    "data_source": "carwale_versions",
+                    "variant_url":variant_url,
+                    "data_source":"carwale_versions",
                     "source_url": model_url,
                     "scraped_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
                 })

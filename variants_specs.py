@@ -182,12 +182,30 @@ def extract_body_type(s):
 
 def scrape_variant(url):
     html = fetch(url)
+
     if html is None:
         return None
+    
+    if "db11" in url:
+        with open("debug_db11.html", "w", encoding="utf-8") as f:
+            f.write(html)
 
     s = soup(html)
 
-    data = {
+    if "db11" in url:
+        import json
+        for tag in s.find_all("script",type="application/ld+json"):
+                try:
+                    data = json.loads(tag.string)
+
+                    with open("db11_json.txt", "w", encoding="utf-8") as f:
+                        f.write(json.dumps(data, indent=2))
+                    
+                    break
+                except:
+                    pass
+
+    return {
         "price": extract_price(s),
         "fuel_type": extract_fuel_type(s),
         "transmission": extract_transmission(s),
@@ -200,10 +218,12 @@ def scrape_variant(url):
         "body_type": extract_body_type(s),
     }
 
-    print("\n", url)
+    print("\nURL:", url)
     print(data)
 
     return data
+
+
 # ── main ─────────────────────────────────────────────────────────────────
 
 def main():
@@ -223,6 +243,9 @@ def main():
 
             
                 variant_url = model.get("variant_url","")
+                data = scrape_variant(variant_url)
+                print(variant_url)
+                print(data)
                 if not variant_url:
                     continue
 
@@ -242,6 +265,7 @@ def main():
                     "model_name": model.get("model_name", ""),
                     "variant_name": model.get("variant_name", ""),
                     "variant_slug": model.get("variant_slug", ""),
+                    "variant_url": variant_url,
                     "price":            data.get("price", ""),
                     "fuel_type":        data.get("fuel_type", ""),
                     "transmission":     data.get("transmission", ""),

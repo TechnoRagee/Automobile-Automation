@@ -1,13 +1,6 @@
 brand_name,model_name,variant_name,variant_slug,variant_url,price,fuel_type,transmission,engine,mileage,power,torque,seating_capacity,airbags,body_type,source_url,scraped_at
-Aston Martin,Db11,Evolution,evolution,,,Petrol,,5198 cc,,,,,2,Convertible,https://www.carwale.com/aston-martin-cars/db11/,2026-06-16 15:39:21
-Aston Martin,Vanquish,V12,v12,,,Petrol,Automatic,5203 cc Turbocharged,,,,,4,Convertible,https://www.carwale.com/aston-martin-cars/vanquish/,2026-06-16 15:39:25
-Aston Martin,Vantage,V8,v8,,,Petrol,Automatic,3982 cc,,,,2,4,Convertible,https://www.carwale.com/aston-martin-cars/vantage/,2026-06-16 15:39:30
-Aston Martin,Dbx,707,707,,,Petrol,,3982 cc,,,,,10,SUV,https://www.carwale.com/aston-martin-cars/dbx/,2026-06-16 15:39:35
-Aston Martin,Dbx,Twin Turbo,twin-turbo,,,Petrol,,3982 cc,,,,,10,SUV,https://www.carwale.com/aston-martin-cars/dbx/,2026-06-16 15:39:39
-Aston Martin,Db12,4.0-litre,4-0-litre,,,Petrol,,5198 cc,,,,,2,Convertible,https://www.carwale.com/aston-martin-cars/db12/,2026-06-16 15:39:44
-Aston Martin,Db9,Coupe,coupe,,,Petrol,,5935 cc,,,,,,Convertible,https://www.carwale.com/aston-martin-cars/db9/,2026-06-16 15:39:48
-Aston Martin,Db9,Volante,volante,,,Petrol,,5935 cc,,,,,,Convertible,https://www.carwale.com/aston-martin-cars/db9/,2026-06-16 15:39:52
-Aston Martin,Dbs20072012,Coupe,coupe,,,Petrol,,5935 cc,,,,,,Convertible,https://www.carwale.com/aston-martin-cars/dbs20072012/,2026-06-16 15:39:57
-Aston Martin,Dbs20072012,Volante,volante,,,Petrol,,5935 cc,,,,,,Convertible,https://www.carwale.com/aston-martin-cars/dbs20072012/,2026-06-16 15:40:01
-Aston Martin,Rapide,LUXE,luxe,,,Petrol,,5935 cc,,,,,,Sedan,https://www.carwale.com/aston-martin-cars/rapide/,2026-06-16 15:40:06
-Aston Martin,Rapide,S V12,s-v12,,,Petrol,,5935 cc,,,,,,Sedan,https://www.carwale.com/aston-martin-cars/rapide/,2026-06-16 15:40:10
+Aston Martin,Db11,Evolution,evolution,https://www.carwale.com/aston-martin-cars/db11/,,Petrol,Automatic,5198 cc,,502.88bhp,675Nm,2,2,Convertible,https://www.carwale.com/aston-martin-cars/db11/,2026-06-16 16:28:06
+Aston Martin,Vanquish,V12,v12,https://www.carwale.com/aston-martin-cars/vanquish/,,Petrol,Automatic,5203 cc Turbocharged,,824bhp,1000Nm,2,4,Convertible,https://www.carwale.com/aston-martin-cars/vanquish/,2026-06-16 16:28:11
+Aston Martin,Vantage,V8,v8,https://www.carwale.com/aston-martin-cars/vantage/,,Petrol,Automatic,3982 cc,,656bhp,800Nm,2,4,Convertible,https://www.carwale.com/aston-martin-cars/vantage/,2026-06-16 16:28:16
+Aston Martin,Dbx,707,707,https://www.carwale.com/aston-martin-cars/dbx/,,Petrol,Automatic,3982 cc,,697bhp,900Nm,5,10,SUV,https://www.carwale.com/aston-martin-cars/dbx/,2026-06-16 16:28:21
+Aston Martin,Dbx,Twin Turbo,twin-turbo,https://www.carwale.com/aston-martin-cars/dbx/,,Petrol,Automatic,3982 cc,,697bhp,900Nm,5,10,SUV,https://www.carwale.com/aston-martin-cars/dbx/,2026-06-16 16:28:25
