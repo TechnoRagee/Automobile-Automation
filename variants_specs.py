@@ -74,17 +74,14 @@ def soup(html):
 def extract_price(s):
     txt = s.get_text(" ", strip=True)
 
-    patterns = [
-        r'Rs\.\s*([\d,]+)',
-        r'₹\s*([\d,]+)',
-        r'Rs\.\s*([\d\.]+)\s*Crore',
-        r'Rs\.\s*([\d\.]+)\s*Lakh',
-    ]
+    m = re.search(
+        r'(?:Rs\.|₹)\s*([\d.,]+)\s*(Crore|Lakh)',
+        txt,
+        re.I
+    )
 
-    for p in patterns:
-        m = re.search(p, txt, re.I)
-        if m:
-            return m.group(0)
+    if m:
+        return f"Rs. {m.group(1)} {m.group(2).title()}"
 
     return ""
 
