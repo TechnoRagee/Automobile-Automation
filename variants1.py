@@ -27,7 +27,7 @@ HEADERS = {
 }
 
 MODELS_FILE = "output/models.csv"
-OUTPUT_FILE = "output/test_tata_variants.csv"
+OUTPUT_FILE = "output/variants1.csv"
 DELAY       = 1.5
 
 
