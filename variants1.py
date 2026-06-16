@@ -36,7 +36,9 @@ DELAY       = 1.5
 FIELDNAMES = (
     [
         "brand_name",
+        "brand_slug"
         "model_name",
+        "model_slug",
         "variant_name",
         "variant_slug",
         "variant_url",
@@ -99,7 +101,9 @@ def main():
 
         for i, model in enumerate(models, 1):
             brand_name = model.get("brand_name", "")
+            brand_slug = model.get("brand_slug","")
             model_name = model.get("model_name", "")
+            model_slug = model.get("model_slug", "")
             model_url = model.get("model_url", "")
 
             print(f"[{i}/{len(models)}] {brand_name} {model_name}")
@@ -119,7 +123,9 @@ def main():
             for version_name in versions:
                 writer.writerow({
                     "brand_name": brand_name,
+                    "brand_slug": brand_slug,
                     "model_name": model_name,
+                    "model_slug":model_slug,
                     "variant_name": version_name,
                     "variant_slug": slugify(version_name),
                     "variant_url": model_url,
