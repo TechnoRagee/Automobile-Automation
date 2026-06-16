@@ -88,6 +88,7 @@ def main():
     total = 0
 
     def slugify(name: str) -> str:
+        s = (name or "").lower()
         s = re.sub(r'(\d)\.(\d)', r'\1\2', s)
         s = re.sub(r"[\(\)]", "", s)
         s = s.replace("/", "-")
