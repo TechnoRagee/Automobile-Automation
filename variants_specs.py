@@ -71,27 +71,20 @@ def soup(html):
 
 
 # ── field extraction (from variant page) ───────────────────────────────
-
 def extract_price(s):
-    """Ex-Showroom price only. Skips on-road/other price labels."""
     txt = s.get_text(" ", strip=True)
 
-    m = re.search(
-        r'Ex[\s\-]?Showroom[^₹Rs]{0,30}(?:Rs\.|₹)\s*([\d,\.]+)\s*(Crore|Lakh)',
-        txt, re.I
-    )
-    if m:
-        return f"Rs. {m.group(1)} {m.group(2).title()}"
+    patterns = [
+        r'Rs\.\s*([\d,]+)',
+        r'₹\s*([\d,]+)',
+        r'Rs\.\s*([\d\.]+)\s*Crore',
+        r'Rs\.\s*([\d\.]+)\s*Lakh',
+    ]
 
-    # fallback: first Rs./₹ figure near "Ex-Showroom" word anywhere before it
-    idx = txt.lower().find("ex-showroom")
-    if idx == -1:
-        idx = txt.lower().find("ex showroom")
-    if idx != -1:
-        window = txt[idx:idx + 60]
-        m = re.search(r'(?:Rs\.|₹)\s*([\d,\.]+)\s*(Crore|Lakh)', window, re.I)
+    for p in patterns:
+        m = re.search(p, txt, re.I)
         if m:
-            return f"Rs. {m.group(1)} {m.group(2).title()}"
+            return m.group(0)
 
     return ""
 
