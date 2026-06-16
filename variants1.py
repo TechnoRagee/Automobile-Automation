@@ -36,7 +36,7 @@ DELAY       = 1.5
 FIELDNAMES = (
     [
         "brand_name",
-        "brand_slug"
+        "brand_slug",
         "model_name",
         "model_slug",
         "variant_name",
