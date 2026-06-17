@@ -63,17 +63,33 @@ def fetch(url, retries=3, delay=2):
     print(f"        FAILED: {url}")
     return None
 
-
-
-
+BAD_VARIANTS ={ # TEMPORARY
+                    "nexon",
+                    "punch",
+                    "sierra",
+                    "tiago",
+                    "tiago ev",
+                    "harrier",
+                    "safari",
+                    "altroz",
+                    "curvv",
+                    "avinya",
+                }
 
 def get_version_names(html):
     if not html:
         return []
 
     versions = re.findall(r'"VersionName":"([^"]+)"', html, re.I)
-    print(versions[:50]) # DEBUG
-    return sorted(set(versions))
+    clean_versions = []
+    
+    for v in versions:
+        if v.lower().strip() in BAD_VARIANTS:
+            continue
+        clean_versions.append(v)
+    return sorted(set(clean_versions))
+
+
 # ── main ──────────────────────────────────────────────────────────────────
 
 def main():
@@ -82,7 +98,7 @@ def main():
 
     # ── FILTER: Tata only ─────────────────────────────────────────────────
     models = all_models
-    print(f"Tata models found: {len(models)}")
+    print(f" Models found: {len(models)}")
 
 
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
@@ -121,9 +137,13 @@ def main():
                 continue
             
             print(f"  Versions found: {len(versions)}")
-           
+            
+            
 
             for version_name in versions:
+                
+                if version_name.lower().strip() in BAD_VARIANTS:
+                    continue
                 variant_slug = slugify(version_name)
                 variant_url = (
                 f"{BASE_URL}/{brand_slug}-cars/{model_slug}/{variant_slug}/"
@@ -143,7 +163,7 @@ def main():
 
             total += len(versions)
 
-    print(f"\nDone. Tata variants scraped: {total}")
+    print(f"\nDone. Total variants scraped: {total}")
     print(f"Saved -> {OUTPUT_FILE}")
 
 
