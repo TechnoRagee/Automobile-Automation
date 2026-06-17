@@ -234,6 +234,9 @@ def main():
             
                 variant_url = model.get("variant_url","")
                 data = scrape_variant(variant_url)
+                if data is None:
+                    failed_urls += 1
+                    data = {}
                 print(variant_url)
                 print(data)
                 if not variant_url:
@@ -276,6 +279,7 @@ def main():
 
     print(f"\nDone. Total: {total}")
     print(f"Saved -> {OUTPUT_FILE}")
+    print(f"Failed URLs: {failed_urls}")
 
 
 if __name__ == "__main__":
