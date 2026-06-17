@@ -219,6 +219,7 @@ def scrape_variant(url):
 def main():
     with open(MODELS_FILE, newline="", encoding="utf-8") as f:
         models = list(csv.DictReader(f))
+        models = models[:50]   # TEST ONLY 50 ROWS
 
     print(f"Models loaded: {len(models)}")
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)

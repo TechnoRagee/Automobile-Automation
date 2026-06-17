@@ -74,6 +74,28 @@ BAD_VARIANTS ={ # TEMPORARY
                     "altroz",
                     "curvv",
                     "avinya",
+                    "a4",
+                    "a6",
+                    "q3",
+                    "q5",
+                    "rs5",
+
+                    "m4",
+                    "m5",
+
+                    "seal",
+                    "atto 3",
+                    "sealion 7",
+                    "emax 7",
+
+                    "city",
+                    "amaze",
+                    "elevate",
+
+                    "creta",
+                    "venue",
+                    "exter",
+                    "i20",
                 }
 
 def get_version_names(html):
@@ -87,7 +109,7 @@ def get_version_names(html):
         if v.lower().strip() in BAD_VARIANTS:
             continue
         clean_versions.append(v)
-    return sorted(set(clean_versions))
+    return sorted(dict.fromkeys(clean_versions))
 
 
 # ── main ──────────────────────────────────────────────────────────────────
@@ -142,8 +164,6 @@ def main():
 
             for version_name in versions:
                 
-                if version_name.lower().strip() in BAD_VARIANTS:
-                    continue
                 variant_slug = slugify(version_name)
                 variant_url = (
                 f"{BASE_URL}/{brand_slug}-cars/{model_slug}/{variant_slug}/"
