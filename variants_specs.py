@@ -85,17 +85,35 @@ def extract_price(s):
 
     return ""
 
-
 def extract_fuel_type(s):
-    m = re.search(r'Fuel Type\s*([A-Za-z/ &]+?)(?=\n|Engine|Ethanol|$)',
-                  s.get_text("\n"), re.I)
-    if m:
-        return m.group(1).strip()
-    txt = s.get_text(" ")
-    for fuel in ["Electric", "Hydrogen", "Petrol", "Diesel", "CNG", "LPG", "Hybrid"]:
-        if re.search(rf'\bFuel Type\b.*?\b{fuel}\b', txt, re.I | re.S):
-            return fuel
+    txt = s.get_text(" ", strip=True)
+
+    patterns = [
+        r'Fuel Type\s*[:\-]?\s*(Petrol)',
+        r'Fuel Type\s*[:\-]?\s*(Diesel)',
+        r'Fuel Type\s*[:\-]?\s*(Electric)',
+        r'Fuel Type\s*[:\-]?\s*(Hybrid)',
+        r'Fuel Type\s*[:\-]?\s*(CNG)',
+        r'Fuel Type\s*[:\-]?\s*(LPG)',
+    ]
+
+    for p in patterns:
+        m = re.search(p, txt, re.I)
+        if m:
+            return m.group(1).title()
+
     return ""
+
+# def extract_fuel_type(s):
+#     m = re.search(r'Fuel Type\s*([A-Za-z/ &]+?)(?=\n|Engine|Ethanol|$)',
+#                   s.get_text("\n"), re.I)
+#     if m:
+#         return m.group(1).strip()
+#     txt = s.get_text(" ")
+#     for fuel in ["Electric", "Hydrogen", "Petrol", "Diesel", "CNG", "LPG", "Hybrid"]:
+#         if re.search(rf'\bFuel Type\b.*?\b{fuel}\b', txt, re.I | re.S):
+#             return fuel
+#     return ""
 
 
 def extract_transmission(s):
@@ -109,12 +127,21 @@ def extract_transmission(s):
             return m.group(1).title()
     return ""
 
-
 def extract_engine(s):
-    m = re.search(r'Engine\s+(\d[\d,\.]+\s*cc[^\n]*)', s.get_text("\n"), re.I)
-    if m:
-        return m.group(1).strip()
+    txt = s.get_text(" ", strip=True)
+
+    patterns = [
+        r'(\d[\d,\.]+\s*cc)',
+        r'(\d{3,5}\s*cc)',
+    ]
+
+    for p in patterns:
+        m = re.search(p, txt, re.I)
+        if m:
+            return m.group(1)
+
     return ""
+
 
 
 def extract_mileage(s):
@@ -128,23 +155,98 @@ def extract_mileage(s):
 
 def extract_power(s):
     txt = s.get_text(" ", strip=True)
-    for p in [
-        r'Max Power[^\d]*([\d\.]+\s*bhp)',
-        r'Max Power[^\d]*([\d\.]+\s*PS)',
-        r'Max Power[^\d]*([\d\.]+\s*kW)',
-    ]:
+
+    patterns = [
+        r'Max Power.*?(\d+(?:\.\d+)?)\s*bhp',
+        r'Max Power.*?(\d+(?:\.\d+)?)\s*PS',
+        r'Max Power.*?(\d+(?:\.\d+)?)\s*kW',
+        r'Power.*?(\d+(?:\.\d+)?)\s*bhp',
+        r'Power.*?(\d+(?:\.\d+)?)\s*PS',
+        r'Power.*?(\d+(?:\.\d+)?)\s*kW',
+    ]
+
+    for p in patterns:
         m = re.search(p, txt, re.I)
         if m:
-            return m.group(1).strip()
+            unit = "bhp"
+            if "PS" in p:
+                unit = "PS"
+            elif "kW" in p:
+                unit = "kW"
+
+            return f"{m.group(1)} {unit}"
+
     return ""
 
 
 def extract_torque(s):
-    m = re.search(r'Max Torque[^\d]*([\d\.]+\s*Nm)', s.get_text(" "), re.I)
-    if m:
-        return m.group(1).strip()
+    txt = s.get_text(" ", strip=True)
+
+    patterns = [
+        r'Max Torque.*?(\d+(?:\.\d+)?)\s*Nm',
+        r'Torque.*?(\d+(?:\.\d+)?)\s*Nm',
+    ]
+
+    for p in patterns:
+        m = re.search(p, txt, re.I)
+        if m:
+            return f"{m.group(1)} Nm"
+
     return ""
 
+
+def is_ev(s):
+    txt = s.get_text(" ", strip=True).lower()
+    return "fuel type electric" in txt or "electric motor" in txt
+
+def extract_engine_ev(s):
+    txt = s.get_text(" ", strip=True)
+
+    patterns = [
+        r'Battery.*?(\d+(?:\.\d+)?)\s*kWh',
+        r'(\d+(?:\.\d+)?)\s*kWh',
+    ]
+
+    for p in patterns:
+        m = re.search(p, txt, re.I)
+        if m:
+            return f"{m.group(1)} kWh Battery"
+
+    return ""
+
+def extract_power_ev(s):
+    txt = s.get_text(" ", strip=True)
+
+    patterns = [
+        r'(\d+(?:\.\d+)?)\s*bhp',
+        r'Motor Power.*?(\d+(?:\.\d+)?)\s*kW',
+        r'Power.*?(\d+(?:\.\d+)?)\s*kW',
+    ]
+
+    for p in patterns:
+        m = re.search(p, txt, re.I)
+        if m:
+            if "kW" in p:
+                return f"{m.group(1)} kW"
+            return f"{m.group(1)} bhp"
+
+    return ""
+
+
+
+def extract_torque_ev(s):
+    txt = s.get_text(" ", strip=True)
+
+    m = re.search(
+        r'Max Torque.*?(\d+(?:\.\d+)?)\s*Nm',
+        txt,
+        re.I
+    )
+
+    if m:
+        return f"{m.group(1)} Nm"
+
+    return ""
 
 def extract_seating(s):
     m = re.search(r'Seating Capacity\s+(\d+)\s*Seat', s.get_text(" "), re.I)
@@ -152,21 +254,57 @@ def extract_seating(s):
         return m.group(1)
     return ""
 
-
 def extract_airbags(s):
-    m = re.search(r'(\d+)\s*Airbag', s.get_text(" "), re.I)
-    if m:
-        return m.group(1)
+    txt = s.get_text(" ", strip=True)
+
+    patterns = [
+        r'(\d+)\s*Airbags?',
+        r'Airbags?\s*(\d+)',
+        r'Airbag Count\s*(\d+)',
+    ]
+
+    for p in patterns:
+        m = re.search(p, txt, re.I)
+        if m:
+            airbags = int(m.group(1))
+
+            if 1 <= airbags <= 20:
+                return str(airbags)
+
     return ""
 
 
 def extract_body_type(s):
-    txt = s.get_text(" ")
-    for body in ["Convertible", "Coupe", "Pickup Truck", "Minivan", "Van",
-                 "Station Wagon", "Hatchback", "Sedan", "SUV", "MUV",
-                 "Crossover", "Compact SUV"]:
-        if re.search(rf'\b{re.escape(body)}\b', txt, re.I):
-            return body
+    txt = s.get_text(" ", strip=True)
+    m = re.search(r'Body\s*Type.{0,60', txt, re.I)
+
+    if m:
+        print("BODY DEBUG:", m.group(0))
+
+    body_types = [
+        "SUV",
+        "Sedan",
+        "Hatchback",
+        "MUV",
+        "MPV",
+        "Convertible",
+        "Coupe",
+        "Crossover",
+        "Pickup Truck",
+        "Pickup",
+        "Wagon",
+    ]
+
+    for body in body_types:
+        m = re.search(
+        rf'Body\s*Type.*?\b{re.escape(body)}\b',
+        txt,
+        re.I
+    )
+
+    if m:
+        return body
+
     return ""
 
 
@@ -195,35 +333,46 @@ def scrape_variant(url):
                 except:
                     pass
 
+    fuel_type = extract_fuel_type(s)
+    if fuel_type and fuel_type.lower() =="electric":
+        engine = extract_engine_ev(s)
+        power = extract_power_ev(s)
+        torque = extract_torque_ev(s)
+    else:
+        engine = extract_engine(s)
+        power = extract_power(s)
+        torque = extract_torque(s)
+        
     return {
-        "price": extract_price(s),
-        "fuel_type": extract_fuel_type(s),
-        "transmission": extract_transmission(s),
-        "engine": extract_engine(s),
-        "mileage": extract_mileage(s),
-        "power": extract_power(s),
-        "torque": extract_torque(s),
-        "seating_capacity": extract_seating(s),
-        "airbags": extract_airbags(s),
-        "body_type": extract_body_type(s),
-    }
+            "price": extract_price(s),
+            "fuel_type": fuel_type,
+            "transmission": extract_transmission(s),
+            "engine": engine,
+            "mileage": extract_mileage(s),
+            "power": power,
+            "torque": torque,
+            "seating_capacity": extract_seating(s),
+            "airbags": extract_airbags(s),
+            "body_type": extract_body_type(s),
+        }
 
-    print("\nURL:", url)
-    print(data)
-
-    return data
 
 
 # ── main ─────────────────────────────────────────────────────────────────
 
 def main():
     with open(MODELS_FILE, newline="", encoding="utf-8") as f:
-        models = list(csv.DictReader(f))
-        models = models[:50]   # TEST ONLY 50 ROWS
+        all_models = list(csv.DictReader(f))
+        models = all_models[:60]   # TEST ONLY 50 ROWS
+        
+        # models = all_models
+
+        print(f"EV models loaded: {len(models)}")
 
     print(f"Models loaded: {len(models)}")
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     total = 0
+    failed_urls =0
 
     with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as out_f:
         writer = csv.DictWriter(out_f, fieldnames=FIELDNAMES)
@@ -235,15 +384,20 @@ def main():
             
                 variant_url = model.get("variant_url","")
                 data = scrape_variant(variant_url)
+                
+                missing = []
                 if data is None:
                     failed_urls += 1
                     data = {}
-                print(variant_url)
+                else:
+                    missing = [k for k, v in data.items() if not v]
+                if missing:
+                    print(f"MISSING {missing} -> {variant_url}")
                 print(data)
                 if not variant_url:
                     continue
 
-                data =  scrape_variant(variant_url)
+                
 
                 if data is None:
                     data ={}
@@ -254,6 +408,16 @@ def main():
                     brand_slug,
                     model_slug
                 )
+                
+                if not data.get("engine") or not data.get("power") or not data.get("torque"):
+                    if data.get("fuel_type") == "Electric":
+                        print(
+                            "EV CSV:",
+                        data.get("model_name", model.get("model_name")),
+                            "| engine =", data.get("engine"),
+                            "| power =", data.get("power"),
+                            "| torque =", data.get("torque")
+                        )
                 writer.writerow({
                     "brand_name": model.get("brand_name", ""),
                     "model_name": model.get("model_name", ""),

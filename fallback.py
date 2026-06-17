@@ -338,7 +338,7 @@ def validate_specs(data):
 
     # EV cleanup
     if "electric" in fuel:
-        data["engine"] = ""
+        # data["engine"] = ""
         data["mileage"] = ""
 
     # Remove charger power values
