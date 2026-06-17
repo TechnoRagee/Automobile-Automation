@@ -72,6 +72,7 @@ def get_version_names(html):
         return []
 
     versions = re.findall(r'"VersionName":"([^"]+)"', html, re.I)
+    print(versions[:50]) # DEBUG
     return sorted(set(versions))
 # ── main ──────────────────────────────────────────────────────────────────
 
