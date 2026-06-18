@@ -363,9 +363,9 @@ def scrape_variant(url):
 def main():
     with open(MODELS_FILE, newline="", encoding="utf-8") as f:
         all_models = list(csv.DictReader(f))
-        models = all_models[:60]   # TEST ONLY 50 ROWS
+        # models = all_models[:60]   # TEST ONLY 50 ROWS
         
-        # models = all_models
+        models = all_models
 
         print(f"EV models loaded: {len(models)}")
 
