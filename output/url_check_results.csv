@@ -1,50 +1,101 @@
 brand_name,model_name,variant_name,variant_url,status_code,ok
-BMW,X5,xDrive40i xLine,https://www.carwale.com/bmw-cars/x5/xdrive40i-xline/,200,True
-BMW,X3,xDrive 30 M Sport Pro Petrol 2.0L Turbo Automatic,https://www.carwale.com/bmw-cars/x3/xdrive-30-m-sport-pro-petrol-20l-turbo-automatic/,200,True
-BMW,X3,xDrive20 Petrol 2.0L Turbo Automatic,https://www.carwale.com/bmw-cars/x3/xdrive20-petrol-20l-turbo-automatic/,200,True
-BMW,X3,xDrive20d Diesel 2.0L Turbo Automatic,https://www.carwale.com/bmw-cars/x3/xdrive20d-diesel-20l-turbo-automatic/,200,True
-BMW,Z4,M 40i,https://www.carwale.com/bmw-cars/z4/m-40i/,200,True
-BMW,Z4,M 40i Pure Impulse MT,https://www.carwale.com/bmw-cars/z4/m-40i-pure-impulse-mt/,200,True
-BMW,7 Series,740d M Sport,https://www.carwale.com/bmw-cars/7-series/740d-m-sport/,200,True
-BMW,7 Series,740i M Sport,https://www.carwale.com/bmw-cars/7-series/740i-m-sport/,200,True
-BMW,7 Series,740i [2023],https://www.carwale.com/bmw-cars/7-series/740i-2023/,200,True
-BMW,M440I,xDrive Convertible Petrol Turbo Automatic,https://www.carwale.com/bmw-cars/m440i/xdrive-convertible-petrol-turbo-automatic/,200,True
-BMW,Ix1 Lwb,eDrive20L M Sport,https://www.carwale.com/bmw-cars/ix1-lwb/edrive20l-m-sport/,200,True
-BMW,M2,3.0 Petrol Petrol Turbo Automatic,https://www.carwale.com/bmw-cars/m2/30-petrol-petrol-turbo-automatic/,200,True
-BMW,M2,3.0 Petrol Petrol Turbo Manual,https://www.carwale.com/bmw-cars/m2/30-petrol-petrol-turbo-manual/,200,True
-BMW,M2,3.0 Petrol [2023-2024],https://www.carwale.com/bmw-cars/m2/30-petrol-2023-2024/,200,True
-BMW,M2,CS Petrol Turbo Automatic,https://www.carwale.com/bmw-cars/m2/cs-petrol-turbo-automatic/,200,True
-BMW,5 Series,530Li Petrol 2.0L Turbo Automatic,https://www.carwale.com/bmw-cars/5-series/530li-petrol-20l-turbo-automatic/,200,True
-BMW,5 Series,530Li Petrol 2.0L Turbo Automatic Aluminium Satinated,https://www.carwale.com/bmw-cars/5-series/530li-petrol-20l-turbo-automatic-aluminium-satinated/,200,True
-BMW,Ix1,xDrive30 M Sport,https://www.carwale.com/bmw-cars/ix1/xdrive30-m-sport/,200,True
-BMW,Xm,Label,https://www.carwale.com/bmw-cars/xm/label/,200,True
-BMW,Xm,Plug-in Hybrid,https://www.carwale.com/bmw-cars/xm/plug-in-hybrid/,200,True
-BMW,M8,Coupe,https://www.carwale.com/bmw-cars/m8/coupe/,200,True
-BMW,M8,Coupe [2020-2023],https://www.carwale.com/bmw-cars/m8/coupe-2020-2023/,200,True
-BMW,I7,M70 xDrive,https://www.carwale.com/bmw-cars/i7/m70-xdrive/,200,True
-BMW,I7,eDrive50 M Sport,https://www.carwale.com/bmw-cars/i7/edrive50-m-sport/,200,True
-BMW,I7,xDrive60 M Sport,https://www.carwale.com/bmw-cars/i7/xdrive60-m-sport/,200,True
-BMW,I4,eDrive35 M Sport,https://www.carwale.com/bmw-cars/i4/edrive35-m-sport/,200,True
-BMW,I4,eDrive40 M Sport,https://www.carwale.com/bmw-cars/i4/edrive40-m-sport/,200,True
-BMW,X4,xDrive,https://www.carwale.com/bmw-cars/x4/xdrive/,200,True
-BMW,Ix,xDrive 40,https://www.carwale.com/bmw-cars/ix/xdrive-40/,200,True
-BMW,Ix,xDrive 50,https://www.carwale.com/bmw-cars/ix/xdrive-50/,200,True
-BMW,I5,M60 xDrive,https://www.carwale.com/bmw-cars/i5/m60-xdrive/,200,True
-BMW,3 Series Gran Limousine,320Ld M Sport,https://www.carwale.com/bmw-cars/3-series-gran-limousine/320ld-m-sport/,200,True
-BMW,3 Series Gran Limousine,320Ld M Sport Pro Edition,https://www.carwale.com/bmw-cars/3-series-gran-limousine/320ld-m-sport-pro-edition/,200,True
-BMW,3 Series Gran Limousine,320Ld M Sport [2023],https://www.carwale.com/bmw-cars/3-series-gran-limousine/320ld-m-sport-2023/,200,True
-BMW,3 Series Gran Limousine,330Li M Sport,https://www.carwale.com/bmw-cars/3-series-gran-limousine/330li-m-sport/,200,True
-BMW,3 Series Gran Limousine,330Li M Sport Pro Edition,https://www.carwale.com/bmw-cars/3-series-gran-limousine/330li-m-sport-pro-edition/,200,True
-BMW,3 Series Gran Limousine,330Li M Sport [2023],https://www.carwale.com/bmw-cars/3-series-gran-limousine/330li-m-sport-2023/,200,True
-BMW,1 Series,116i Hatchback,https://www.carwale.com/bmw-cars/1-series/116i-hatchback/,200,True
-BMW,1 Series,118d Hatchback,https://www.carwale.com/bmw-cars/1-series/118d-hatchback/,200,True
-BMW,1 Series,118d Sport Line [2013-2017],https://www.carwale.com/bmw-cars/1-series/118d-sport-line-2013-2017/,200,True
-BMW,1 Series,118d Sport plus,https://www.carwale.com/bmw-cars/1-series/118d-sport-plus/,200,True
-BMW,1 Series,118i Hatchback,https://www.carwale.com/bmw-cars/1-series/118i-hatchback/,200,True
-BMW,6 Series Gran Coupe,640d Design Pure Experience,https://www.carwale.com/bmw-cars/6-series-gran-coupe/640d-design-pure-experience/,200,True
-BMW,6 Series Gran Coupe,640d Eminence,https://www.carwale.com/bmw-cars/6-series-gran-coupe/640d-eminence/,200,True
-BMW,6 Series Gran Coupe,640d Gran Coupe,https://www.carwale.com/bmw-cars/6-series-gran-coupe/640d-gran-coupe/,200,True
-BMW,M3,Sedan,https://www.carwale.com/bmw-cars/m3/sedan/,200,True
-BMW,Z3,Roadster,https://www.carwale.com/bmw-cars/z3/roadster/,200,True
-BMW,X6,50 Jahre M Edition,https://www.carwale.com/bmw-cars/x6/50-jahre-m-edition/,200,True
-BMW,X6,50 Jahre M Edition [2020-2023],https://www.carwale.com/bmw-cars/x6/50-jahre-m-edition-2020-2023/,200,True
+Bentley,Azure,Convertible,https://www.carwale.com/bentley-cars/azure/convertible/,200,True
+Bentley,Mulsanne,V8,https://www.carwale.com/bentley-cars/mulsanne/v8/,200,True
+Bentley,Continentalsupersports,Convertible,https://www.carwale.com/bentley-cars/continentalsupersports/convertible/,200,True
+Citroen,C3 X,Feel (O) CNG 1.2L 5 Speed Manual,https://www.carwale.com/citroen-cars/c3-x/feel-o-cng-12l-5-speed-manual/,200,True
+Citroen,C3 X,Feel (O) Petrol 1.2L 5 Speed Manual,https://www.carwale.com/citroen-cars/c3-x/feel-o-petrol-12l-5-speed-manual/,200,True
+Citroen,C3 X,Feel CNG 1.2L 5 Speed Manual,https://www.carwale.com/citroen-cars/c3-x/feel-cng-12l-5-speed-manual/,200,True
+Citroen,C3 X,Feel Petrol 1.2L 5 Speed Manual,https://www.carwale.com/citroen-cars/c3-x/feel-petrol-12l-5-speed-manual/,200,True
+Citroen,C3 X,Live (O) Petrol 1.2L 5 Speed Manual,https://www.carwale.com/citroen-cars/c3-x/live-o-petrol-12l-5-speed-manual/,200,True
+Citroen,C3 X,Live CNG 1.2L 5 Speed Manual,https://www.carwale.com/citroen-cars/c3-x/live-cng-12l-5-speed-manual/,200,True
+Citroen,C3 X,Live Petrol 1.2L 5 Speed Manual,https://www.carwale.com/citroen-cars/c3-x/live-petrol-12l-5-speed-manual/,200,True
+Citroen,C3 X,Shine 1.2 Petrol Dual Tone,https://www.carwale.com/citroen-cars/c3-x/shine-12-petrol-dual-tone/,200,True
+Citroen,C3 X,Shine 1.2 Turbo AT Vibe Pack Dual Tone,https://www.carwale.com/citroen-cars/c3-x/shine-12-turbo-at-vibe-pack-dual-tone/,200,True
+Citroen,C3 X,Shine CNG 1.2L 5 Speed Manual,https://www.carwale.com/citroen-cars/c3-x/shine-cng-12l-5-speed-manual/,200,True
+Citroen,C3 X,Shine CNG 1.2L 5 Speed Manual Dual Tone,https://www.carwale.com/citroen-cars/c3-x/shine-cng-12l-5-speed-manual-dual-tone/,200,True
+Citroen,C3 X,Shine Petrol 1.2L 5 Speed Manual,https://www.carwale.com/citroen-cars/c3-x/shine-petrol-12l-5-speed-manual/,200,True
+Citroen,C3 X,Shine Petrol 1.2L 5 Speed Manual Dual Tone,https://www.carwale.com/citroen-cars/c3-x/shine-petrol-12l-5-speed-manual-dual-tone/,200,True
+Citroen,C3 X,Shine Petrol 1.2L Turbo 6 Speed Manual,https://www.carwale.com/citroen-cars/c3-x/shine-petrol-12l-turbo-6-speed-manual/,200,True
+Citroen,C3 X,Shine Petrol 1.2L Turbo Automatic,https://www.carwale.com/citroen-cars/c3-x/shine-petrol-12l-turbo-automatic/,200,True
+Citroen,Aircross X,Max Petrol Turbo 6 Speed Manual 5 STR,https://www.carwale.com/citroen-cars/aircross-x/max-petrol-turbo-6-speed-manual-5-str/,200,True
+Citroen,Aircross X,Max Petrol Turbo 6 Speed Manual 7 STR,https://www.carwale.com/citroen-cars/aircross-x/max-petrol-turbo-6-speed-manual-7-str/,200,True
+Citroen,Aircross X,Max Petrol Turbo 6 Speed Manual 7 STR Dual Tone,https://www.carwale.com/citroen-cars/aircross-x/max-petrol-turbo-6-speed-manual-7-str-dual-tone/,200,True
+Citroen,Aircross X,Max Petrol Turbo Automatic 7 STR,https://www.carwale.com/citroen-cars/aircross-x/max-petrol-turbo-automatic-7-str/,200,True
+Citroen,Aircross X,Max Petrol Turbo Automatic 7 STR Dual Tone,https://www.carwale.com/citroen-cars/aircross-x/max-petrol-turbo-automatic-7-str-dual-tone/,200,True
+Citroen,Aircross X,Plus Petrol 5 Speed Manual 5 STR,https://www.carwale.com/citroen-cars/aircross-x/plus-petrol-5-speed-manual-5-str/,200,True
+Citroen,Aircross X,Plus Petrol Turbo 6 Speed Manual 7 STR,https://www.carwale.com/citroen-cars/aircross-x/plus-petrol-turbo-6-speed-manual-7-str/,200,True
+Citroen,Aircross X,You Petrol 5 Speed Manual 5 STR,https://www.carwale.com/citroen-cars/aircross-x/you-petrol-5-speed-manual-5-str/,200,True
+Citroen,Basalt X,Max Petrol Turbo 6 Speed Manual,https://www.carwale.com/citroen-cars/basalt-x/max-petrol-turbo-6-speed-manual/,200,True
+Citroen,Basalt X,Max Petrol Turbo 6 Speed Manual Dual Tone,https://www.carwale.com/citroen-cars/basalt-x/max-petrol-turbo-6-speed-manual-dual-tone/,200,True
+Citroen,Basalt X,Max Petrol Turbo Automatic,https://www.carwale.com/citroen-cars/basalt-x/max-petrol-turbo-automatic/,200,True
+Citroen,Basalt X,Max Petrol Turbo Automatic Dual Tone,https://www.carwale.com/citroen-cars/basalt-x/max-petrol-turbo-automatic-dual-tone/,200,True
+Citroen,Basalt X,Plus Petrol 5 Speed Manual,https://www.carwale.com/citroen-cars/basalt-x/plus-petrol-5-speed-manual/,200,True
+Citroen,Basalt X,Plus Petrol Turbo 6 Speed Manual,https://www.carwale.com/citroen-cars/basalt-x/plus-petrol-turbo-6-speed-manual/,200,True
+Citroen,Basalt X,Plus Petrol Turbo Automatic,https://www.carwale.com/citroen-cars/basalt-x/plus-petrol-turbo-automatic/,200,True
+Citroen,Basalt X,You Petrol 5 Speed Manual,https://www.carwale.com/citroen-cars/basalt-x/you-petrol-5-speed-manual/,200,True
+Citroen,Ec3,Feel 29.2 kWh,https://www.carwale.com/citroen-cars/ec3/feel-292-kwh/,-1,False
+Citroen,Ec3,Live,https://www.carwale.com/citroen-cars/ec3/live/,200,True
+Citroen,Ec3,Shine 29.2 kWh,https://www.carwale.com/citroen-cars/ec3/shine-292-kwh/,-1,False
+Citroen,Ec3,Shine 29.2 kWh Dual Tone,https://www.carwale.com/citroen-cars/ec3/shine-292-kwh-dual-tone/,-1,False
+Citroen,Ec3,Shine 29.2 kWh Dual Tone Vibe Pack,https://www.carwale.com/citroen-cars/ec3/shine-292-kwh-dual-tone-vibe-pack/,-1,False
+Citroen,Ec3,Shine 29.2 kWh Vibe Pack,https://www.carwale.com/citroen-cars/ec3/shine-292-kwh-vibe-pack/,-1,False
+Citroen,C5 Aircross,Shine Diesel Automatic,https://www.carwale.com/citroen-cars/c5-aircross/shine-diesel-automatic/,200,True
+Citroen,C5 Aircross,Shine Dual Tone,https://www.carwale.com/citroen-cars/c5-aircross/shine-dual-tone/,200,True
+Citroen,New C5 Aircross,Aircross X,https://www.carwale.com/citroen-cars/new-c5-aircross/aircross-x/,404,False
+Citroen,New C5 Aircross,Basalt X,https://www.carwale.com/citroen-cars/new-c5-aircross/basalt-x/,404,False
+Citroen,New C5 Aircross,C3 X,https://www.carwale.com/citroen-cars/new-c5-aircross/c3-x/,404,False
+Citroen,New C5 Aircross,C5 Aircross,https://www.carwale.com/citroen-cars/new-c5-aircross/c5-aircross/,404,False
+Citroen,New C5 Aircross,eC3,https://www.carwale.com/citroen-cars/new-c5-aircross/ec3/,404,False
+Citroen,Basalt Ev,Aircross X,https://www.carwale.com/citroen-cars/basalt-ev/aircross-x/,404,False
+Citroen,Basalt Ev,Basalt X,https://www.carwale.com/citroen-cars/basalt-ev/basalt-x/,404,False
+Citroen,Basalt Ev,C3 X,https://www.carwale.com/citroen-cars/basalt-ev/c3-x/,404,False
+Citroen,Basalt Ev,C5 Aircross,https://www.carwale.com/citroen-cars/basalt-ev/c5-aircross/,404,False
+Citroen,Basalt Ev,eC3,https://www.carwale.com/citroen-cars/basalt-ev/ec3/,404,False
+Citroen,Basalt,Max Petrol Turbo 6 Speed Manual,https://www.carwale.com/citroen-cars/basalt/max-petrol-turbo-6-speed-manual/,404,False
+Citroen,Basalt,Max Petrol Turbo 6 Speed Manual Dual Tone,https://www.carwale.com/citroen-cars/basalt/max-petrol-turbo-6-speed-manual-dual-tone/,404,False
+Citroen,Basalt,Max Petrol Turbo Automatic,https://www.carwale.com/citroen-cars/basalt/max-petrol-turbo-automatic/,404,False
+Citroen,Basalt,Max Petrol Turbo Automatic Dual Tone,https://www.carwale.com/citroen-cars/basalt/max-petrol-turbo-automatic-dual-tone/,404,False
+Citroen,Basalt,Plus Petrol 5 Speed Manual,https://www.carwale.com/citroen-cars/basalt/plus-petrol-5-speed-manual/,404,False
+Citroen,Basalt,Plus Petrol Turbo 6 Speed Manual,https://www.carwale.com/citroen-cars/basalt/plus-petrol-turbo-6-speed-manual/,404,False
+Citroen,Basalt,Plus Petrol Turbo Automatic,https://www.carwale.com/citroen-cars/basalt/plus-petrol-turbo-automatic/,404,False
+Citroen,Basalt,You Petrol 5 Speed Manual,https://www.carwale.com/citroen-cars/basalt/you-petrol-5-speed-manual/,404,False
+Ferrari,849 Testarossa,4.0-litre V8 Hybrid (Electric + Petrol) Turbo Automatic,https://www.carwale.com/ferrari-cars/849-testarossa/40-litre-v8-hybrid-electric-petrol-turbo-automatic/,404,False
+Ferrari,Purosangue Suv,V12,https://www.carwale.com/ferrari-cars/purosangue-suv/v12/,200,True
+Ferrari,296 Gtb,3.0 Petrol,https://www.carwale.com/ferrari-cars/296-gtb/30-petrol/,200,True
+Ferrari,Roma,Coupe,https://www.carwale.com/ferrari-cars/roma/coupe/,200,True
+Ferrari,F8 Tributo,Berlinetta,https://www.carwale.com/ferrari-cars/f8-tributo/berlinetta/,200,True
+Ferrari,Portofino,M,https://www.carwale.com/ferrari-cars/portofino/m/,200,True
+Ferrari,296 Gts,3.0 Petrol,https://www.carwale.com/ferrari-cars/296-gts/30-petrol/,200,True
+Ferrari,F12Berlinetta,F12 tdf,https://www.carwale.com/ferrari-cars/f12berlinetta/f12-tdf/,200,True
+Ferrari,F12Berlinetta,V12,https://www.carwale.com/ferrari-cars/f12berlinetta/v12/,200,True
+Ferrari,812,Superfast,https://www.carwale.com/ferrari-cars/812/superfast/,200,True
+Ferrari,812,Superfast [2018-2020],https://www.carwale.com/ferrari-cars/812/superfast-2018-2020/,200,True
+Ferrari,Gtc4 Lusso,V12,https://www.carwale.com/ferrari-cars/gtc4-lusso/v12/,200,True
+Ferrari,Gtc4 Lusso,V12 [2017-2020],https://www.carwale.com/ferrari-cars/gtc4-lusso/v12-2017-2020/,200,True
+Ferrari,Gtc4 Lusso,V8 T,https://www.carwale.com/ferrari-cars/gtc4-lusso/v8-t/,200,True
+Ferrari,Gtc4 Lusso,V8 T [2017-2020],https://www.carwale.com/ferrari-cars/gtc4-lusso/v8-t-2017-2020/,200,True
+Ferrari,488,GTB,https://www.carwale.com/ferrari-cars/488/gtb/,200,True
+Ferrari,488,Spider,https://www.carwale.com/ferrari-cars/488/spider/,200,True
+Ferrari,458,Italia,https://www.carwale.com/ferrari-cars/458/italia/,200,True
+Ferrari,458,Speciale Petrol Automatic,https://www.carwale.com/ferrari-cars/458/speciale-petrol-automatic/,200,True
+Ferrari,360,Spider,https://www.carwale.com/ferrari-cars/360/spider/,200,True
+Ferrari,Ff,6.3L V12,https://www.carwale.com/ferrari-cars/ff/63l-v12/,200,True
+Ferrari,California,Convertible,https://www.carwale.com/ferrari-cars/california/convertible/,200,True
+Ferrari,California,T,https://www.carwale.com/ferrari-cars/california/t/,200,True
+Ferrari,575Superamerica,Coupe,https://www.carwale.com/ferrari-cars/575superamerica/coupe/,200,True
+Ferrari,612,Scaglietti,https://www.carwale.com/ferrari-cars/612/scaglietti/,200,True
+Ferrari,F430,Coupe,https://www.carwale.com/ferrari-cars/f430/coupe/,200,True
+Ferrari,F430,Spider,https://www.carwale.com/ferrari-cars/f430/spider/,200,True
+Fisker,Ocean Ev,Extreme,https://www.carwale.com/fisker-cars/ocean-ev/extreme/,200,True
+Fisker,Ocean Ev,One,https://www.carwale.com/fisker-cars/ocean-ev/one/,200,True
+Fisker,Ocean Ev,Sport,https://www.carwale.com/fisker-cars/ocean-ev/sport/,200,True
+Fisker,Ocean Ev,Ultra,https://www.carwale.com/fisker-cars/ocean-ev/ultra/,200,True
+Force Motors,Gurkha,3 Door (4-Seater),https://www.carwale.com/force-motors-cars/gurkha/3-door-4-seater/,200,True
+Force Motors,Gurkha,5 Door (7-Seater),https://www.carwale.com/force-motors-cars/gurkha/5-door-7-seater/,200,True
+Force Motors,Trax Cruiser,12 STR,https://www.carwale.com/force-motors-cars/trax-cruiser/12-str/,200,True
+Force Motors,Trax Cruiser,12 STR AC,https://www.carwale.com/force-motors-cars/trax-cruiser/12-str-ac/,200,True
+Force Motors,Trax Cruiser,9 STR,https://www.carwale.com/force-motors-cars/trax-cruiser/9-str/,200,True
+Force Motors,Trax Cruiser,9 STR AC,https://www.carwale.com/force-motors-cars/trax-cruiser/9-str-ac/,200,True
+Force Motors,Forceone,EX 7 STR,https://www.carwale.com/force-motors-cars/forceone/ex-7-str/,200,True
+Force Motors,Forceone,LX ABS 7 STR,https://www.carwale.com/force-motors-cars/forceone/lx-abs-7-str/,200,True
+Force Motors,Forceone,SX 6 STR,https://www.carwale.com/force-motors-cars/forceone/sx-6-str/,200,True

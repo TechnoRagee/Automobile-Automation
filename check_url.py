@@ -32,13 +32,13 @@ OUT_FIELDNAMES = [
 ]
 
 
-def check_url(url, retries=2, delay=1):
+def check_url(url, retries=4, delay=2):
     """Returns (status_code, ok_bool). status_code -1 if request errored out."""
     for attempt in range(1, retries + 1):
         try:
-            r = requests.head(url, headers=HEADERS, timeout=10, allow_redirects=True)
+            r = requests.head(url, headers=HEADERS, timeout=20, allow_redirects=True)
             if r.status_code in (403, 405):  # HEAD blocked by server, try GET
-                r = requests.get(url, headers=HEADERS, timeout=10)
+                r = requests.get(url, headers=HEADERS, timeout=20)
             return r.status_code, r.status_code == 200
         except requests.RequestException as e:
             print(f"        [retry {attempt}] {e}")
@@ -60,7 +60,7 @@ def main():
         print("FAILED: 'variant_url' column missing from input CSV")
         return
 
-    rows = rows[101:150]   # TEST ONLY first 20 rows
+    rows = rows[:20]   # TEST ONLY first 20 rows
 
     print(f"Checking {len(rows)} URLs...")
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
