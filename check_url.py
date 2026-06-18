@@ -60,7 +60,7 @@ def main():
         print("FAILED: 'variant_url' column missing from input CSV")
         return
 
-    rows = rows[101:150]   # TEST ONLY first 20 rows
+    # rows = rows[101:150]   # TEST ONLY first 20 rows
 
     print(f"Checking {len(rows)} URLs...")
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
