@@ -158,43 +158,47 @@ def extract_power(s):
     txt = s.get_text(" ", strip=True)
 
     patterns = [
+        r'Power\s*\(bhp@rpm\)\s*(\d+(?:\.\d+)?)',
         r'Max Power.*?(\d+(?:\.\d+)?)\s*bhp',
-        r'Max Power.*?(\d+(?:\.\d+)?)\s*PS',
-        r'Max Power.*?(\d+(?:\.\d+)?)\s*kW',
         r'Power.*?(\d+(?:\.\d+)?)\s*bhp',
-        r'Power.*?(\d+(?:\.\d+)?)\s*PS',
-        r'Power.*?(\d+(?:\.\d+)?)\s*kW',
-        r'(\d+(?:\.\d+)?)\s*bhp',
-        r'(\d+(?:\.\d+)?)\s*PS',
     ]
 
     for p in patterns:
         m = re.search(p, txt, re.I)
         if m:
-            unit = "bhp"
-            if "PS" in p:
-                unit = "PS"
-            elif "kW" in p:
-                unit = "kW"
-
-            return f"{m.group(1)} {unit}"
+            return f"{m.group(1)} bhp"
 
     return ""
 
 
+# def extract_torque(s):
+#     txt = s.get_text(" ", strip=True)
+
+#     patterns = [
+#         r'Torque\s*\(Nm@rpm\)\s*(\d+(?:\.\d+)?)',
+#         r'Max Torque\s*\(Nm@rpm\)\s*(\d+(?:\.\d+)?)',
+#         r'Max Torque.*?(\d+(?:\.\d+)?)\s*Nm',
+#         r'Torque.*?(\d+(?:\.\d+)?)\s*Nm',
+#     ]
+
+#     for p in patterns:
+#         m = re.search(p, txt, re.I)
+#         if m:
+#             return f"{m.group(1)} Nm"
+
+#     return ""
+
 def extract_torque(s):
     txt = s.get_text(" ", strip=True)
 
-    patterns = [
-        r'Max Torque.*?(\d+(?:\.\d+)?)\s*Nm',
-        r'Torque.*?(\d+(?:\.\d+)?)\s*Nm',
-         r'(\d+(?:\.\d+)?)\s*Nm',
-    ]
+    m = re.search(
+        r'Torque.*?(\d+)@',
+        txt,
+        re.I
+    )
 
-    for p in patterns:
-        m = re.search(p, txt, re.I)
-        if m:
-            return f"{m.group(1)} Nm"
+    if m:
+        return f"{m.group(1)} Nm"
 
     return ""
 
@@ -280,7 +284,7 @@ def extract_airbags(s):
 
 def extract_body_type(s):
     txt = s.get_text(" ", strip=True)
-    m = re.search(r'Body\s*Type.{0,60', txt, re.I)
+    m = re.search(r'Body\s*Type.{0,60}', txt, re.I)
 
     if m:
         print("BODY DEBUG:", m.group(0))
@@ -304,7 +308,7 @@ def extract_body_type(s):
         rf'Body\s*Type.*?\b{re.escape(body)}\b',
         txt,
         re.I
-    )
+        )
 
     if m:
         return body
@@ -323,6 +327,11 @@ def scrape_variant(url):
             f.write(html)
 
     s = soup(html)
+    if "dbs20072012" in url:
+        with open("debug_dbs.html", "w", encoding="utf-8") as f:
+            f.write(html)
+
+    print("DBS PAGE SAVED")
 
     if "db11" in url:
         import json
@@ -346,8 +355,26 @@ def scrape_variant(url):
         engine = extract_engine(s)
         power = extract_power(s)
         torque = extract_torque(s)
+        print("EXTRACTED TORQUE =", torque)
     
     price = extract_price(s)
+    mileage = extract_mileage(s)
+
+    if not mileage:
+        print("MILEAGE MISS:", url)
+    
+    if "dbs20072012" in url:
+        txt = s.get_text(" ", strip=True)
+
+        idx = txt.lower().find("power")
+        if idx != -1:
+            print("\nPOWER TEXT:")
+            print(txt[idx:idx+300])
+
+        idx = txt.lower().find("torque")
+        if idx != -1:
+            print("\nTORQUE TEXT:")
+            print(txt[idx:idx+300])
         
     if not power:
             print("POWER MISS:", url)

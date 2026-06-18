@@ -96,18 +96,51 @@ BAD_VARIANTS ={ # TEMPORARY
                     "venue",
                     "exter",
                     "i20",
+                    "aircross-x",
+                    "basalt-x",
+                    "c3-x",
+                    "ec3",
+                    "c5-aircross",
+                    "carens",
+                    "carens-clavis",
+                    "seltos",
+                    "sonet",
+                    "syros",
+                    "2 series gran coupe",
+                    "3 series lwb",
+                    "m340i",
+                    "ix1 lwb",
+                    "ix3",
+                    "i7",
+                    "z4",
+                    "x1",
+                    "x3",
+                    "x5",
+                    "x7",
+
                 }
 
-def get_version_names(html):
+def get_version_names(html,model_slug):
     if not html:
         return []
 
     versions = re.findall(r'"VersionName":"([^"]+)"', html, re.I)
     clean_versions = []
     
+    
     for v in versions:
-        if v.lower().strip() in BAD_VARIANTS:
-            continue
+        if model_slug in [
+        "ix3",
+        "new-c5-aircross",
+        "basalt-ev",
+        "syros-ev",
+        "ev5"
+    ]:
+            print("RAW VERSION:", repr(v))
+            clean_v = v.lower().strip()
+            if clean_v in BAD_VARIANTS:
+                print("SKIPPED:",v)
+                continue
         clean_versions.append(v)
     return sorted(dict.fromkeys(clean_versions))
 
@@ -134,6 +167,7 @@ def main():
         s = re.sub(r"[^a-z0-9\-]+", "-", s)
         s = re.sub(r"-+", "-", s).strip("-")
         return s
+   
 
     with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as out_f:
         writer = csv.DictWriter(out_f, fieldnames=FIELDNAMES)
@@ -149,11 +183,15 @@ def main():
             print(f"[{i}/{len(models)}] {brand_name} {model_name}")
 
             html = fetch(model_url)
+            if model_slug == "ix3":
+                with open("ix3.html", "w", encoding="utf-8") as f:
+                    f.write(html)
+                print("IX3 HTML SAVED")
             if html is None:
                 print("  fetch failed, skipping")
                 continue
 
-            versions = get_version_names(html)
+            versions = get_version_names(html,model_slug)
             if not versions:
                 print("No versions Found")
                 continue
