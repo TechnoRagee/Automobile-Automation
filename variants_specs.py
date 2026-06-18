@@ -30,7 +30,7 @@ HEADERS = {
 }
 
 MODELS_FILE = "output/variants1.csv"
-OUTPUT_FILE = "output/variants_specs.csv"
+OUTPUT_FILE = "output/var_specification.csv"
 DELAY       = 1.5
 
 SPEC_FIELDS = [
@@ -74,14 +74,15 @@ def soup(html):
 def extract_price(s):
     txt = s.get_text(" ", strip=True)
 
-    m = re.search(
-        r'(?:Rs\.|₹)\s*([\d.,]+)\s*(Crore|Lakh)',
-        txt,
-        re.I
-    )
+    patterns = [
+        r'(?:Rs\.?|₹)\s*([\d.,]+)\s*(Crore|Lakh)',
+        r'([\d.,]+)\s*(Crore|Lakh)',
+    ]
 
-    if m:
-        return f"Rs. {m.group(1)} {m.group(2).title()}"
+    for p in patterns:
+        m = re.search(p, txt, re.I)
+        if m:
+            return f"Rs. {m.group(1)} {m.group(2).title()}"
 
     return ""
 
@@ -163,6 +164,8 @@ def extract_power(s):
         r'Power.*?(\d+(?:\.\d+)?)\s*bhp',
         r'Power.*?(\d+(?:\.\d+)?)\s*PS',
         r'Power.*?(\d+(?:\.\d+)?)\s*kW',
+        r'(\d+(?:\.\d+)?)\s*bhp',
+        r'(\d+(?:\.\d+)?)\s*PS',
     ]
 
     for p in patterns:
@@ -185,6 +188,7 @@ def extract_torque(s):
     patterns = [
         r'Max Torque.*?(\d+(?:\.\d+)?)\s*Nm',
         r'Torque.*?(\d+(?:\.\d+)?)\s*Nm',
+         r'(\d+(?:\.\d+)?)\s*Nm',
     ]
 
     for p in patterns:
@@ -342,6 +346,17 @@ def scrape_variant(url):
         engine = extract_engine(s)
         power = extract_power(s)
         torque = extract_torque(s)
+    
+    price = extract_price(s)
+        
+    if not power:
+            print("POWER MISS:", url)
+
+    if not torque:
+        print("TORQUE MISS:", url)
+
+    if not price:
+        print("PRICE MISS:", url)
         
     return {
             "price": extract_price(s),
@@ -363,11 +378,13 @@ def scrape_variant(url):
 def main():
     with open(MODELS_FILE, newline="", encoding="utf-8") as f:
         all_models = list(csv.DictReader(f))
-        # models = all_models[:60]   # TEST ONLY 50 ROWS
-        
-        models = all_models
+        models = [m for m in all_models if m["brand_slug"].lower() == "tata"]
+        print(f"Tata models found: {len(models)}")
 
-        print(f"EV models loaded: {len(models)}")
+        
+        # models = all_models
+
+        # print(f"EV models loaded: {len(models)}")
 
     print(f"Models loaded: {len(models)}")
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)

@@ -132,9 +132,9 @@ def cd_extract_fuel_type(s):
 def cd_extract_transmission(s):
     txt = s.get_text(" ", strip=True)
     patterns = [
-        r'Transmission Type\s+(Automatic|Manual|CVT|AMT|DCT|DSG|iMT)',
-        r'Transmission\s+(Automatic|Manual|CVT|AMT|DCT|DSG|iMT)',
-    ]
+    r'Transmission Type\s*[:\-]?\s*(Automatic|Manual|CVT|AMT|DCT|DSG|iMT)',
+    r'Transmission\s*[:\-]?\s*(Automatic|Manual|CVT|AMT|DCT|DSG|iMT)',
+]
     for p in patterns:
         m = re.search(p, txt, re.I)
         if m:
@@ -190,6 +190,8 @@ def cd_extract_power(s):
         r'Max Power\s*([0-9.]+\s*kW)',
         r'Power\s*([0-9.]+\s*bhp)',
         r'Power\s*([0-9.]+\s*PS)',
+        r'([\d\.]+\s*bhp)',
+        r'([\d\.]+\s*PS)',
     ]
 
     for p in patterns:
@@ -218,17 +220,29 @@ def cd_extract_torque(s):
 
 def cd_extract_seating(s):
     txt = s.get_text(" ")
-    m = re.search(r'(\d+)\s*Seat', txt, re.I)
-    if m:
-        return m.group(1)
+    patterns = [
+    r'Seating Capacity\s*[:\-]?\s*(\d+)',
+    r'(\d+)\s*Seats?',
+        ]
+
+    for p in patterns:
+        m = re.search(p, txt, re.I)
+        if m:
+            return m.group(1)
     return ""
 
 
 def cd_extract_airbags(s):
     txt = s.get_text(" ")
-    m = re.search(r'(\d+)\s*Airbag', txt, re.I)
-    if m:
-        return m.group(1)
+    patterns = [
+    r'(\d+)\s*Airbags?',
+    r'Airbags?\s*[:\-]?\s*(\d+)',
+    r'Airbag Count\s*[:\-]?\s*(\d+)',
+    ]
+    for p in patterns:
+        m = re.search(p, txt, re.I)
+        if m:
+            return m.group(1)
     return ""
 
 
@@ -277,9 +291,16 @@ def cardekho_fallback(carwale_data: dict, brand_slug: str, model_slug: str) -> d
     """
     # Check if any field actually needs filling
     needs_fill = [
-        k for k in ["fuel_type", "transmission", "engine",
-                "mileage", "power", "torque", "seating_capacity",
-                "airbags", "body_type"]
+        k for k in ["price",
+                    "fuel_type",
+                    "transmission",
+                    "engine",
+                    "mileage",
+                    "power",
+                    "torque",
+                    "seating_capacity",
+                    "airbags",
+                    "body_type",]
         if not carwale_data.get(k)
     ]
     if not needs_fill:
@@ -294,9 +315,15 @@ def cardekho_fallback(carwale_data: dict, brand_slug: str, model_slug: str) -> d
         return carwale_data
 
     s = soup(html)
+    title = s.title.text.strip() if s.title else "NO TITLE"
+    print("\nURL:", cd_url)
+    print("TITLE:", s.title.text if s.title else "NO TITLE")
+    print("TITLE:", title)
+    if brand_slug.lower() not in title.lower():
+        print("WRONG PAGE DETECTED")
 
     extractors = {
-        # "price":            cd_extract_price,
+        "price":            cd_extract_price,
         "fuel_type":        cd_extract_fuel_type,
         "transmission":     cd_extract_transmission,
         "engine":           cd_extract_engine,

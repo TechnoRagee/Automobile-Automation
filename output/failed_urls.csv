@@ -1,0 +1,769 @@
+brand_name,model_name,variant_name,variant_url,missing_fields
+Aston Martin,Dbs20072012,Coupe,https://www.carwale.com/aston-martin-cars/dbs20072012/coupe/,mileage;power;airbags;body_type
+Aston Martin,Dbs20072012,Volante,https://www.carwale.com/aston-martin-cars/dbs20072012/volante/,mileage;power;airbags;body_type
+Audi,New A3,Premium 35 TFSi,https://www.carwale.com/audi-cars/new-a3/premium-35-tfsi/,mileage;power;torque;airbags;body_type
+Audi,New A3,Premium Plus 35 TFSi,https://www.carwale.com/audi-cars/new-a3/premium-plus-35-tfsi/,mileage;power;torque;airbags;body_type
+Audi,New A3,Standard 35 TFSi,https://www.carwale.com/audi-cars/new-a3/standard-35-tfsi/,mileage;power;torque;airbags;body_type
+Audi,New A3,Technology 35 TFSi,https://www.carwale.com/audi-cars/new-a3/technology-35-tfsi/,mileage;power;torque;airbags;body_type
+BMW,M340I,xDrive Shadow Edition,https://www.carwale.com/bmw-cars/m340i/xdrive-shadow-edition/,mileage;power;body_type
+BMW,Ix1 Lwb,eDrive20L M Sport,https://www.carwale.com/bmw-cars/ix1-lwb/edrive20l-m-sport/,mileage;power;body_type
+BMW,Ix3,2 Series Gran Coupe,https://www.carwale.com/bmw-cars/ix3/2-series-gran-coupe/,price;transmission;mileage;power;body_type
+BMW,Ix3,3 Series LWB,https://www.carwale.com/bmw-cars/ix3/3-series-lwb/,price;transmission;mileage;power;body_type
+BMW,Ix3,M340i,https://www.carwale.com/bmw-cars/ix3/m340i/,price;transmission;mileage;power;body_type
+BYD,Seal U Dm I,Performance Plug-in Hybrid (Electric + Petrol) Turbo Automatic,https://www.carwale.com/byd-cars/seal-u-dm-i/performance-plug-in-hybrid-electric-petrol-turbo-automatic/,price;transmission;engine;mileage;power;airbags;body_type
+Bentley,Arnage,R,https://www.carwale.com/bentley-cars/arnage/r/,mileage;power;torque;airbags
+Bentley,Arnage,RL,https://www.carwale.com/bentley-cars/arnage/rl/,mileage;power;torque;airbags
+Bentley,Azure,Convertible,https://www.carwale.com/bentley-cars/azure/convertible/,mileage;power;torque;airbags
+Bentley,Continentalsupersports,Convertible,https://www.carwale.com/bentley-cars/continentalsupersports/convertible/,mileage;power;torque;airbags;body_type
+Citroen,C3 X,Feel (O) CNG 1.2L 5 Speed Manual,https://www.carwale.com/citroen-cars/c3-x/feel-o-cng-12l-5-speed-manual/,fuel_type;body_type
+Citroen,C3 X,Feel CNG 1.2L 5 Speed Manual,https://www.carwale.com/citroen-cars/c3-x/feel-cng-12l-5-speed-manual/,fuel_type;body_type
+Citroen,C3 X,Live CNG 1.2L 5 Speed Manual,https://www.carwale.com/citroen-cars/c3-x/live-cng-12l-5-speed-manual/,fuel_type;body_type
+Citroen,C3 X,Shine CNG 1.2L 5 Speed Manual,https://www.carwale.com/citroen-cars/c3-x/shine-cng-12l-5-speed-manual/,fuel_type;body_type
+Citroen,C3 X,Shine CNG 1.2L 5 Speed Manual Dual Tone,https://www.carwale.com/citroen-cars/c3-x/shine-cng-12l-5-speed-manual-dual-tone/,fuel_type;body_type
+Citroen,Ec3,Feel 29.2 kWh,https://www.carwale.com/citroen-cars/ec3/feel-292-kwh/,price;engine;mileage
+Citroen,Ec3,Live,https://www.carwale.com/citroen-cars/ec3/live/,mileage;power
+Citroen,Ec3,Shine 29.2 kWh,https://www.carwale.com/citroen-cars/ec3/shine-292-kwh/,price;engine;mileage
+Citroen,Ec3,Shine 29.2 kWh Dual Tone,https://www.carwale.com/citroen-cars/ec3/shine-292-kwh-dual-tone/,price;engine;mileage
+Citroen,Ec3,Shine 29.2 kWh Dual Tone Vibe Pack,https://www.carwale.com/citroen-cars/ec3/shine-292-kwh-dual-tone-vibe-pack/,price;engine;mileage
+Citroen,Ec3,Shine 29.2 kWh Vibe Pack,https://www.carwale.com/citroen-cars/ec3/shine-292-kwh-vibe-pack/,price;engine;mileage
+Citroen,New C5 Aircross,Aircross X,https://www.carwale.com/citroen-cars/new-c5-aircross/aircross-x/,price;transmission;mileage;power;body_type
+Citroen,New C5 Aircross,Basalt X,https://www.carwale.com/citroen-cars/new-c5-aircross/basalt-x/,price;transmission;mileage;power;body_type
+Citroen,New C5 Aircross,C3 X,https://www.carwale.com/citroen-cars/new-c5-aircross/c3-x/,price;transmission;mileage;power;body_type
+Citroen,New C5 Aircross,C5 Aircross,https://www.carwale.com/citroen-cars/new-c5-aircross/c5-aircross/,price;transmission;mileage;power;body_type
+Citroen,New C5 Aircross,eC3,https://www.carwale.com/citroen-cars/new-c5-aircross/ec3/,price;transmission;mileage;power;body_type
+Citroen,Basalt Ev,Aircross X,https://www.carwale.com/citroen-cars/basalt-ev/aircross-x/,price;transmission;mileage;power;body_type
+Citroen,Basalt Ev,Basalt X,https://www.carwale.com/citroen-cars/basalt-ev/basalt-x/,price;transmission;mileage;power;body_type
+Citroen,Basalt Ev,C3 X,https://www.carwale.com/citroen-cars/basalt-ev/c3-x/,price;transmission;mileage;power;body_type
+Citroen,Basalt Ev,C5 Aircross,https://www.carwale.com/citroen-cars/basalt-ev/c5-aircross/,price;transmission;mileage;power;body_type
+Citroen,Basalt Ev,eC3,https://www.carwale.com/citroen-cars/basalt-ev/ec3/,price;transmission;mileage;power;body_type
+Citroen,Basalt,Max Petrol Turbo 6 Speed Manual,https://www.carwale.com/citroen-cars/basalt/max-petrol-turbo-6-speed-manual/,price;mileage
+Citroen,Basalt,Max Petrol Turbo 6 Speed Manual Dual Tone,https://www.carwale.com/citroen-cars/basalt/max-petrol-turbo-6-speed-manual-dual-tone/,price;mileage
+Citroen,Basalt,Max Petrol Turbo Automatic,https://www.carwale.com/citroen-cars/basalt/max-petrol-turbo-automatic/,price;mileage
+Citroen,Basalt,Max Petrol Turbo Automatic Dual Tone,https://www.carwale.com/citroen-cars/basalt/max-petrol-turbo-automatic-dual-tone/,price;mileage
+Citroen,Basalt,Plus Petrol 5 Speed Manual,https://www.carwale.com/citroen-cars/basalt/plus-petrol-5-speed-manual/,price;mileage
+Citroen,Basalt,Plus Petrol Turbo 6 Speed Manual,https://www.carwale.com/citroen-cars/basalt/plus-petrol-turbo-6-speed-manual/,price;mileage
+Citroen,Basalt,Plus Petrol Turbo Automatic,https://www.carwale.com/citroen-cars/basalt/plus-petrol-turbo-automatic/,price;mileage
+Citroen,Basalt,You Petrol 5 Speed Manual,https://www.carwale.com/citroen-cars/basalt/you-petrol-5-speed-manual/,price;mileage
+Ferrari,849 Testarossa,4.0-litre V8 Hybrid (Electric + Petrol) Turbo Automatic,https://www.carwale.com/ferrari-cars/849-testarossa/40-litre-v8-hybrid-electric-petrol-turbo-automatic/,price;mileage
+Ferrari,458,Italia,https://www.carwale.com/ferrari-cars/458/italia/,mileage;power;torque;airbags;body_type
+Ferrari,360,Spider,https://www.carwale.com/ferrari-cars/360/spider/,transmission;mileage;power;torque;airbags;body_type
+Ferrari,575Superamerica,Coupe,https://www.carwale.com/ferrari-cars/575superamerica/coupe/,mileage;power;torque;airbags;body_type
+Ferrari,612,Scaglietti,https://www.carwale.com/ferrari-cars/612/scaglietti/,mileage;power;torque;airbags
+Ferrari,F430,Coupe,https://www.carwale.com/ferrari-cars/f430/coupe/,mileage;power;torque;airbags
+Ferrari,F430,Spider,https://www.carwale.com/ferrari-cars/f430/spider/,mileage;power;torque;airbags
+Fisker,Ocean Ev,Extreme,https://www.carwale.com/fisker-cars/ocean-ev/extreme/,engine;mileage;power;torque;airbags;body_type
+Fisker,Ocean Ev,One,https://www.carwale.com/fisker-cars/ocean-ev/one/,engine;mileage;power;torque;airbags;body_type
+Fisker,Ocean Ev,Sport,https://www.carwale.com/fisker-cars/ocean-ev/sport/,engine;mileage;power;torque;airbags;body_type
+Fisker,Ocean Ev,Ultra,https://www.carwale.com/fisker-cars/ocean-ev/ultra/,engine;mileage;power;torque;airbags;body_type
+Honda,City,ZX Plus Hybrid (Electric + Petrol) Automatic (e-CVT) e:HEV,https://www.carwale.com/honda-cars/city/zx-plus-hybrid-electric-petrol-automatic-e-cvt-e-hev/,price;mileage
+Honda,Zr V,Amaze 2nd Gen,https://www.carwale.com/honda-cars/zr-v/amaze-2nd-gen/,price;mileage;airbags
+Honda,Zr V,Sport Hybrid (Electric + Petrol) Automatic e:HEV,https://www.carwale.com/honda-cars/zr-v/sport-hybrid-electric-petrol-automatic-e-hev/,price;mileage;airbags
+Honda,Super One,Amaze 2nd Gen,https://www.carwale.com/honda-cars/super-one/amaze-2nd-gen/,price;transmission;mileage;power;torque;airbags;body_type
+Honda,0 Alpha,Amaze 2nd Gen,https://www.carwale.com/honda-cars/0-alpha/amaze-2nd-gen/,price;transmission;mileage;power;torque;airbags;body_type
+Honda,Prelude,Amaze 2nd Gen,https://www.carwale.com/honda-cars/prelude/amaze-2nd-gen/,price;transmission;mileage;power;torque;airbags;body_type
+Honda,Elevate Based Three Row Suv,Amaze 2nd Gen,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/amaze-2nd-gen/,price;transmission;mileage;power;torque;airbags;body_type
+Honda,Elevate Based Three Row Suv,ZX Hybrid (Electric + Petrol) Automatic (e-CVT),https://www.carwale.com/honda-cars/elevate-based-three-row-suv/zx-hybrid-electric-petrol-automatic-e-cvt/,price;transmission;mileage;power;torque;airbags;body_type
+Honda,Cr V Hybrid,Amaze 2nd Gen,https://www.carwale.com/honda-cars/cr-v-hybrid/amaze-2nd-gen/,price;transmission;mileage;power;torque;airbags;body_type
+Honda,Compact Suv,Amaze 2nd Gen,https://www.carwale.com/honda-cars/compact-suv/amaze-2nd-gen/,price;mileage
+Honda,City Hybrid Ehev,ZX Plus Hybrid (Electric + Petrol) Automatic,https://www.carwale.com/honda-cars/city-hybrid-ehev/zx-plus-hybrid-electric-petrol-automatic/,price;transmission;mileage;power;torque;airbags;body_type
+Honda,Stepwgn,Wagon,https://www.carwale.com/honda-cars/stepwgn/wagon/,mileage;power;torque;airbags;body_type
+Honda,Concerto,Ex 1.6 MT,https://www.carwale.com/honda-cars/concerto/ex-16-mt/,mileage;power;torque;airbags;body_type
+Honda,Crx,Petrol,https://www.carwale.com/honda-cars/crx/petrol/,mileage;power;torque;airbags;body_type
+Hyundai,Exter,HX 2 CNG Manual,https://www.carwale.com/hyundai-cars/exter/hx-2-cng-manual/,fuel_type;mileage
+Hyundai,Exter,HX 3 CNG Manual,https://www.carwale.com/hyundai-cars/exter/hx-3-cng-manual/,fuel_type;mileage
+Hyundai,Exter,HX 3 CNG Manual Matte,https://www.carwale.com/hyundai-cars/exter/hx-3-cng-manual-matte/,fuel_type;mileage
+Hyundai,Exter,HX 4 CNG Manual,https://www.carwale.com/hyundai-cars/exter/hx-4-cng-manual/,fuel_type;mileage
+Hyundai,Exter,HX 4 CNG Manual Matte,https://www.carwale.com/hyundai-cars/exter/hx-4-cng-manual-matte/,fuel_type;mileage
+Hyundai,Exter,HX 6 CNG Manual,https://www.carwale.com/hyundai-cars/exter/hx-6-cng-manual/,fuel_type;mileage
+Hyundai,Exter,HX 6 CNG Manual Dual Tone,https://www.carwale.com/hyundai-cars/exter/hx-6-cng-manual-dual-tone/,fuel_type;mileage
+Hyundai,Exter,HX 6 CNG Manual Matte,https://www.carwale.com/hyundai-cars/exter/hx-6-cng-manual-matte/,fuel_type;mileage
+Hyundai,Exter,HX 8 CNG Manual,https://www.carwale.com/hyundai-cars/exter/hx-8-cng-manual/,fuel_type;mileage
+Hyundai,Exter,HX 8 CNG Manual Matte,https://www.carwale.com/hyundai-cars/exter/hx-8-cng-manual-matte/,fuel_type;mileage
+Hyundai,Grand I10 Nios,Magna CNG Manual,https://www.carwale.com/hyundai-cars/grand-i10-nios/magna-cng-manual/,fuel_type;mileage
+Hyundai,Grand I10 Nios,Sportz CNG Manual,https://www.carwale.com/hyundai-cars/grand-i10-nios/sportz-cng-manual/,fuel_type;mileage
+Hyundai,Aura,Corporate CNG Manual,https://www.carwale.com/hyundai-cars/aura/corporate-cng-manual/,fuel_type
+Hyundai,Aura,S CNG Manual,https://www.carwale.com/hyundai-cars/aura/s-cng-manual/,fuel_type
+Hyundai,Aura,SX CNG Manual,https://www.carwale.com/hyundai-cars/aura/sx-cng-manual/,fuel_type
+Hyundai,Ioniq 5,RWD 84.0 kWh,https://www.carwale.com/hyundai-cars/ioniq-5/rwd-840-kwh/,mileage;torque
+Hyundai,Mid Size Suv,Grand i10 Nios,https://www.carwale.com/hyundai-cars/mid-size-suv/grand-i10-nios/,price;transmission;mileage;power;torque;body_type
+Hyundai,Bayon,Grand i10 Nios,https://www.carwale.com/hyundai-cars/bayon/grand-i10-nios/,price;mileage;power;torque;seating_capacity;airbags
+Hyundai,Ioniq 6,Grand i10 Nios,https://www.carwale.com/hyundai-cars/ioniq-6/grand-i10-nios/,price;engine;mileage;power;torque;seating_capacity;airbags
+Hyundai,Sub Compact Ev Suv,Grand i10 Nios,https://www.carwale.com/hyundai-cars/sub-compact-ev-suv/grand-i10-nios/,price;transmission;mileage;power;torque;body_type
+Hyundai,New I20,1.2 Petrol Automatic,https://www.carwale.com/hyundai-cars/new-i20/12-petrol-automatic/,mileage;power;torque;body_type
+Hyundai,New I20,1.2 Petrol Manual,https://www.carwale.com/hyundai-cars/new-i20/12-petrol-manual/,mileage;power;torque;body_type
+Hyundai,New I20,Grand i10 Nios,https://www.carwale.com/hyundai-cars/new-i20/grand-i10-nios/,price;transmission;mileage;power;torque;body_type
+Hyundai,Ioniq 9,Grand i10 Nios,https://www.carwale.com/hyundai-cars/ioniq-9/grand-i10-nios/,price;engine;mileage;power;torque;seating_capacity;airbags
+Hyundai,Palisade,Grand i10 Nios,https://www.carwale.com/hyundai-cars/palisade/grand-i10-nios/,price;mileage;torque;seating_capacity;airbags
+Hyundai,New Santa Fe,Grand i10 Nios,https://www.carwale.com/hyundai-cars/new-santa-fe/grand-i10-nios/,price;transmission;mileage;power;torque;body_type
+Hyundai,Stargazer,1.5 CVT,https://www.carwale.com/hyundai-cars/stargazer/15-cvt/,mileage;power;torque;airbags
+Hyundai,Stargazer,1.5 MT,https://www.carwale.com/hyundai-cars/stargazer/15-mt/,mileage;power;torque;airbags
+Hyundai,Stargazer,Grand i10 Nios,https://www.carwale.com/hyundai-cars/stargazer/grand-i10-nios/,price;mileage;power;torque;airbags
+Hyundai,Staria,Grand i10 Nios,https://www.carwale.com/hyundai-cars/staria/grand-i10-nios/,price;mileage;power;torque;airbags
+Hyundai,Boulder,Grand i10 Nios,https://www.carwale.com/hyundai-cars/boulder/grand-i10-nios/,price;transmission;mileage;power;torque;body_type
+Hyundai,Getzprime20072010,1.1 GLE,https://www.carwale.com/hyundai-cars/getzprime20072010/11-gle/,power;torque;body_type
+Hyundai,Getzprime20072010,1.1 GVS,https://www.carwale.com/hyundai-cars/getzprime20072010/11-gvs/,mileage;power;torque;body_type
+Hyundai,Getzprime20072010,1.1 GVS Option,https://www.carwale.com/hyundai-cars/getzprime20072010/11-gvs-option/,mileage;power;torque;body_type
+Hyundai,Getzprime20072010,1.3 GLS,https://www.carwale.com/hyundai-cars/getzprime20072010/13-gls/,power;torque;body_type
+Hyundai,Getzprime20072010,1.3 GLX,https://www.carwale.com/hyundai-cars/getzprime20072010/13-glx/,mileage;power;torque;body_type
+Hyundai,Getzprime20072010,1.3 GVS,https://www.carwale.com/hyundai-cars/getzprime20072010/13-gvs/,mileage;power;torque;body_type
+Hyundai,Getzprime20072010,1.5 GVS CRDi,https://www.carwale.com/hyundai-cars/getzprime20072010/15-gvs-crdi/,mileage;power;torque;body_type
+Hyundai,Santro,Magna CNG,https://www.carwale.com/hyundai-cars/santro/magna-cng/,fuel_type;mileage
+Hyundai,Santro,Magna CNG [2018-2020],https://www.carwale.com/hyundai-cars/santro/magna-cng-2018-2020/,fuel_type;mileage
+Hyundai,Santro,Sportz CNG,https://www.carwale.com/hyundai-cars/santro/sportz-cng/,fuel_type;mileage
+Hyundai,Santro,Sportz CNG [2018-2020],https://www.carwale.com/hyundai-cars/santro/sportz-cng-2018-2020/,fuel_type;mileage
+Hyundai,Terracan20032006,CRDi,https://www.carwale.com/hyundai-cars/terracan20032006/crdi/,mileage;power;torque;body_type
+Hyundai,Eon,1.0 Kappa Era +,https://www.carwale.com/hyundai-cars/eon/10-kappa-era/,price;mileage;airbags
+Hyundai,Eon,1.0 Kappa Magna + (O) [2014-2016],https://www.carwale.com/hyundai-cars/eon/10-kappa-magna-o-2014-2016/,price;mileage;airbags
+Hyundai,Eon,1.0 Kappa Magna + [2014-2016],https://www.carwale.com/hyundai-cars/eon/10-kappa-magna-2014-2016/,price;mileage;airbags
+Hyundai,Eon,D-Lite + AirBag,https://www.carwale.com/hyundai-cars/eon/d-lite-airbag/,price;mileage;airbags
+Hyundai,Eon,D-Lite + LPG [2012-2015],https://www.carwale.com/hyundai-cars/eon/d-lite-lpg-2012-2015/,price;mileage;airbags
+Hyundai,Eon,Era + AirBag,https://www.carwale.com/hyundai-cars/eon/era-airbag/,price;mileage;airbags
+Hyundai,Eon,Era + LPG,https://www.carwale.com/hyundai-cars/eon/era-lpg/,price;mileage;airbags
+Hyundai,Eon,Era + LPG Airbag,https://www.carwale.com/hyundai-cars/eon/era-lpg-airbag/,price;mileage;airbags
+Hyundai,Eon,Era + SE,https://www.carwale.com/hyundai-cars/eon/era-se/,price;mileage;airbags
+Hyundai,Eon,Magna + AirBag,https://www.carwale.com/hyundai-cars/eon/magna-airbag/,price;mileage;airbags
+Hyundai,Eon,Magna + LPG [2012-2016],https://www.carwale.com/hyundai-cars/eon/magna-lpg-2012-2016/,price;mileage;airbags
+Hyundai,Eon,Magna + SE,https://www.carwale.com/hyundai-cars/eon/magna-se/,price;mileage;airbags
+Hyundai,Grand I10,Magna 1.2 Kappa VTVT CNG,https://www.carwale.com/hyundai-cars/grand-i10/magna-12-kappa-vtvt-cng/,fuel_type;mileage
+Hyundai,Grand I10,Magna 1.2 Kappa VTVT CNG [2019-2020],https://www.carwale.com/hyundai-cars/grand-i10/magna-12-kappa-vtvt-cng-2019-2020/,fuel_type;mileage
+Hyundai,Genesis,3.8,https://www.carwale.com/hyundai-cars/genesis/38/,engine;mileage;power;torque;airbags
+Isuzu,Trooper,4X4,https://www.carwale.com/isuzu-cars/trooper/4x4/,mileage;power;torque;airbags;body_type
+Jaguar,Type 00,F-Pace,https://www.carwale.com/jaguar-cars/type-00/f-pace/,price;transmission;mileage;power;torque;airbags;body_type
+Jaguar,Xj50,3.0 V6,https://www.carwale.com/jaguar-cars/xj50/30-v6/,mileage;power;torque;airbags;body_type
+Jeep,Willys,Diesel,https://www.carwale.com/jeep-cars/willys/diesel/,transmission;mileage;power;torque;airbags;body_type
+Jeep,Kaiser,CJ-5,https://www.carwale.com/jeep-cars/kaiser/cj-5/,engine;mileage;power;torque;seating_capacity;airbags
+Kia,Syros Ev,Carens,https://www.carwale.com/kia-cars/syros-ev/carens/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,Syros Ev,Carens Clavis,https://www.carwale.com/kia-cars/syros-ev/carens-clavis/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,Syros Ev,Seltos,https://www.carwale.com/kia-cars/syros-ev/seltos/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,Syros Ev,Sonet,https://www.carwale.com/kia-cars/syros-ev/sonet/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,Syros Ev,Syros,https://www.carwale.com/kia-cars/syros-ev/syros/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,Sorento Hybrid,1.6 2WD Hybrid (Electric + Petrol) Turbo Automatic,https://www.carwale.com/kia-cars/sorento-hybrid/16-2wd-hybrid-electric-petrol-turbo-automatic/,price;transmission;mileage;power;torque;body_type
+Kia,Sorento Hybrid,1.6 4WD Hybrid (Electric + Petrol) Turbo Automatic,https://www.carwale.com/kia-cars/sorento-hybrid/16-4wd-hybrid-electric-petrol-turbo-automatic/,price;transmission;mileage;power;torque;body_type
+Kia,Sorento Hybrid,Carens,https://www.carwale.com/kia-cars/sorento-hybrid/carens/,price;transmission;mileage;power;torque;body_type
+Kia,Sorento Hybrid,Carens Clavis,https://www.carwale.com/kia-cars/sorento-hybrid/carens-clavis/,price;transmission;mileage;power;torque;body_type
+Kia,Sorento Hybrid,Seltos,https://www.carwale.com/kia-cars/sorento-hybrid/seltos/,price;transmission;mileage;power;torque;body_type
+Kia,Sorento Hybrid,Sonet,https://www.carwale.com/kia-cars/sorento-hybrid/sonet/,price;transmission;mileage;power;torque;body_type
+Kia,Sorento Hybrid,Syros,https://www.carwale.com/kia-cars/sorento-hybrid/syros/,price;transmission;mileage;power;torque;body_type
+Kia,Ev5,Carens,https://www.carwale.com/kia-cars/ev5/carens/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,Ev5,Carens Clavis,https://www.carwale.com/kia-cars/ev5/carens-clavis/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,Ev5,Seltos,https://www.carwale.com/kia-cars/ev5/seltos/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,Ev5,Sonet,https://www.carwale.com/kia-cars/ev5/sonet/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,Ev5,Syros,https://www.carwale.com/kia-cars/ev5/syros/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,New Sonet,Carens,https://www.carwale.com/kia-cars/new-sonet/carens/,price;transmission;mileage;power;torque;body_type
+Kia,New Sonet,Carens Clavis,https://www.carwale.com/kia-cars/new-sonet/carens-clavis/,price;transmission;mileage;power;torque;body_type
+Kia,New Sonet,Seltos,https://www.carwale.com/kia-cars/new-sonet/seltos/,price;transmission;mileage;power;torque;body_type
+Kia,New Sonet,Sonet,https://www.carwale.com/kia-cars/new-sonet/sonet/,price;transmission;mileage;power;torque;body_type
+Kia,New Sonet,Syros,https://www.carwale.com/kia-cars/new-sonet/syros/,price;transmission;mileage;power;torque;body_type
+Kia,Ev3,Carens,https://www.carwale.com/kia-cars/ev3/carens/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,Ev3,Carens Clavis,https://www.carwale.com/kia-cars/ev3/carens-clavis/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,Ev3,Seltos,https://www.carwale.com/kia-cars/ev3/seltos/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,Ev3,Sonet,https://www.carwale.com/kia-cars/ev3/sonet/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,Ev3,Syros,https://www.carwale.com/kia-cars/ev3/syros/,price;engine;mileage;power;torque;seating_capacity;airbags
+Kia,Tasman,Carens,https://www.carwale.com/kia-cars/tasman/carens/,price;transmission;mileage;power;torque;body_type
+Kia,Tasman,Carens Clavis,https://www.carwale.com/kia-cars/tasman/carens-clavis/,price;transmission;mileage;power;torque;body_type
+Kia,Tasman,Seltos,https://www.carwale.com/kia-cars/tasman/seltos/,price;transmission;mileage;power;torque;body_type
+Kia,Tasman,Sonet,https://www.carwale.com/kia-cars/tasman/sonet/,price;transmission;mileage;power;torque;body_type
+Kia,Tasman,Syros,https://www.carwale.com/kia-cars/tasman/syros/,price;transmission;mileage;power;torque;body_type
+Lamborghini,Murcielago,LP640,https://www.carwale.com/lamborghini-cars/murcielago/lp640/,power;torque;airbags
+Land Rover,Defender,130 X Dynamic HSE Mild Hybrid (Electric + Diesel) 3.0L Turbo Automatic 8 STR,https://www.carwale.com/land-rover-cars/defender/130-x-dynamic-hse-mild-hybrid-electric-diesel-30l-turbo-automatic-8-str/,price;mileage
+Land Rover,Defender,130 X Mild Hybrid (Electric + Diesel) 3.0L Turbo Automatic 8 STR,https://www.carwale.com/land-rover-cars/defender/130-x-mild-hybrid-electric-diesel-30l-turbo-automatic-8-str/,price;mileage
+Land Rover,Defender,Octa Black Mild Hybrid(Electric + Petrol) 4.4L Turbo Automatic 5 STR,https://www.carwale.com/land-rover-cars/defender/octa-black-mild-hybridelectric-petrol-44l-turbo-automatic-5-str/,price;mileage
+Land Rover,Defender,Octa Mild Hybrid(Electric + Petrol) 4.4L Turbo Automatic 5 STR,https://www.carwale.com/land-rover-cars/defender/octa-mild-hybridelectric-petrol-44l-turbo-automatic-5-str/,price;mileage
+Land Rover,Range Rover Sport,Autobiography Mild Hybrid (Electric + Diesel) 3.0L Turbo Automatic,https://www.carwale.com/land-rover-cars/range-rover-sport/autobiography-mild-hybrid-electric-diesel-30l-turbo-automatic/,price;mileage;airbags
+Land Rover,Range Rover Sport,Autobiography Mild Hybrid(Electric + Petrol) 3.0L Turbo Automatic,https://www.carwale.com/land-rover-cars/range-rover-sport/autobiography-mild-hybridelectric-petrol-30l-turbo-automatic/,price;mileage;airbags
+Land Rover,Range Rover Sport,HSE Mild Hybrid (Electric + Diesel) 3.0L Turbo Automatic,https://www.carwale.com/land-rover-cars/range-rover-sport/hse-mild-hybrid-electric-diesel-30l-turbo-automatic/,price;mileage;airbags
+Land Rover,Range Rover Sport,HSE Mild Hybrid(Electric + Petrol) 3.0L Turbo Automatic,https://www.carwale.com/land-rover-cars/range-rover-sport/hse-mild-hybridelectric-petrol-30l-turbo-automatic/,price;mileage;airbags
+Land Rover,Range Rover Sport,SV Mild Hybrid(Electric + Petrol) 4.4L Turbo Automatic,https://www.carwale.com/land-rover-cars/range-rover-sport/sv-mild-hybridelectric-petrol-44l-turbo-automatic/,price;mileage;airbags
+Land Rover,Range Rover Sport,SV Mild Hybrid(Electric + Petrol) 4.4L Turbo Automatic Black,https://www.carwale.com/land-rover-cars/range-rover-sport/sv-mild-hybridelectric-petrol-44l-turbo-automatic-black/,price;mileage;airbags
+Land Rover,Range Rover Sport,SV Mild Hybrid(Electric + Petrol) 4.4L Turbo Automatic Carbon,https://www.carwale.com/land-rover-cars/range-rover-sport/sv-mild-hybridelectric-petrol-44l-turbo-automatic-carbon/,price;mileage;airbags
+Land Rover,Range Rover Evoque,S [2020-2021],https://www.carwale.com/land-rover-cars/range-rover-evoque/s-2020-2021/,price;mileage
+Lexus,Es,350h Hybrid (Electric + Petrol) Automatic,https://www.carwale.com/lexus-cars/es/350h-hybrid-electric-petrol-automatic/,price;engine;mileage
+Lexus,Rx,350h Exquisite Hybrid (Electric + Petrol) 2.5L Automatic,https://www.carwale.com/lexus-cars/rx/350h-exquisite-hybrid-electric-petrol-25l-automatic/,price;mileage
+Lexus,Rx,Exquisite Hybrid (Electric + Petrol) 2.5L Automatic with Mark Levinson Audio,https://www.carwale.com/lexus-cars/rx/exquisite-hybrid-electric-petrol-25l-automatic-with-mark-levinson-audio/,price;mileage
+Lexus,Rx,RX 500h F-Sport Plus Hybrid (Electric + Petrol) 2.4L Automatic,https://www.carwale.com/lexus-cars/rx/rx-500h-f-sport-plus-hybrid-electric-petrol-24l-automatic/,price;mileage
+Lexus,Gs350,Twin Turbo 3.5,https://www.carwale.com/lexus-cars/gs350/twin-turbo-35/,mileage;power;torque;airbags;body_type
+Lexus,Sc430,Convertible,https://www.carwale.com/lexus-cars/sc430/convertible/,mileage;power;torque;airbags;body_type
+MG,Im6,Comet EV,https://www.carwale.com/mg-cars/im6/comet-ev/,price;engine;mileage;power;torque;seating_capacity;airbags
+MG,Im6,Cyberster,https://www.carwale.com/mg-cars/im6/cyberster/,price;engine;mileage;power;torque;seating_capacity;airbags
+MG,Im6,Hector,https://www.carwale.com/mg-cars/im6/hector/,price;engine;mileage;power;torque;seating_capacity;airbags
+MG,Im6,Long Range 100.0 kWh,https://www.carwale.com/mg-cars/im6/long-range-1000-kwh/,mileage;power;torque;seating_capacity;airbags
+MG,Im6,Majestor,https://www.carwale.com/mg-cars/im6/majestor/,price;engine;mileage;power;torque;seating_capacity;airbags
+MG,Im6,Windsor EV,https://www.carwale.com/mg-cars/im6/windsor-ev/,price;engine;mileage;power;torque;seating_capacity;airbags
+Mahindra,Global Pik Up,Scorpio N,https://www.carwale.com/mahindra-cars/global-pik-up/scorpio-n/,price;mileage;power;torque;seating_capacity;airbags;body_type
+Mahindra,Global Pik Up,Thar,https://www.carwale.com/mahindra-cars/global-pik-up/thar/,price;mileage;power;torque;seating_capacity;airbags;body_type
+Mahindra,Global Pik Up,Thar Roxx,https://www.carwale.com/mahindra-cars/global-pik-up/thar-roxx/,price;mileage;power;torque;seating_capacity;airbags;body_type
+Mahindra,Global Pik Up,XUV 3XO,https://www.carwale.com/mahindra-cars/global-pik-up/xuv-3xo/,price;mileage;power;torque;seating_capacity;airbags;body_type
+Mahindra,Global Pik Up,XUV 7XO,https://www.carwale.com/mahindra-cars/global-pik-up/xuv-7xo/,price;mileage;power;torque;seating_capacity;airbags;body_type
+Mahindra,Be07,Scorpio N,https://www.carwale.com/mahindra-cars/be07/scorpio-n/,price;transmission;mileage;power;torque;body_type
+Mahindra,Be07,Thar,https://www.carwale.com/mahindra-cars/be07/thar/,price;transmission;mileage;power;torque;body_type
+Mahindra,Be07,Thar Roxx,https://www.carwale.com/mahindra-cars/be07/thar-roxx/,price;transmission;mileage;power;torque;body_type
+Mahindra,Be07,XUV 3XO,https://www.carwale.com/mahindra-cars/be07/xuv-3xo/,price;transmission;mileage;power;torque;body_type
+Mahindra,Be07,XUV 7XO,https://www.carwale.com/mahindra-cars/be07/xuv-7xo/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision S Compact Suv,Scorpio N,https://www.carwale.com/mahindra-cars/vision-s-compact-suv/scorpio-n/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision S Compact Suv,Thar,https://www.carwale.com/mahindra-cars/vision-s-compact-suv/thar/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision S Compact Suv,Thar Roxx,https://www.carwale.com/mahindra-cars/vision-s-compact-suv/thar-roxx/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision S Compact Suv,XUV 3XO,https://www.carwale.com/mahindra-cars/vision-s-compact-suv/xuv-3xo/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision S Compact Suv,XUV 7XO,https://www.carwale.com/mahindra-cars/vision-s-compact-suv/xuv-7xo/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision S Sub Compact Suv,Scorpio N,https://www.carwale.com/mahindra-cars/vision-s-sub-compact-suv/scorpio-n/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision S Sub Compact Suv,Thar,https://www.carwale.com/mahindra-cars/vision-s-sub-compact-suv/thar/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision S Sub Compact Suv,Thar Roxx,https://www.carwale.com/mahindra-cars/vision-s-sub-compact-suv/thar-roxx/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision S Sub Compact Suv,XUV 3XO,https://www.carwale.com/mahindra-cars/vision-s-sub-compact-suv/xuv-3xo/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision S Sub Compact Suv,XUV 7XO,https://www.carwale.com/mahindra-cars/vision-s-sub-compact-suv/xuv-7xo/,price;transmission;mileage;power;torque;body_type
+Mahindra,Be09,Scorpio N,https://www.carwale.com/mahindra-cars/be09/scorpio-n/,price;transmission;mileage;power;torque;body_type
+Mahindra,Be09,Thar,https://www.carwale.com/mahindra-cars/be09/thar/,price;transmission;mileage;power;torque;body_type
+Mahindra,Be09,Thar Roxx,https://www.carwale.com/mahindra-cars/be09/thar-roxx/,price;transmission;mileage;power;torque;body_type
+Mahindra,Be09,XUV 3XO,https://www.carwale.com/mahindra-cars/be09/xuv-3xo/,price;transmission;mileage;power;torque;body_type
+Mahindra,Be09,XUV 7XO,https://www.carwale.com/mahindra-cars/be09/xuv-7xo/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision X Sub Compact Suv,Scorpio N,https://www.carwale.com/mahindra-cars/vision-x-sub-compact-suv/scorpio-n/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision X Sub Compact Suv,Thar,https://www.carwale.com/mahindra-cars/vision-x-sub-compact-suv/thar/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision X Sub Compact Suv,Thar Roxx,https://www.carwale.com/mahindra-cars/vision-x-sub-compact-suv/thar-roxx/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision X Sub Compact Suv,XUV 3XO,https://www.carwale.com/mahindra-cars/vision-x-sub-compact-suv/xuv-3xo/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision X Sub Compact Suv,XUV 7XO,https://www.carwale.com/mahindra-cars/vision-x-sub-compact-suv/xuv-7xo/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision X Compact Suv,Scorpio N,https://www.carwale.com/mahindra-cars/vision-x-compact-suv/scorpio-n/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision X Compact Suv,Thar,https://www.carwale.com/mahindra-cars/vision-x-compact-suv/thar/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision X Compact Suv,Thar Roxx,https://www.carwale.com/mahindra-cars/vision-x-compact-suv/thar-roxx/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision X Compact Suv,XUV 3XO,https://www.carwale.com/mahindra-cars/vision-x-compact-suv/xuv-3xo/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision X Compact Suv,XUV 7XO,https://www.carwale.com/mahindra-cars/vision-x-compact-suv/xuv-7xo/,price;transmission;mileage;power;torque;body_type
+Mahindra,Thar Electric,Scorpio N,https://www.carwale.com/mahindra-cars/thar-electric/scorpio-n/,price;transmission;mileage;power;torque;body_type
+Mahindra,Thar Electric,Thar,https://www.carwale.com/mahindra-cars/thar-electric/thar/,price;transmission;mileage;power;torque;body_type
+Mahindra,Thar Electric,Thar Roxx,https://www.carwale.com/mahindra-cars/thar-electric/thar-roxx/,price;transmission;mileage;power;torque;body_type
+Mahindra,Thar Electric,XUV 3XO,https://www.carwale.com/mahindra-cars/thar-electric/xuv-3xo/,price;transmission;mileage;power;torque;body_type
+Mahindra,Thar Electric,XUV 7XO,https://www.carwale.com/mahindra-cars/thar-electric/xuv-7xo/,price;transmission;mileage;power;torque;body_type
+Mahindra,Vision T,Scorpio N,https://www.carwale.com/mahindra-cars/vision-t/scorpio-n/,price;engine;mileage;power;torque;seating_capacity;airbags
+Mahindra,Vision T,Thar,https://www.carwale.com/mahindra-cars/vision-t/thar/,price;engine;mileage;power;torque;seating_capacity;airbags
+Mahindra,Vision T,Thar Roxx,https://www.carwale.com/mahindra-cars/vision-t/thar-roxx/,price;engine;mileage;power;torque;seating_capacity;airbags
+Mahindra,Vision T,XUV 3XO,https://www.carwale.com/mahindra-cars/vision-t/xuv-3xo/,price;engine;mileage;power;torque;seating_capacity;airbags
+Mahindra,Vision T,XUV 7XO,https://www.carwale.com/mahindra-cars/vision-t/xuv-7xo/,price;engine;mileage;power;torque;seating_capacity;airbags
+Mahindra,Vision Sxt,Scorpio N,https://www.carwale.com/mahindra-cars/vision-sxt/scorpio-n/,price;engine;mileage;power;torque;seating_capacity;airbags
+Mahindra,Vision Sxt,Thar,https://www.carwale.com/mahindra-cars/vision-sxt/thar/,price;engine;mileage;power;torque;seating_capacity;airbags
+Mahindra,Vision Sxt,Thar Roxx,https://www.carwale.com/mahindra-cars/vision-sxt/thar-roxx/,price;engine;mileage;power;torque;seating_capacity;airbags
+Mahindra,Vision Sxt,XUV 3XO,https://www.carwale.com/mahindra-cars/vision-sxt/xuv-3xo/,price;engine;mileage;power;torque;seating_capacity;airbags
+Mahindra,Vision Sxt,XUV 7XO,https://www.carwale.com/mahindra-cars/vision-sxt/xuv-7xo/,price;engine;mileage;power;torque;seating_capacity;airbags
+Mahindra,Jeep,CJ 340,https://www.carwale.com/mahindra-cars/jeep/cj-340/,mileage;power;torque;airbags
+Mahindra,Jeep,CJ 340 DP,https://www.carwale.com/mahindra-cars/jeep/cj-340-dp/,mileage;power;torque;airbags
+Mahindra,Jeep,CJ 500 D,https://www.carwale.com/mahindra-cars/jeep/cj-500-d/,mileage;power;torque;airbags
+Mahindra,Jeep,CJ 500 DI,https://www.carwale.com/mahindra-cars/jeep/cj-500-di/,mileage;power;torque;airbags
+Mahindra,Jeep,CL 500 MDI,https://www.carwale.com/mahindra-cars/jeep/cl-500-mdi/,mileage;power;torque;airbags
+Mahindra,Jeep,CL 550 MDI,https://www.carwale.com/mahindra-cars/jeep/cl-550-mdi/,mileage;power;torque;airbags
+Mahindra,Jeep,Classic,https://www.carwale.com/mahindra-cars/jeep/classic/,power;torque;airbags
+Mahindra,Jeep,Commander 650 DI,https://www.carwale.com/mahindra-cars/jeep/commander-650-di/,mileage;power;torque;airbags
+Mahindra,Jeep,Commander 750 DI,https://www.carwale.com/mahindra-cars/jeep/commander-750-di/,mileage;power;torque;airbags
+Mahindra,Jeep,Commander 750 DP,https://www.carwale.com/mahindra-cars/jeep/commander-750-dp/,mileage;power;torque;airbags
+Mahindra,Jeep,Commander 750 ST,https://www.carwale.com/mahindra-cars/jeep/commander-750-st/,mileage;power;torque;airbags
+Mahindra,Jeep,MM 540,https://www.carwale.com/mahindra-cars/jeep/mm-540/,mileage;power;torque;airbags
+Mahindra,Jeep,MM 540 DP,https://www.carwale.com/mahindra-cars/jeep/mm-540-dp/,mileage;power;torque;airbags
+Mahindra,Jeep,MM 540 XDB,https://www.carwale.com/mahindra-cars/jeep/mm-540-xdb/,mileage;power;torque;airbags
+Mahindra,Jeep,MM 550 DP,https://www.carwale.com/mahindra-cars/jeep/mm-550-dp/,mileage;power;torque;airbags
+Mahindra,Jeep,MM 550 PE,https://www.carwale.com/mahindra-cars/jeep/mm-550-pe/,mileage;power;torque;airbags
+Mahindra,Jeep,MM 550 XDB,https://www.carwale.com/mahindra-cars/jeep/mm-550-xdb/,mileage;power;torque;airbags
+Mahindra,Jeep,MM 775 XDB,https://www.carwale.com/mahindra-cars/jeep/mm-775-xdb/,mileage;power;torque;airbags
+Mahindra,Jeep,MM ISZ Petrol,https://www.carwale.com/mahindra-cars/jeep/mm-isz-petrol/,mileage;power;torque;airbags
+Mahindra,Marshal,DI,https://www.carwale.com/mahindra-cars/marshal/di/,mileage;power;torque;seating_capacity;airbags
+Mahindra,Marshal,DI DX,https://www.carwale.com/mahindra-cars/marshal/di-dx/,mileage;power;torque;seating_capacity;airbags
+Mahindra,Marshal,DX Royale,https://www.carwale.com/mahindra-cars/marshal/dx-royale/,mileage;power;torque;seating_capacity;airbags
+Mahindra,Marshal,Std,https://www.carwale.com/mahindra-cars/marshal/std/,mileage;power;torque;seating_capacity;airbags
+Mahindra,Armada,AC,https://www.carwale.com/mahindra-cars/armada/ac/,mileage;power;torque;airbags
+Mahindra,Armada,Grand 2WD,https://www.carwale.com/mahindra-cars/armada/grand-2wd/,mileage;power;torque;airbags
+Mahindra,Armada,Grand 4WD,https://www.carwale.com/mahindra-cars/armada/grand-4wd/,mileage;power;torque;airbags
+Mahindra,Armada,Std,https://www.carwale.com/mahindra-cars/armada/std/,mileage;power;torque;airbags
+Mahindra,Voyager,AC,https://www.carwale.com/mahindra-cars/voyager/ac/,mileage;power;torque;airbags
+Mahindra,Voyager,Std,https://www.carwale.com/mahindra-cars/voyager/std/,mileage;power;torque;airbags
+Mahindra,Kuv100 Nxt,K2 Plus 6 STR,https://www.carwale.com/mahindra-cars/kuv100-nxt/k2-plus-6-str/,fuel_type;mileage;body_type
+Mahindra,Kuv100 Nxt,K2 Plus 6 STR [2017-2020],https://www.carwale.com/mahindra-cars/kuv100-nxt/k2-plus-6-str-2017-2020/,fuel_type;mileage;body_type
+Mahindra,Kuv100 Nxt,K2 Plus D 6 STR,https://www.carwale.com/mahindra-cars/kuv100-nxt/k2-plus-d-6-str/,fuel_type;mileage;body_type
+Mahindra,Kuv100 Nxt,Trip 6S CNG,https://www.carwale.com/mahindra-cars/kuv100-nxt/trip-6s-cng/,fuel_type;mileage;power;torque;body_type
+Mahindra,Revai,AC,https://www.carwale.com/mahindra-cars/revai/ac/,mileage;power;torque;body_type
+Mahindra,Revai,Classe,https://www.carwale.com/mahindra-cars/revai/classe/,mileage;power;torque;body_type
+Mahindra,Revai,Standard,https://www.carwale.com/mahindra-cars/revai/standard/,mileage;power;torque;body_type
+Maruti Suzuki,Fronx,Delta CNG 1.2L Manual,https://www.carwale.com/maruti-suzuki-cars/fronx/delta-cng-12l-manual/,fuel_type;mileage
+Maruti Suzuki,Fronx,Sigma CNG 1.2L Manual,https://www.carwale.com/maruti-suzuki-cars/fronx/sigma-cng-12l-manual/,fuel_type;mileage
+Maruti Suzuki,Baleno,Delta CNG Manual,https://www.carwale.com/maruti-suzuki-cars/baleno/delta-cng-manual/,fuel_type;mileage
+Maruti Suzuki,Baleno,Zeta CNG Manual,https://www.carwale.com/maruti-suzuki-cars/baleno/zeta-cng-manual/,fuel_type;mileage
+Maruti Suzuki,Swift,VXi (O) CNG Manual,https://www.carwale.com/maruti-suzuki-cars/swift/vxi-o-cng-manual/,fuel_type;mileage
+Maruti Suzuki,Swift,VXi CNG Manual,https://www.carwale.com/maruti-suzuki-cars/swift/vxi-cng-manual/,fuel_type;mileage
+Maruti Suzuki,Swift,ZXi CNG Manual,https://www.carwale.com/maruti-suzuki-cars/swift/zxi-cng-manual/,fuel_type;mileage
+Maruti Suzuki,Dzire,VXi CNG Manual,https://www.carwale.com/maruti-suzuki-cars/dzire/vxi-cng-manual/,fuel_type;mileage
+Maruti Suzuki,Dzire,ZXi CNG Manual,https://www.carwale.com/maruti-suzuki-cars/dzire/zxi-cng-manual/,fuel_type;mileage
+Maruti Suzuki,Grand Vitara,Alpha Plus (O) 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT),https://www.carwale.com/maruti-suzuki-cars/grand-vitara/alpha-plus-o-2wd-hybrid-electric-petrol-15l-automatic-e-cvt/,price;mileage
+Maruti Suzuki,Grand Vitara,Alpha Plus (O) 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT) Dual Tone,https://www.carwale.com/maruti-suzuki-cars/grand-vitara/alpha-plus-o-2wd-hybrid-electric-petrol-15l-automatic-e-cvt-dual-tone/,price;mileage
+Maruti Suzuki,Grand Vitara,Alpha Plus 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT),https://www.carwale.com/maruti-suzuki-cars/grand-vitara/alpha-plus-2wd-hybrid-electric-petrol-15l-automatic-e-cvt/,price;mileage
+Maruti Suzuki,Grand Vitara,Alpha Plus 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT) Dual Tone,https://www.carwale.com/maruti-suzuki-cars/grand-vitara/alpha-plus-2wd-hybrid-electric-petrol-15l-automatic-e-cvt-dual-tone/,price;mileage
+Maruti Suzuki,Grand Vitara,Delta 2WD CNG 1.5L Manual,https://www.carwale.com/maruti-suzuki-cars/grand-vitara/delta-2wd-cng-15l-manual/,fuel_type
+Maruti Suzuki,Grand Vitara,Delta Plus 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT),https://www.carwale.com/maruti-suzuki-cars/grand-vitara/delta-plus-2wd-hybrid-electric-petrol-15l-automatic-e-cvt/,price;mileage
+Maruti Suzuki,Grand Vitara,Zeta 2WD CNG 1.5L Manual,https://www.carwale.com/maruti-suzuki-cars/grand-vitara/zeta-2wd-cng-15l-manual/,fuel_type
+Maruti Suzuki,Grand Vitara,Zeta Plus (O) 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT),https://www.carwale.com/maruti-suzuki-cars/grand-vitara/zeta-plus-o-2wd-hybrid-electric-petrol-15l-automatic-e-cvt/,price;mileage
+Maruti Suzuki,Grand Vitara,Zeta Plus (O) 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT) Dual Tone,https://www.carwale.com/maruti-suzuki-cars/grand-vitara/zeta-plus-o-2wd-hybrid-electric-petrol-15l-automatic-e-cvt-dual-tone/,price;mileage
+Maruti Suzuki,Grand Vitara,Zeta Plus 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT),https://www.carwale.com/maruti-suzuki-cars/grand-vitara/zeta-plus-2wd-hybrid-electric-petrol-15l-automatic-e-cvt/,price;mileage
+Maruti Suzuki,Grand Vitara,Zeta Plus 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT) Dual Tone,https://www.carwale.com/maruti-suzuki-cars/grand-vitara/zeta-plus-2wd-hybrid-electric-petrol-15l-automatic-e-cvt-dual-tone/,price;mileage
+Maruti Suzuki,Brezza, LXi CNG Manual,https://www.carwale.com/maruti-suzuki-cars/brezza/lxi-cng-manual/,fuel_type;mileage
+Maruti Suzuki,Brezza,VXi CNG Manual,https://www.carwale.com/maruti-suzuki-cars/brezza/vxi-cng-manual/,fuel_type;mileage
+Maruti Suzuki,Brezza,ZXi CNG Manual,https://www.carwale.com/maruti-suzuki-cars/brezza/zxi-cng-manual/,fuel_type;mileage
+Maruti Suzuki,Brezza,ZXi CNG Manual Dual Tone,https://www.carwale.com/maruti-suzuki-cars/brezza/zxi-cng-manual-dual-tone/,fuel_type;mileage
+Maruti Suzuki,Victoris,LXi 2WD CNG 1.5L Manual,https://www.carwale.com/maruti-suzuki-cars/victoris/lxi-2wd-cng-15l-manual/,fuel_type;mileage
+Maruti Suzuki,Victoris,VXi 2WD CNG 1.5L Manual,https://www.carwale.com/maruti-suzuki-cars/victoris/vxi-2wd-cng-15l-manual/,fuel_type;mileage
+Maruti Suzuki,Victoris,VXi 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT),https://www.carwale.com/maruti-suzuki-cars/victoris/vxi-2wd-hybrid-electric-petrol-15l-automatic-e-cvt/,price;mileage
+Maruti Suzuki,Victoris,ZXi (O) 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT),https://www.carwale.com/maruti-suzuki-cars/victoris/zxi-o-2wd-hybrid-electric-petrol-15l-automatic-e-cvt/,price;mileage
+Maruti Suzuki,Victoris,ZXi (O) 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT) Dual Tone,https://www.carwale.com/maruti-suzuki-cars/victoris/zxi-o-2wd-hybrid-electric-petrol-15l-automatic-e-cvt-dual-tone/,price;mileage
+Maruti Suzuki,Victoris,ZXi 2WD CNG 1.5L Manual,https://www.carwale.com/maruti-suzuki-cars/victoris/zxi-2wd-cng-15l-manual/,fuel_type;mileage
+Maruti Suzuki,Victoris,ZXi 2WD CNG 1.5L Manual Dual Tone,https://www.carwale.com/maruti-suzuki-cars/victoris/zxi-2wd-cng-15l-manual-dual-tone/,fuel_type;mileage
+Maruti Suzuki,Victoris,ZXi 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT),https://www.carwale.com/maruti-suzuki-cars/victoris/zxi-2wd-hybrid-electric-petrol-15l-automatic-e-cvt/,price;mileage
+Maruti Suzuki,Victoris,ZXi 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT) Dual Tone,https://www.carwale.com/maruti-suzuki-cars/victoris/zxi-2wd-hybrid-electric-petrol-15l-automatic-e-cvt-dual-tone/,price;mileage
+Maruti Suzuki,Victoris,ZXi Plus (O) 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT),https://www.carwale.com/maruti-suzuki-cars/victoris/zxi-plus-o-2wd-hybrid-electric-petrol-15l-automatic-e-cvt/,price;mileage
+Maruti Suzuki,Victoris,ZXi Plus (O) 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT) Dual Tone,https://www.carwale.com/maruti-suzuki-cars/victoris/zxi-plus-o-2wd-hybrid-electric-petrol-15l-automatic-e-cvt-dual-tone/,price;mileage
+Maruti Suzuki,Victoris,ZXi Plus 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT),https://www.carwale.com/maruti-suzuki-cars/victoris/zxi-plus-2wd-hybrid-electric-petrol-15l-automatic-e-cvt/,price;mileage
+Maruti Suzuki,Victoris,ZXi Plus 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT) Dual Tone,https://www.carwale.com/maruti-suzuki-cars/victoris/zxi-plus-2wd-hybrid-electric-petrol-15l-automatic-e-cvt-dual-tone/,price;mileage
+Maruti Suzuki,Wagon R,LXi CNG 1.0L Manual,https://www.carwale.com/maruti-suzuki-cars/wagon-r/lxi-cng-10l-manual/,fuel_type;mileage
+Maruti Suzuki,Wagon R,VXi CNG 1.0L Manual,https://www.carwale.com/maruti-suzuki-cars/wagon-r/vxi-cng-10l-manual/,fuel_type;mileage
+Maruti Suzuki,Ertiga,VXi CNG Manual,https://www.carwale.com/maruti-suzuki-cars/ertiga/vxi-cng-manual/,fuel_type;mileage
+Maruti Suzuki,Ertiga,ZXi CNG Manual,https://www.carwale.com/maruti-suzuki-cars/ertiga/zxi-cng-manual/,fuel_type;mileage
+Maruti Suzuki,Alto K10,LXi (O) CNG Manual 4 STR,https://www.carwale.com/maruti-suzuki-cars/alto-k10/lxi-o-cng-manual-4-str/,fuel_type;mileage
+Maruti Suzuki,Alto K10,VXi (O) CNG Manual 4 STR,https://www.carwale.com/maruti-suzuki-cars/alto-k10/vxi-o-cng-manual-4-str/,fuel_type;mileage
+Maruti Suzuki,Xl6,Zeta CNG Manual,https://www.carwale.com/maruti-suzuki-cars/xl6/zeta-cng-manual/,fuel_type;mileage
+Maruti Suzuki,Celerio,VXi CNG Manual,https://www.carwale.com/maruti-suzuki-cars/celerio/vxi-cng-manual/,fuel_type;mileage
+Maruti Suzuki,S Presso,LXi (O) CNG Manual 4 STR,https://www.carwale.com/maruti-suzuki-cars/s-presso/lxi-o-cng-manual-4-str/,fuel_type;mileage
+Maruti Suzuki,S Presso,VXi (O) CNG Manual 4 STR,https://www.carwale.com/maruti-suzuki-cars/s-presso/vxi-o-cng-manual-4-str/,fuel_type;mileage
+Maruti Suzuki,Invicto,Alpha Plus Hybrid (Electric + Petrol) Automatic 7 STR,https://www.carwale.com/maruti-suzuki-cars/invicto/alpha-plus-hybrid-electric-petrol-automatic-7-str/,price;mileage
+Maruti Suzuki,Invicto,Zeta Plus Hybrid (Electric + Petrol) Automatic 7 STR,https://www.carwale.com/maruti-suzuki-cars/invicto/zeta-plus-hybrid-electric-petrol-automatic-7-str/,price;mileage
+Maruti Suzuki,Invicto,Zeta Plus Hybrid (Electric + Petrol) Automatic 8 STR,https://www.carwale.com/maruti-suzuki-cars/invicto/zeta-plus-hybrid-electric-petrol-automatic-8-str/,price;mileage
+Maruti Suzuki,2026 Brezza,Baleno,https://www.carwale.com/maruti-suzuki-cars/2026-brezza/baleno/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,2026 Brezza,Brezza,https://www.carwale.com/maruti-suzuki-cars/2026-brezza/brezza/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,2026 Brezza,Dzire,https://www.carwale.com/maruti-suzuki-cars/2026-brezza/dzire/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,2026 Brezza,Fronx,https://www.carwale.com/maruti-suzuki-cars/2026-brezza/fronx/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,2026 Brezza,Swift,https://www.carwale.com/maruti-suzuki-cars/2026-brezza/swift/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,New Ertiga,Baleno,https://www.carwale.com/maruti-suzuki-cars/new-ertiga/baleno/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,New Ertiga,Brezza,https://www.carwale.com/maruti-suzuki-cars/new-ertiga/brezza/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,New Ertiga,Dzire,https://www.carwale.com/maruti-suzuki-cars/new-ertiga/dzire/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,New Ertiga,Fronx,https://www.carwale.com/maruti-suzuki-cars/new-ertiga/fronx/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,New Ertiga,Swift,https://www.carwale.com/maruti-suzuki-cars/new-ertiga/swift/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,Seven Seat Ev Mpv Ymc,Baleno,https://www.carwale.com/maruti-suzuki-cars/seven-seat-ev-mpv-ymc/baleno/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,Seven Seat Ev Mpv Ymc,Brezza,https://www.carwale.com/maruti-suzuki-cars/seven-seat-ev-mpv-ymc/brezza/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,Seven Seat Ev Mpv Ymc,Dzire,https://www.carwale.com/maruti-suzuki-cars/seven-seat-ev-mpv-ymc/dzire/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,Seven Seat Ev Mpv Ymc,Fronx,https://www.carwale.com/maruti-suzuki-cars/seven-seat-ev-mpv-ymc/fronx/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,Seven Seat Ev Mpv Ymc,Swift,https://www.carwale.com/maruti-suzuki-cars/seven-seat-ev-mpv-ymc/swift/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,Sub Compact Suv,Baleno,https://www.carwale.com/maruti-suzuki-cars/sub-compact-suv/baleno/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,Sub Compact Suv,Brezza,https://www.carwale.com/maruti-suzuki-cars/sub-compact-suv/brezza/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,Sub Compact Suv,Dzire,https://www.carwale.com/maruti-suzuki-cars/sub-compact-suv/dzire/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,Sub Compact Suv,Fronx,https://www.carwale.com/maruti-suzuki-cars/sub-compact-suv/fronx/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,Sub Compact Suv,Swift,https://www.carwale.com/maruti-suzuki-cars/sub-compact-suv/swift/,price;transmission;mileage;power;torque;body_type
+Maruti Suzuki,Fronx Flex Fuel,Alpha Petrol Manual,https://www.carwale.com/maruti-suzuki-cars/fronx-flex-fuel/alpha-petrol-manual/,mileage;power;torque;body_type
+Maruti Suzuki,Omni,5 STR BS-II,https://www.carwale.com/maruti-suzuki-cars/omni/5-str-bs-ii/,mileage;power;torque;airbags;body_type
+Maruti Suzuki,Omni,5 STR BS-III,https://www.carwale.com/maruti-suzuki-cars/omni/5-str-bs-iii/,mileage;power;torque;airbags;body_type
+Maruti Suzuki,Omni,5 STR BS-IV,https://www.carwale.com/maruti-suzuki-cars/omni/5-str-bs-iv/,mileage;power;torque;airbags;body_type
+Maruti Suzuki,Omni,5-STR,https://www.carwale.com/maruti-suzuki-cars/omni/5-str/,mileage;power;torque;airbags;body_type
+Maruti Suzuki,Omni,8 STR BS-II,https://www.carwale.com/maruti-suzuki-cars/omni/8-str-bs-ii/,power;torque;airbags;body_type
+Maruti Suzuki,Omni,8 STR BS-III,https://www.carwale.com/maruti-suzuki-cars/omni/8-str-bs-iii/,power;torque;airbags;body_type
+Maruti Suzuki,Omni,8-STR,https://www.carwale.com/maruti-suzuki-cars/omni/8-str/,power;torque;airbags;body_type
+Maruti Suzuki,Omni,Ambulance,https://www.carwale.com/maruti-suzuki-cars/omni/ambulance/,mileage;power;torque;airbags;body_type
+Maruti Suzuki,Omni,CNG,https://www.carwale.com/maruti-suzuki-cars/omni/cng/,power;torque;airbags;body_type
+Maruti Suzuki,Omni,Cargo,https://www.carwale.com/maruti-suzuki-cars/omni/cargo/,power;torque;airbags;body_type
+Maruti Suzuki,Omni,Cargo BS-III,https://www.carwale.com/maruti-suzuki-cars/omni/cargo-bs-iii/,power;torque;airbags;body_type
+Maruti Suzuki,Omni,Cargo BS-IV,https://www.carwale.com/maruti-suzuki-cars/omni/cargo-bs-iv/,power;torque;airbags;body_type
+Maruti Suzuki,Omni,Cargo LPG BS-III,https://www.carwale.com/maruti-suzuki-cars/omni/cargo-lpg-bs-iii/,power;torque;airbags;body_type
+Maruti Suzuki,Versa,DX,https://www.carwale.com/maruti-suzuki-cars/versa/dx/,power;torque;airbags;body_type
+Maruti Suzuki,Versa,DX 5 STR BS-II,https://www.carwale.com/maruti-suzuki-cars/versa/dx-5-str-bs-ii/,power;torque;airbags;body_type
+Maruti Suzuki,Versa,DX 5 STR BS-III,https://www.carwale.com/maruti-suzuki-cars/versa/dx-5-str-bs-iii/,power;torque;airbags;body_type
+Maruti Suzuki,Versa,DX BS-II,https://www.carwale.com/maruti-suzuki-cars/versa/dx-bs-ii/,power;torque;airbags;body_type
+Maruti Suzuki,Versa,DX BS-III,https://www.carwale.com/maruti-suzuki-cars/versa/dx-bs-iii/,power;torque;airbags;body_type
+Maruti Suzuki,Versa,DX2,https://www.carwale.com/maruti-suzuki-cars/versa/dx2/,mileage;power;torque;airbags;body_type
+Maruti Suzuki,Versa,DX2 5 STR BS-II,https://www.carwale.com/maruti-suzuki-cars/versa/dx2-5-str-bs-ii/,mileage;power;torque;airbags;body_type
+Maruti Suzuki,Versa,DX2 5 STR BS-III,https://www.carwale.com/maruti-suzuki-cars/versa/dx2-5-str-bs-iii/,mileage;power;torque;airbags;body_type
+Maruti Suzuki,Versa,DX2 BS-II,https://www.carwale.com/maruti-suzuki-cars/versa/dx2-bs-ii/,mileage;power;torque;airbags;body_type
+Maruti Suzuki,Versa,DX2 BS-III,https://www.carwale.com/maruti-suzuki-cars/versa/dx2-bs-iii/,mileage;power;torque;airbags;body_type
+Maruti Suzuki,Versa,STD BS-III,https://www.carwale.com/maruti-suzuki-cars/versa/std-bs-iii/,mileage;power;torque;airbags;body_type
+Maruti Suzuki,Versa,Std,https://www.carwale.com/maruti-suzuki-cars/versa/std/,mileage;power;torque;airbags;body_type
+Maruti Suzuki,Versa,Std 5 STR BS-III,https://www.carwale.com/maruti-suzuki-cars/versa/std-5-str-bs-iii/,mileage;power;torque;airbags;body_type
+Maruti Suzuki,Versa,Std BS-II,https://www.carwale.com/maruti-suzuki-cars/versa/std-bs-ii/,mileage;power;torque;airbags;body_type
+Maruti Suzuki,Zen,2 Door,https://www.carwale.com/maruti-suzuki-cars/zen/2-door/,mileage;torque;airbags
+Maruti Suzuki,Zen,LX BS-II,https://www.carwale.com/maruti-suzuki-cars/zen/lx-bs-ii/,torque;airbags
+Maruti Suzuki,Zen,LX BS-III,https://www.carwale.com/maruti-suzuki-cars/zen/lx-bs-iii/,torque;airbags
+Maruti Suzuki,Zen,LXi BS-II,https://www.carwale.com/maruti-suzuki-cars/zen/lxi-bs-ii/,mileage;torque;airbags
+Maruti Suzuki,Zen,LXi BS-III,https://www.carwale.com/maruti-suzuki-cars/zen/lxi-bs-iii/,mileage;torque;airbags
+Maruti Suzuki,Zen,Std,https://www.carwale.com/maruti-suzuki-cars/zen/std/,mileage;torque;airbags
+Maruti Suzuki,Zen,VXi BS-II,https://www.carwale.com/maruti-suzuki-cars/zen/vxi-bs-ii/,torque;airbags
+Maruti Suzuki,Zen,VXi BS-III,https://www.carwale.com/maruti-suzuki-cars/zen/vxi-bs-iii/,torque;airbags
+McLaren,570S,Spider,https://www.carwale.com/mclaren-cars/570s/spider/,mileage;power;torque;airbags;body_type
+McLaren,Artura,Coupe,https://www.carwale.com/mclaren-cars/artura/coupe/,mileage;power;torque;airbags;body_type
+Mercedes-Benz,C Class,C 200 Mild Hybrid(Electric + Petrol) 1.5L Turbo Automatic,https://www.carwale.com/mercedes-benz-cars/c-class/c-200-mild-hybridelectric-petrol-15l-turbo-automatic/,price;mileage;airbags
+Mercedes-Benz,C Class,C 200 Mild Hybrid(Electric + Petrol) 1.5L Turbo Automatic Celebration Edition,https://www.carwale.com/mercedes-benz-cars/c-class/c-200-mild-hybridelectric-petrol-15l-turbo-automatic-celebration-edition/,price;mileage;airbags
+Mercedes-Benz,C Class,C 220d Mild Hybrid (Electric + Diesel) 2.0L Turbo Automatic,https://www.carwale.com/mercedes-benz-cars/c-class/c-220d-mild-hybrid-electric-diesel-20l-turbo-automatic/,price;mileage;airbags
+Mercedes-Benz,C Class,C 300 Mild Hybrid(Electric + Petrol) 2.0L Turbo Automatic,https://www.carwale.com/mercedes-benz-cars/c-class/c-300-mild-hybridelectric-petrol-20l-turbo-automatic/,price;mileage;airbags
+Mercedes-Benz,E Class,450 4MATIC LWB AWD Mild Hybrid(Electric + Petrol) 3.0L Turbo Automatic,https://www.carwale.com/mercedes-benz-cars/e-class/450-4matic-lwb-awd-mild-hybridelectric-petrol-30l-turbo-automatic/,price;mileage
+Mercedes-Benz,E Class,E200 LWB 2WD Mild Hybrid(Electric + Petrol) 2.0L Turbo Automatic,https://www.carwale.com/mercedes-benz-cars/e-class/e200-lwb-2wd-mild-hybridelectric-petrol-20l-turbo-automatic/,price;mileage
+Mercedes-Benz,E Class,E220d LWB 2WD Mild Hybrid (Electric + Diesel) 2.0L Turbo Automatic,https://www.carwale.com/mercedes-benz-cars/e-class/e220d-lwb-2wd-mild-hybrid-electric-diesel-20l-turbo-automatic/,price;mileage
+Mercedes-Benz,Gle,300d 4MATIC LWB Mild Hybrid (Electric + Diesel) 2.0L Turbo Automatic Night Edition,https://www.carwale.com/mercedes-benz-cars/gle/300d-4matic-lwb-mild-hybrid-electric-diesel-20l-turbo-automatic-night-edition/,price;mileage
+Mercedes-Benz,Gle,450 4MATIC LWB Mild Hybrid(Electric + Petrol) 3.0L Turbo Automatic,https://www.carwale.com/mercedes-benz-cars/gle/450-4matic-lwb-mild-hybridelectric-petrol-30l-turbo-automatic/,price;mileage
+Mercedes-Benz,Gle,450 4MATIC LWB Mild Hybrid(Electric + Petrol) 3.0L Turbo Automatic Night Edition,https://www.carwale.com/mercedes-benz-cars/gle/450-4matic-lwb-mild-hybridelectric-petrol-30l-turbo-automatic-night-edition/,price;mileage
+Mercedes-Benz,Gle,450d 4MATIC LWB Mild Hybrid (Electric + Diesel) 3.0L Turbo Automatic,https://www.carwale.com/mercedes-benz-cars/gle/450d-4matic-lwb-mild-hybrid-electric-diesel-30l-turbo-automatic/,price;mileage
+Mercedes-Benz,Gle,AMG Line Mild Hybrid (Electric + Diesel) 2.0L Turbo Automatic AMG Line,https://www.carwale.com/mercedes-benz-cars/gle/amg-line-mild-hybrid-electric-diesel-20l-turbo-automatic-amg-line/,price;mileage
+Mercedes-Benz,V Class, V 300 Mild Hybrid(Electric + Petrol) 2.0L Automatic,https://www.carwale.com/mercedes-benz-cars/v-class/v-300-mild-hybridelectric-petrol-20l-automatic/,price;mileage;power;body_type
+Mercedes-Benz,S Class,S 450e Plug-in Hybrid (Electric + Petrol) Turbo Automatic Launch Edition,https://www.carwale.com/mercedes-benz-cars/s-class/s-450e-plug-in-hybrid-electric-petrol-turbo-automatic-launch-edition/,price;mileage;seating_capacity
+Mercedes-Benz,S Class,S 450e Plug-in Hybrid (Electric + Petrol) Turbo Automatic MANUFAKTUR Edition,https://www.carwale.com/mercedes-benz-cars/s-class/s-450e-plug-in-hybrid-electric-petrol-turbo-automatic-manufaktur-edition/,price;mileage;seating_capacity
+Mercedes-Benz,New Gls,C-Class,https://www.carwale.com/mercedes-benz-cars/new-gls/c-class/,price;transmission;mileage;power;body_type
+Mercedes-Benz,New Gls,CLA EV,https://www.carwale.com/mercedes-benz-cars/new-gls/cla-ev/,price;transmission;mileage;power;body_type
+Mercedes-Benz,New Gls,G-Class,https://www.carwale.com/mercedes-benz-cars/new-gls/g-class/,price;transmission;mileage;power;body_type
+Mercedes-Benz,New Gls,GLS,https://www.carwale.com/mercedes-benz-cars/new-gls/gls/,price;transmission;mileage;power;body_type
+Mercedes-Benz,New Gls,S-Class,https://www.carwale.com/mercedes-benz-cars/new-gls/s-class/,price;transmission;mileage;power;body_type
+Mercedes-Benz,C Class Ev,C-Class,https://www.carwale.com/mercedes-benz-cars/c-class-ev/c-class/,price;transmission;mileage;power;body_type
+Mercedes-Benz,C Class Ev,CLA EV,https://www.carwale.com/mercedes-benz-cars/c-class-ev/cla-ev/,price;transmission;mileage;power;body_type
+Mercedes-Benz,C Class Ev,G-Class,https://www.carwale.com/mercedes-benz-cars/c-class-ev/g-class/,price;transmission;mileage;power;body_type
+Mercedes-Benz,C Class Ev,GLS,https://www.carwale.com/mercedes-benz-cars/c-class-ev/gls/,price;transmission;mileage;power;body_type
+Mercedes-Benz,C Class Ev,S-Class,https://www.carwale.com/mercedes-benz-cars/c-class-ev/s-class/,price;transmission;mileage;power;body_type
+Mercedes-Benz,New Gle,C-Class,https://www.carwale.com/mercedes-benz-cars/new-gle/c-class/,price;transmission;mileage;power;body_type
+Mercedes-Benz,New Gle,CLA EV,https://www.carwale.com/mercedes-benz-cars/new-gle/cla-ev/,price;transmission;mileage;power;body_type
+Mercedes-Benz,New Gle,G-Class,https://www.carwale.com/mercedes-benz-cars/new-gle/g-class/,price;transmission;mileage;power;body_type
+Mercedes-Benz,New Gle,GLS,https://www.carwale.com/mercedes-benz-cars/new-gle/gls/,price;transmission;mileage;power;body_type
+Mercedes-Benz,New Gle,S-Class,https://www.carwale.com/mercedes-benz-cars/new-gle/s-class/,price;transmission;mileage;power;body_type
+Mercedes-Benz,Glc Ev,C-Class,https://www.carwale.com/mercedes-benz-cars/glc-ev/c-class/,price;transmission;mileage;power;body_type
+Mercedes-Benz,Glc Ev,CLA EV,https://www.carwale.com/mercedes-benz-cars/glc-ev/cla-ev/,price;transmission;mileage;power;body_type
+Mercedes-Benz,Glc Ev,G-Class,https://www.carwale.com/mercedes-benz-cars/glc-ev/g-class/,price;transmission;mileage;power;body_type
+Mercedes-Benz,Glc Ev,GLS,https://www.carwale.com/mercedes-benz-cars/glc-ev/gls/,price;transmission;mileage;power;body_type
+Mercedes-Benz,Glc Ev,S-Class,https://www.carwale.com/mercedes-benz-cars/glc-ev/s-class/,price;transmission;mileage;power;body_type
+Mercedes-Benz,Sl,300,https://www.carwale.com/mercedes-benz-cars/sl/300/,mileage;power;body_type
+Mercedes-Benz,Sl,320,https://www.carwale.com/mercedes-benz-cars/sl/320/,mileage;power;body_type
+Mercedes-Benz,Sl,500,https://www.carwale.com/mercedes-benz-cars/sl/500/,mileage;power;body_type
+Mercedes-Benz,Sl,55 AMG Roadster,https://www.carwale.com/mercedes-benz-cars/sl/55-amg-roadster/,mileage;power;body_type
+Mercedes-Benz,Sl,600 Roadster,https://www.carwale.com/mercedes-benz-cars/sl/600-roadster/,mileage;power;body_type
+Mercedes-Benz,Sl,63 AMG,https://www.carwale.com/mercedes-benz-cars/sl/63-amg/,mileage;power;body_type
+Mercedes-Benz,Sl,65 AMG Roadster,https://www.carwale.com/mercedes-benz-cars/sl/65-amg-roadster/,mileage;power;body_type
+Mercedes-Benz,Clk,320 Cabriolet,https://www.carwale.com/mercedes-benz-cars/clk/320-cabriolet/,mileage;power;body_type
+Mercedes-Benz,Clk,320 Coupe,https://www.carwale.com/mercedes-benz-cars/clk/320-coupe/,mileage;power;body_type
+Mercedes-Benz,Clk,350 AMG,https://www.carwale.com/mercedes-benz-cars/clk/350-amg/,mileage;power;body_type
+Mercedes-Benz,Clk,350 Cabriolet,https://www.carwale.com/mercedes-benz-cars/clk/350-cabriolet/,mileage;power;body_type
+Mercedes-Benz,Clk,500 Cabriolet,https://www.carwale.com/mercedes-benz-cars/clk/500-cabriolet/,mileage;power;body_type
+Mercedes-Benz,Clk,500 Coupe,https://www.carwale.com/mercedes-benz-cars/clk/500-coupe/,mileage;power;body_type
+Mercedes-Benz,Clk,55 AMG Cabriolet,https://www.carwale.com/mercedes-benz-cars/clk/55-amg-cabriolet/,mileage;power;body_type
+Mercedes-Benz,Clk,55 AMG Coupe,https://www.carwale.com/mercedes-benz-cars/clk/55-amg-coupe/,mileage;power;body_type
+Mercedes-Benz,Amg E53,4 MATIC,https://www.carwale.com/mercedes-benz-cars/amg-e53/4-matic/,mileage;power;body_type
+Mercedes-Benz,Mbclass,100 D2.5,https://www.carwale.com/mercedes-benz-cars/mbclass/100-d25/,mileage;power;body_type
+Mercedes-Benz,Mbclass,140,https://www.carwale.com/mercedes-benz-cars/mbclass/140/,mileage;power;body_type
+Mercedes-Benz,190,D,https://www.carwale.com/mercedes-benz-cars/190/d/,mileage;power;body_type
+Mercedes-Benz,190,W110,https://www.carwale.com/mercedes-benz-cars/190/w110/,mileage;power;body_type
+Mercedes-Benz,Sdl,3.5,https://www.carwale.com/mercedes-benz-cars/sdl/35/,transmission;mileage;power;body_type
+Mercedes-Benz,Viano,AT,https://www.carwale.com/mercedes-benz-cars/viano/at/,mileage;power;torque;airbags;body_type
+Mercedes-Benz,Viano,MT,https://www.carwale.com/mercedes-benz-cars/viano/mt/,mileage;power;torque;airbags;body_type
+Mercedes-Benz,W123,200,https://www.carwale.com/mercedes-benz-cars/w123/200/,mileage;power;body_type
+Mercedes-Benz,W123,300,https://www.carwale.com/mercedes-benz-cars/w123/300/,mileage;power;body_type
+Mercedes-Benz,W123,300 D,https://www.carwale.com/mercedes-benz-cars/w123/300-d/,mileage;power;body_type
+Mercedes-Benz,200,Diesel,https://www.carwale.com/mercedes-benz-cars/200/diesel/,mileage;power;body_type
+Mercedes-Benz,200,Petrol,https://www.carwale.com/mercedes-benz-cars/200/petrol/,mileage;power;body_type
+Mini,Countryman C,Cooper,https://www.carwale.com/mini-cars/countryman-c/cooper/,price;mileage;airbags
+Mini,Countryman C,Cooper S Convertible,https://www.carwale.com/mini-cars/countryman-c/cooper-s-convertible/,price;mileage;airbags
+Mini,Countryman C,Cooper SE,https://www.carwale.com/mini-cars/countryman-c/cooper-se/,price;mileage;airbags
+Mini,Countryman C,Countryman,https://www.carwale.com/mini-cars/countryman-c/countryman/,price;mileage;airbags
+Mini,Countryman C,Countryman Electric,https://www.carwale.com/mini-cars/countryman-c/countryman-electric/,price;mileage;airbags
+Mini,Cooper Convertible,S [2020-2021],https://www.carwale.com/mini-cars/cooper-convertible/s-2020-2021/,price;mileage
+Nissan,Tekton,Gravite,https://www.carwale.com/nissan-cars/tekton/gravite/,price;mileage;power;torque;seating_capacity;airbags
+Nissan,Tekton,Magnite,https://www.carwale.com/nissan-cars/tekton/magnite/,price;mileage;power;torque;seating_capacity;airbags
+Nissan,Tekton,N-Connecta Petrol Automatic (DCT),https://www.carwale.com/nissan-cars/tekton/n-connecta-petrol-automatic-dct/,mileage;power;torque;seating_capacity;airbags
+Nissan,Tekton,N-Connecta Petrol Manual,https://www.carwale.com/nissan-cars/tekton/n-connecta-petrol-manual/,mileage;power;torque;seating_capacity;airbags
+Nissan,Tekton,Tekna Plus Hybrid (Electric + Petrol) Automatic (TC),https://www.carwale.com/nissan-cars/tekton/tekna-plus-hybrid-electric-petrol-automatic-tc/,price;mileage;power;torque;seating_capacity;airbags
+Nissan,Tekton,Tekna Plus Petrol Automatic (DCT),https://www.carwale.com/nissan-cars/tekton/tekna-plus-petrol-automatic-dct/,mileage;power;torque;seating_capacity;airbags
+Nissan,Tekton,Tekna Plus Petrol Manual,https://www.carwale.com/nissan-cars/tekton/tekna-plus-petrol-manual/,mileage;power;torque;seating_capacity;airbags
+Nissan,Tekton,Visia Petrol Manual,https://www.carwale.com/nissan-cars/tekton/visia-petrol-manual/,mileage;power;torque;seating_capacity;airbags
+Nissan,Tekton,X-Trail,https://www.carwale.com/nissan-cars/tekton/x-trail/,price;mileage;power;torque;seating_capacity;airbags
+Nissan,Gravite,Acenta CNG 1.0L Manual,https://www.carwale.com/nissan-cars/gravite/acenta-cng-10l-manual/,fuel_type;mileage
+Nissan,Gravite,N-Connecta CNG 1.0L Manual,https://www.carwale.com/nissan-cars/gravite/n-connecta-cng-10l-manual/,fuel_type;mileage
+Nissan,Gravite,Tekna CNG 1.0L Manual,https://www.carwale.com/nissan-cars/gravite/tekna-cng-10l-manual/,fuel_type;mileage
+Nissan,Gravite,Tekna LE CNG 1.0L Manual,https://www.carwale.com/nissan-cars/gravite/tekna-le-cng-10l-manual/,fuel_type;mileage
+Nissan,Gravite,Tekna Petrol 1.0L Manual CNG,https://www.carwale.com/nissan-cars/gravite/tekna-petrol-10l-manual-cng/,fuel_type;mileage
+Nissan,Gravite,Visia CNG 1.0L Manual,https://www.carwale.com/nissan-cars/gravite/visia-cng-10l-manual/,fuel_type;mileage
+Nissan,Magnite,Acenta CNG Automatic (AMT),https://www.carwale.com/nissan-cars/magnite/acenta-cng-automatic-amt/,fuel_type;mileage
+Nissan,Magnite,Acenta CNG Manual,https://www.carwale.com/nissan-cars/magnite/acenta-cng-manual/,fuel_type;mileage
+Nissan,Magnite,N-Connecta CNG Automatic (AMT),https://www.carwale.com/nissan-cars/magnite/n-connecta-cng-automatic-amt/,fuel_type;mileage
+Nissan,Magnite,N-Connecta CNG Manual,https://www.carwale.com/nissan-cars/magnite/n-connecta-cng-manual/,fuel_type;mileage
+Nissan,Magnite,N-Connecta CNG Manual B4D,https://www.carwale.com/nissan-cars/magnite/n-connecta-cng-manual-b4d/,fuel_type;mileage
+Nissan,Magnite,Tekna CNG Automatic (AMT),https://www.carwale.com/nissan-cars/magnite/tekna-cng-automatic-amt/,fuel_type;mileage
+Nissan,Magnite,Tekna CNG Manual,https://www.carwale.com/nissan-cars/magnite/tekna-cng-manual/,fuel_type;mileage
+Nissan,Magnite,Tekna CNG Manual B4D,https://www.carwale.com/nissan-cars/magnite/tekna-cng-manual-b4d/,fuel_type;mileage
+Nissan,Magnite,Tekna Plus CNG Automatic (AMT),https://www.carwale.com/nissan-cars/magnite/tekna-plus-cng-automatic-amt/,fuel_type;mileage
+Nissan,Magnite,Tekna Plus CNG Manual,https://www.carwale.com/nissan-cars/magnite/tekna-plus-cng-manual/,fuel_type;mileage
+Nissan,Magnite,Tekna Plus CNG Manual B4D,https://www.carwale.com/nissan-cars/magnite/tekna-plus-cng-manual-b4d/,fuel_type;mileage
+Nissan,Magnite,Visia CNG Automatic (AMT),https://www.carwale.com/nissan-cars/magnite/visia-cng-automatic-amt/,fuel_type;mileage
+Nissan,Magnite,Visia CNG Manual,https://www.carwale.com/nissan-cars/magnite/visia-cng-manual/,fuel_type;mileage
+Nissan,Magnite,Visia Plus CNG Manual,https://www.carwale.com/nissan-cars/magnite/visia-plus-cng-manual/,fuel_type;mileage
+Nissan,Safarigranroad,4WD Diesel,https://www.carwale.com/nissan-cars/safarigranroad/4wd-diesel/,mileage;power;torque;airbags;body_type
+Nissan,Nv350,Caravan,https://www.carwale.com/nissan-cars/nv350/caravan/,mileage;power;torque;airbags;body_type
+Nissan,Murano,V6 Petrol,https://www.carwale.com/nissan-cars/murano/v6-petrol/,engine;mileage;power;torque;seating_capacity;airbags
+Nissan,Patrol,Platinum 5.6 lit V8,https://www.carwale.com/nissan-cars/patrol/platinum-56-lit-v8/,engine;mileage;power;torque;airbags
+Nissan,Patrol,Ti-L,https://www.carwale.com/nissan-cars/patrol/ti-l/,engine;mileage;power;torque;airbags
+Nissan,Infiniti,G37,https://www.carwale.com/nissan-cars/infiniti/g37/,engine;mileage;power;torque;seating_capacity;airbags
+Nissan,Infiniti,M37,https://www.carwale.com/nissan-cars/infiniti/m37/,engine;mileage;power;torque;seating_capacity;airbags
+Nissan,Infiniti,Q45,https://www.carwale.com/nissan-cars/infiniti/q45/,engine;mileage;power;torque;seating_capacity;airbags
+Nissan,Cima,V8 Ltd,https://www.carwale.com/nissan-cars/cima/v8-ltd/,mileage;power;torque;airbags;body_type
+Nissan,Gloria,V6 Sedan,https://www.carwale.com/nissan-cars/gloria/v6-sedan/,mileage;power;torque;airbags
+Nissan,350Z,Convertible,https://www.carwale.com/nissan-cars/350z/convertible/,mileage;power;torque;airbags
+Nissan,350Z,Coupe,https://www.carwale.com/nissan-cars/350z/coupe/,mileage;power;torque;airbags
+Nissan,Serena,2.0 L Diesel,https://www.carwale.com/nissan-cars/serena/20-l-diesel/,mileage;power;torque;airbags;body_type
+Nissan,Fairlady300Zx,3,https://www.carwale.com/nissan-cars/fairlady300zx/3/,mileage;power;torque;airbags;body_type
+Nissan,Cedric,2.0 AT,https://www.carwale.com/nissan-cars/cedric/20-at/,mileage;power;torque;airbags;body_type
+Nissan,Jonga,4.0 Petrol,https://www.carwale.com/nissan-cars/jonga/40-petrol/,fuel_type;mileage;airbags
+Nissan,Laurel,Diesel,https://www.carwale.com/nissan-cars/laurel/diesel/,mileage;power;torque;airbags;body_type
+Nissan,Bluebird,Petrol,https://www.carwale.com/nissan-cars/bluebird/petrol/,mileage;power;torque;airbags;body_type
+Porsche,Taycan Cross Turismo,4S,https://www.carwale.com/porsche-cars/taycan-cross-turismo/4s/,mileage;power;body_type
+Porsche,Taycan Cross Turismo,Turbo,https://www.carwale.com/porsche-cars/taycan-cross-turismo/turbo/,mileage;power;body_type
+Porsche,Taycan Cross Turismo,Turbo S,https://www.carwale.com/porsche-cars/taycan-cross-turismo/turbo-s/,mileage;power;body_type
+Porsche,Carreragt,S,https://www.carwale.com/porsche-cars/carreragt/s/,transmission;mileage;power;torque;airbags;body_type
+Renault,Triber,Authentic CNG Manual,https://www.carwale.com/renault-cars/triber/authentic-cng-manual/,fuel_type
+Renault,Triber,Emotion CNG Manual,https://www.carwale.com/renault-cars/triber/emotion-cng-manual/,fuel_type
+Renault,Triber,Evolution CNG Manual,https://www.carwale.com/renault-cars/triber/evolution-cng-manual/,fuel_type
+Renault,Triber,Techno CNG Manual,https://www.carwale.com/renault-cars/triber/techno-cng-manual/,fuel_type
+Renault,Kiger,Authentic CNG Manual,https://www.carwale.com/renault-cars/kiger/authentic-cng-manual/,fuel_type;mileage
+Renault,Kiger,Emotion CNG Manual,https://www.carwale.com/renault-cars/kiger/emotion-cng-manual/,fuel_type;mileage
+Renault,Kiger,Evolution CNG Manual,https://www.carwale.com/renault-cars/kiger/evolution-cng-manual/,fuel_type;mileage
+Renault,Kiger,Techno CNG Manual,https://www.carwale.com/renault-cars/kiger/techno-cng-manual/,fuel_type;mileage
+Renault,Kwid,Authentic CNG Manual,https://www.carwale.com/renault-cars/kwid/authentic-cng-manual/,fuel_type;mileage
+Renault,Kwid,CLIMBER CNG Manual,https://www.carwale.com/renault-cars/kwid/climber-cng-manual/,fuel_type;mileage
+Renault,Kwid,Evolution CNG Manual,https://www.carwale.com/renault-cars/kwid/evolution-cng-manual/,fuel_type;mileage
+Renault,Kwid,Techno CNG Manual,https://www.carwale.com/renault-cars/kwid/techno-cng-manual/,fuel_type;mileage
+Renault,Boreal Bigster,Duster,https://www.carwale.com/renault-cars/boreal-bigster/duster/,price;transmission;mileage;power;torque;airbags;body_type
+Renault,Boreal Bigster,Kiger,https://www.carwale.com/renault-cars/boreal-bigster/kiger/,price;transmission;mileage;power;torque;airbags;body_type
+Renault,Boreal Bigster,Kwid,https://www.carwale.com/renault-cars/boreal-bigster/kwid/,price;transmission;mileage;power;torque;airbags;body_type
+Renault,Boreal Bigster,Triber,https://www.carwale.com/renault-cars/boreal-bigster/triber/,price;transmission;mileage;power;torque;airbags;body_type
+Renault,Bridger,Duster,https://www.carwale.com/renault-cars/bridger/duster/,price;mileage;power;torque;airbags
+Renault,Bridger,Kiger,https://www.carwale.com/renault-cars/bridger/kiger/,price;mileage;power;torque;airbags
+Renault,Bridger,Kwid,https://www.carwale.com/renault-cars/bridger/kwid/,price;mileage;power;torque;airbags
+Renault,Bridger,Triber,https://www.carwale.com/renault-cars/bridger/triber/,price;mileage;power;torque;airbags
+Renault,Kwid Ev,Duster,https://www.carwale.com/renault-cars/kwid-ev/duster/,price;engine;mileage;power;torque;seating_capacity;airbags
+Renault,Kwid Ev,Kiger,https://www.carwale.com/renault-cars/kwid-ev/kiger/,price;engine;mileage;power;torque;seating_capacity;airbags
+Renault,Kwid Ev,Kwid,https://www.carwale.com/renault-cars/kwid-ev/kwid/,price;engine;mileage;power;torque;seating_capacity;airbags
+Renault,Kwid Ev,Triber,https://www.carwale.com/renault-cars/kwid-ev/triber/,price;engine;mileage;power;torque;seating_capacity;airbags
+Renault,Scenic,2,https://www.carwale.com/renault-cars/scenic/2/,engine;mileage;power;torque;seating_capacity;airbags
+Renault,Megane,2.0 MT Petrol,https://www.carwale.com/renault-cars/megane/20-mt-petrol/,transmission;mileage;power;torque;airbags;body_type
+Rolls-Royce,Silver Spur,6.7 V8,https://www.carwale.com/rolls-royce-cars/silver-spur/67-v8/,engine;mileage;power;torque;airbags
+Skoda,Kodiaq,L\u0026K Petrol Turbo Automatic 7 STR [2025-2026],https://www.carwale.com/skoda-cars/kodiaq/l-u0026k-petrol-turbo-automatic-7-str-2025-2026/,price;mileage
+Skoda,Kodiaq,Selection L\u0026K Petrol Turbo Automatic 7 STR,https://www.carwale.com/skoda-cars/kodiaq/selection-l-u0026k-petrol-turbo-automatic-7-str/,price;mileage
+Skoda,Kodiaq Rs,Kodiaq,https://www.carwale.com/skoda-cars/kodiaq-rs/kodiaq/,price;mileage;power;torque;seating_capacity;airbags
+Skoda,Kodiaq Rs,Kushaq,https://www.carwale.com/skoda-cars/kodiaq-rs/kushaq/,price;mileage;power;torque;seating_capacity;airbags
+Skoda,Kodiaq Rs,Kylaq,https://www.carwale.com/skoda-cars/kodiaq-rs/kylaq/,price;mileage;power;torque;seating_capacity;airbags
+Skoda,Kodiaq Rs,Octavia RS,https://www.carwale.com/skoda-cars/kodiaq-rs/octavia-rs/,price;mileage;power;torque;seating_capacity;airbags
+Skoda,Kodiaq Rs,Slavia,https://www.carwale.com/skoda-cars/kodiaq-rs/slavia/,price;mileage;power;torque;seating_capacity;airbags
+Skoda,New Superb,Kodiaq,https://www.carwale.com/skoda-cars/new-superb/kodiaq/,price;transmission;mileage;power;torque;airbags;body_type
+Skoda,New Superb,Kushaq,https://www.carwale.com/skoda-cars/new-superb/kushaq/,price;transmission;mileage;power;torque;airbags;body_type
+Skoda,New Superb,Kylaq,https://www.carwale.com/skoda-cars/new-superb/kylaq/,price;transmission;mileage;power;torque;airbags;body_type
+Skoda,New Superb,Octavia RS,https://www.carwale.com/skoda-cars/new-superb/octavia-rs/,price;transmission;mileage;power;torque;airbags;body_type
+Skoda,New Superb,Slavia,https://www.carwale.com/skoda-cars/new-superb/slavia/,price;transmission;mileage;power;torque;airbags;body_type
+Skoda,Epiq,Kodiaq,https://www.carwale.com/skoda-cars/epiq/kodiaq/,price;engine;mileage;power;torque;seating_capacity;airbags
+Skoda,Epiq,Kushaq,https://www.carwale.com/skoda-cars/epiq/kushaq/,price;engine;mileage;power;torque;seating_capacity;airbags
+Skoda,Epiq,Kylaq,https://www.carwale.com/skoda-cars/epiq/kylaq/,price;engine;mileage;power;torque;seating_capacity;airbags
+Skoda,Epiq,Octavia RS,https://www.carwale.com/skoda-cars/epiq/octavia-rs/,price;engine;mileage;power;torque;seating_capacity;airbags
+Skoda,Epiq,Slavia,https://www.carwale.com/skoda-cars/epiq/slavia/,price;engine;mileage;power;torque;seating_capacity;airbags
+Skoda,Peaq,Kodiaq,https://www.carwale.com/skoda-cars/peaq/kodiaq/,price;transmission;mileage;power;torque;airbags;body_type
+Skoda,Peaq,Kushaq,https://www.carwale.com/skoda-cars/peaq/kushaq/,price;transmission;mileage;power;torque;airbags;body_type
+Skoda,Peaq,Kylaq,https://www.carwale.com/skoda-cars/peaq/kylaq/,price;transmission;mileage;power;torque;airbags;body_type
+Skoda,Peaq,Octavia RS,https://www.carwale.com/skoda-cars/peaq/octavia-rs/,price;transmission;mileage;power;torque;airbags;body_type
+Skoda,Peaq,Slavia,https://www.carwale.com/skoda-cars/peaq/slavia/,price;transmission;mileage;power;torque;airbags;body_type
+Skoda,Elroq,Kodiaq,https://www.carwale.com/skoda-cars/elroq/kodiaq/,price;engine;mileage;seating_capacity;airbags
+Skoda,Elroq,Kushaq,https://www.carwale.com/skoda-cars/elroq/kushaq/,price;engine;mileage;seating_capacity;airbags
+Skoda,Elroq,Kylaq,https://www.carwale.com/skoda-cars/elroq/kylaq/,price;engine;mileage;seating_capacity;airbags
+Skoda,Elroq,Octavia RS,https://www.carwale.com/skoda-cars/elroq/octavia-rs/,price;engine;mileage;seating_capacity;airbags
+Skoda,Elroq,Slavia,https://www.carwale.com/skoda-cars/elroq/slavia/,price;engine;mileage;seating_capacity;airbags
+Skoda,Enyaq,Kodiaq,https://www.carwale.com/skoda-cars/enyaq/kodiaq/,price;engine;mileage;seating_capacity;airbags
+Skoda,Enyaq,Kushaq,https://www.carwale.com/skoda-cars/enyaq/kushaq/,price;engine;mileage;seating_capacity;airbags
+Skoda,Enyaq,Kylaq,https://www.carwale.com/skoda-cars/enyaq/kylaq/,price;engine;mileage;seating_capacity;airbags
+Skoda,Enyaq,Octavia RS,https://www.carwale.com/skoda-cars/enyaq/octavia-rs/,price;engine;mileage;seating_capacity;airbags
+Skoda,Enyaq,Slavia,https://www.carwale.com/skoda-cars/enyaq/slavia/,price;engine;mileage;seating_capacity;airbags
+Skoda,Rapid Tsi,Active 1.0 TSI AT,https://www.carwale.com/skoda-cars/rapid-tsi/active-10-tsi-at/,mileage;power;torque;airbags;body_type
+Skoda,Rapid Tsi,Active 1.0 TSI MT,https://www.carwale.com/skoda-cars/rapid-tsi/active-10-tsi-mt/,mileage;power;torque;airbags;body_type
+Skoda,Octavia,L\u0026K 2.0,https://www.carwale.com/skoda-cars/octavia/l-u0026k-20/,price;mileage;airbags
+Skoda,Laura,L\u0026K 2.0 TDI AT,https://www.carwale.com/skoda-cars/laura/l-u0026k-20-tdi-at/,price;mileage;airbags
+Tata,Punch,Accomplished  CNG 5 Speed Manual,https://www.carwale.com/tata-cars/punch/accomplished-cng-5-speed-manual/,fuel_type;mileage
+Tata,Punch,Accomplished Plus (S) CNG Automatic,https://www.carwale.com/tata-cars/punch/accomplished-plus-s-cng-automatic/,fuel_type;mileage
+Tata,Punch,Adventure (S) CNG 5 Speed Manual,https://www.carwale.com/tata-cars/punch/adventure-s-cng-5-speed-manual/,fuel_type;mileage
+Tata,Punch,Adventure (S) CNG Automatic,https://www.carwale.com/tata-cars/punch/adventure-s-cng-automatic/,fuel_type;mileage
+Tata,Punch,Adventure CNG 5 Speed Manual,https://www.carwale.com/tata-cars/punch/adventure-cng-5-speed-manual/,fuel_type;mileage
+Tata,Punch,Adventure CNG Automatic,https://www.carwale.com/tata-cars/punch/adventure-cng-automatic/,fuel_type;mileage
+Tata,Punch,Pure CNG 5 Speed Manual,https://www.carwale.com/tata-cars/punch/pure-cng-5-speed-manual/,fuel_type;mileage
+Tata,Punch,Pure Plus (S) CNG 5 Speed Manual,https://www.carwale.com/tata-cars/punch/pure-plus-s-cng-5-speed-manual/,fuel_type;mileage
+Tata,Punch,Pure Plus CNG 5 Speed Manual,https://www.carwale.com/tata-cars/punch/pure-plus-cng-5-speed-manual/,fuel_type;mileage
+Tata,Punch,Pure Plus CNG Automatic,https://www.carwale.com/tata-cars/punch/pure-plus-cng-automatic/,fuel_type;mileage
+Tata,Punch,Smart CNG 5 Speed Manual,https://www.carwale.com/tata-cars/punch/smart-cng-5-speed-manual/,fuel_type;mileage
+Tata,Nexon,Creative CNG 1.2L Turbo 6 Speed Manual,https://www.carwale.com/tata-cars/nexon/creative-cng-12l-turbo-6-speed-manual/,fuel_type;mileage
+Tata,Nexon,Creative Plus (PS) CNG 1.2L Turbo 6 Speed Manual,https://www.carwale.com/tata-cars/nexon/creative-plus-ps-cng-12l-turbo-6-speed-manual/,fuel_type;mileage
+Tata,Nexon,Creative Plus (PS) CNG 1.2L Turbo 6 Speed Manual Dual Tone,https://www.carwale.com/tata-cars/nexon/creative-plus-ps-cng-12l-turbo-6-speed-manual-dual-tone/,fuel_type;mileage
+Tata,Nexon,Creative Plus (S) CNG 1.2L Turbo 6 Speed Manual,https://www.carwale.com/tata-cars/nexon/creative-plus-s-cng-12l-turbo-6-speed-manual/,fuel_type;mileage
+Tata,Nexon,Creative Plus (S) CNG 1.2L Turbo 6 Speed Manual Dark Edition,https://www.carwale.com/tata-cars/nexon/creative-plus-s-cng-12l-turbo-6-speed-manual-dark-edition/,fuel_type;mileage
+Tata,Nexon,Fearless Plus (PS) CNG 1.2L Turbo 6 Speed Manual,https://www.carwale.com/tata-cars/nexon/fearless-plus-ps-cng-12l-turbo-6-speed-manual/,fuel_type;mileage
+Tata,Nexon,Fearless Plus (PS) CNG 1.2L Turbo 6 Speed Manual Dark Edition,https://www.carwale.com/tata-cars/nexon/fearless-plus-ps-cng-12l-turbo-6-speed-manual-dark-edition/,fuel_type;mileage
+Tata,Nexon,Fearless Plus (PS) CNG 1.2L Turbo 6 Speed Manual Dual Tone,https://www.carwale.com/tata-cars/nexon/fearless-plus-ps-cng-12l-turbo-6-speed-manual-dual-tone/,fuel_type;mileage
+Tata,Nexon,Pure Plus (PS) CNG 1.2L Turbo 6 Speed Manual,https://www.carwale.com/tata-cars/nexon/pure-plus-ps-cng-12l-turbo-6-speed-manual/,fuel_type;mileage
+Tata,Nexon,Pure Plus (S) CNG 1.2L Turbo 6 Speed Manual,https://www.carwale.com/tata-cars/nexon/pure-plus-s-cng-12l-turbo-6-speed-manual/,fuel_type;mileage
+Tata,Nexon,Pure Plus CNG 1.2L Turbo 6 Speed Manual,https://www.carwale.com/tata-cars/nexon/pure-plus-cng-12l-turbo-6-speed-manual/,fuel_type;mileage
+Tata,Nexon,Smart CNG 1.2L Turbo 6 Speed Manual,https://www.carwale.com/tata-cars/nexon/smart-cng-12l-turbo-6-speed-manual/,fuel_type;mileage
+Tata,Nexon,Smart Plus (S) CNG 1.2L Turbo 6 Speed Manual,https://www.carwale.com/tata-cars/nexon/smart-plus-s-cng-12l-turbo-6-speed-manual/,fuel_type;mileage
+Tata,Nexon,Smart Plus CNG 1.2L Turbo 6 Speed Manual,https://www.carwale.com/tata-cars/nexon/smart-plus-cng-12l-turbo-6-speed-manual/,fuel_type;mileage
+Tata,Tiago,Creative CNG Automatic,https://www.carwale.com/tata-cars/tiago/creative-cng-automatic/,fuel_type;mileage
+Tata,Tiago,Creative CNG Manual,https://www.carwale.com/tata-cars/tiago/creative-cng-manual/,fuel_type;mileage
+Tata,Tiago,Pure CNG Automatic,https://www.carwale.com/tata-cars/tiago/pure-cng-automatic/,fuel_type;mileage
+Tata,Tiago,Pure CNG Manual,https://www.carwale.com/tata-cars/tiago/pure-cng-manual/,fuel_type;mileage
+Tata,Tiago,Pure Plus A CNG Automatic,https://www.carwale.com/tata-cars/tiago/pure-plus-a-cng-automatic/,fuel_type;mileage
+Tata,Tiago,Pure Plus A CNG Manual,https://www.carwale.com/tata-cars/tiago/pure-plus-a-cng-manual/,fuel_type;mileage
+Tata,Tiago,Pure Plus CNG Automatic,https://www.carwale.com/tata-cars/tiago/pure-plus-cng-automatic/,fuel_type;mileage
+Tata,Tiago,Pure Plus CNG Manual,https://www.carwale.com/tata-cars/tiago/pure-plus-cng-manual/,fuel_type;mileage
+Tata,Tiago,Smart CNG Manual,https://www.carwale.com/tata-cars/tiago/smart-cng-manual/,fuel_type;mileage
+Tata,Altroz,Accomplished S CNG 1.2L Automatic (AMT),https://www.carwale.com/tata-cars/altroz/accomplished-s-cng-12l-automatic-amt/,fuel_type;mileage
+Tata,Altroz,Accomplished S CNG 1.2L Manual,https://www.carwale.com/tata-cars/altroz/accomplished-s-cng-12l-manual/,fuel_type;mileage
+Tata,Altroz,Creative CNG 1.2L Automatic (AMT),https://www.carwale.com/tata-cars/altroz/creative-cng-12l-automatic-amt/,fuel_type;mileage
+Tata,Altroz,Creative CNG 1.2L Manual,https://www.carwale.com/tata-cars/altroz/creative-cng-12l-manual/,fuel_type;mileage
+Tata,Altroz,Creative S CNG 1.2L Automatic (AMT),https://www.carwale.com/tata-cars/altroz/creative-s-cng-12l-automatic-amt/,fuel_type;mileage
+Tata,Altroz,Creative S CNG 1.2L Manual,https://www.carwale.com/tata-cars/altroz/creative-s-cng-12l-manual/,fuel_type;mileage
+Tata,Altroz,Pure CNG 1.2L Automatic (AMT),https://www.carwale.com/tata-cars/altroz/pure-cng-12l-automatic-amt/,fuel_type;mileage
+Tata,Altroz,Pure CNG 1.2L Manual,https://www.carwale.com/tata-cars/altroz/pure-cng-12l-manual/,fuel_type;mileage
+Tata,Altroz,Pure S CNG 1.2L Automatic (AMT),https://www.carwale.com/tata-cars/altroz/pure-s-cng-12l-automatic-amt/,fuel_type;mileage
+Tata,Altroz,Pure S CNG 1.2L Manual,https://www.carwale.com/tata-cars/altroz/pure-s-cng-12l-manual/,fuel_type;mileage
+Tata,Altroz,Smart CNG 1.2L Manual,https://www.carwale.com/tata-cars/altroz/smart-cng-12l-manual/,fuel_type;mileage
+Tata,Tigor,XT CNG Manual,https://www.carwale.com/tata-cars/tigor/xt-cng-manual/,fuel_type;mileage
+Tata,Tigor,XZ CNG Automatic,https://www.carwale.com/tata-cars/tigor/xz-cng-automatic/,fuel_type;mileage
+Tata,Tigor,XZ CNG Manual,https://www.carwale.com/tata-cars/tigor/xz-cng-manual/,fuel_type;mileage
+Tata,Tigor,XZ Plus CNG Automatic,https://www.carwale.com/tata-cars/tigor/xz-plus-cng-automatic/,fuel_type;mileage
+Tata,Tigor,XZ Plus CNG Manual,https://www.carwale.com/tata-cars/tigor/xz-plus-cng-manual/,fuel_type;mileage
+Tata,Tigor,XZ Plus CNG Manual LUX,https://www.carwale.com/tata-cars/tigor/xz-plus-cng-manual-lux/,fuel_type;mileage
+Tata,Sierra Ev,Adventure 2WD 55.0 kWh,https://www.carwale.com/tata-cars/sierra-ev/adventure-2wd-550-kwh/,mileage;power;torque;seating_capacity;airbags
+Tata,Sierra Ev,Adventure S 2WD 55.0 kWh,https://www.carwale.com/tata-cars/sierra-ev/adventure-s-2wd-550-kwh/,mileage;power;torque;seating_capacity;airbags
+Tata,Sierra Ev,Empowered 2WD 60.0 kWh,https://www.carwale.com/tata-cars/sierra-ev/empowered-2wd-600-kwh/,mileage;torque;seating_capacity;airbags
+Tata,Sierra Ev,Empowered QWD AWD 60.0 kWh,https://www.carwale.com/tata-cars/sierra-ev/empowered-qwd-awd-600-kwh/,mileage;torque;seating_capacity;airbags
+Tata,Sierra Ev,Empowered Stealth QWD AWD 60.0 kWh,https://www.carwale.com/tata-cars/sierra-ev/empowered-stealth-qwd-awd-600-kwh/,mileage;torque;seating_capacity;airbags
+Tata,Sierra Ev,Fearless Plus 2WD 55.0 kWh,https://www.carwale.com/tata-cars/sierra-ev/fearless-plus-2wd-550-kwh/,mileage;power;torque;seating_capacity;airbags
+Tata,Sierra Ev,Fearless Plus 2WD 60.0 kWh,https://www.carwale.com/tata-cars/sierra-ev/fearless-plus-2wd-600-kwh/,mileage;power;torque;seating_capacity;airbags
+Tata,New Tigor,Creative Plus CNG Automatic,https://www.carwale.com/tata-cars/new-tigor/creative-plus-cng-automatic/,mileage;power;body_type
+Tata,New Tigor,Creative Plus CNG Manual,https://www.carwale.com/tata-cars/new-tigor/creative-plus-cng-manual/,mileage;power;body_type
+Tata,New Tigor,Creative Plus Petrol Automatic,https://www.carwale.com/tata-cars/new-tigor/creative-plus-petrol-automatic/,mileage;power;body_type
+Tata,New Tigor,Creative Plus Petrol Manual,https://www.carwale.com/tata-cars/new-tigor/creative-plus-petrol-manual/,mileage;power;body_type
+Tata,New Tigor Ev,Creative Plus 26.0 kWh,https://www.carwale.com/tata-cars/new-tigor-ev/creative-plus-260-kwh/,mileage;power;body_type
+Tata,Avinya,AWD,https://www.carwale.com/tata-cars/avinya/awd/,engine;mileage;power;torque;seating_capacity;airbags
+Tata,Avinya,RWD,https://www.carwale.com/tata-cars/avinya/rwd/,engine;mileage;power;torque;seating_capacity;airbags
+Tata,Tiago Nrg,XT iCNG [2022-2023],https://www.carwale.com/tata-cars/tiago-nrg/xt-icng-2022-2023/,fuel_type;mileage
+Tata,Tiago Nrg,XT iCNG [2023-2025],https://www.carwale.com/tata-cars/tiago-nrg/xt-icng-2023-2025/,fuel_type;mileage
+Tata,Tiago Nrg,XZ CNG Automatic,https://www.carwale.com/tata-cars/tiago-nrg/xz-cng-automatic/,fuel_type;mileage
+Tata,Tiago Nrg,XZ CNG Manual,https://www.carwale.com/tata-cars/tiago-nrg/xz-cng-manual/,fuel_type;mileage
+Tata,Tiago Nrg,XZ iCNG [2022-2023],https://www.carwale.com/tata-cars/tiago-nrg/xz-icng-2022-2023/,fuel_type;mileage
+Tata,Tiago Nrg,XZ iCNG [2023-2025],https://www.carwale.com/tata-cars/tiago-nrg/xz-icng-2023-2025/,fuel_type;mileage
+Tata,Tiago Nrg,XZA iCNG [2024-2025],https://www.carwale.com/tata-cars/tiago-nrg/xza-icng-2024-2025/,fuel_type;mileage
+Tata,Tl,4x4,https://www.carwale.com/tata-cars/tl/4x4/,mileage;power;body_type
+Tata,Estate,Std,https://www.carwale.com/tata-cars/estate/std/,power;torque;seating_capacity;airbags;body_type
+Tata,Sumo Gold,SA Gold,https://www.carwale.com/tata-cars/sumo-gold/sa-gold/,power;body_type
+Tesla,Model Y,L Premium AWD 88.0 kWh,https://www.carwale.com/tesla-cars/model-y/l-premium-awd-880-kwh/,mileage;torque
+Tesla,Model Y,Premium Long Range RWD 2WD 75.0 kWh,https://www.carwale.com/tesla-cars/model-y/premium-long-range-rwd-2wd-750-kwh/,mileage;torque
+Tesla,Model Y,Premium RWD 2WD 60.0 kWh,https://www.carwale.com/tesla-cars/model-y/premium-rwd-2wd-600-kwh/,mileage;torque
+Tesla,Model 3,Long Range,https://www.carwale.com/tesla-cars/model-3/long-range/,engine;mileage;power;torque;airbags
+Tesla,Model 3,Model Y,https://www.carwale.com/tesla-cars/model-3/model-y/,price;fuel_type;engine;mileage;power;torque;airbags
+Tesla,Model 3,Performance,https://www.carwale.com/tesla-cars/model-3/performance/,engine;mileage;power;torque;airbags
+Tesla,Model 3,Rear-Wheel Drive,https://www.carwale.com/tesla-cars/model-3/rear-wheel-drive/,engine;mileage;power;torque;airbags
+Tesla,Model S,Model Y,https://www.carwale.com/tesla-cars/model-s/model-y/,price;engine;mileage;power;torque;seating_capacity;airbags
+Toyota,Hyryder,G (O) 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT),https://www.carwale.com/toyota-cars/hyryder/g-o-2wd-hybrid-electric-petrol-15l-automatic-e-cvt/,price;mileage
+Toyota,Hyryder,G (O) 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT) Dual Tone,https://www.carwale.com/toyota-cars/hyryder/g-o-2wd-hybrid-electric-petrol-15l-automatic-e-cvt-dual-tone/,price;mileage
+Toyota,Hyryder,G 2WD CNG 1.5L Manual,https://www.carwale.com/toyota-cars/hyryder/g-2wd-cng-15l-manual/,fuel_type;mileage
+Toyota,Hyryder,S 2WD CNG 1.5L Manual,https://www.carwale.com/toyota-cars/hyryder/s-2wd-cng-15l-manual/,fuel_type;mileage
+Toyota,Hyryder,S 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT),https://www.carwale.com/toyota-cars/hyryder/s-2wd-hybrid-electric-petrol-15l-automatic-e-cvt/,price;mileage
+Toyota,Hyryder,V 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT),https://www.carwale.com/toyota-cars/hyryder/v-2wd-hybrid-electric-petrol-15l-automatic-e-cvt/,price;mileage
+Toyota,Hyryder,V 2WD Hybrid (Electric + Petrol) 1.5L Automatic (e-CVT) Dual Tone,https://www.carwale.com/toyota-cars/hyryder/v-2wd-hybrid-electric-petrol-15l-automatic-e-cvt-dual-tone/,price;mileage
+Toyota,Innova Hycross,VX (O) Hybrid (Electric + Petrol) Automatic (e-CVT) 7 STR,https://www.carwale.com/toyota-cars/innova-hycross/vx-o-hybrid-electric-petrol-automatic-e-cvt-7-str/,price;mileage
+Toyota,Innova Hycross,VX (O) Hybrid (Electric + Petrol) Automatic (e-CVT) 7 STR Platinum White Pearl,https://www.carwale.com/toyota-cars/innova-hycross/vx-o-hybrid-electric-petrol-automatic-e-cvt-7-str-platinum-white-pearl/,price;mileage
+Toyota,Innova Hycross,VX (O) Hybrid (Electric + Petrol) Automatic (e-CVT) 8 STR,https://www.carwale.com/toyota-cars/innova-hycross/vx-o-hybrid-electric-petrol-automatic-e-cvt-8-str/,price;mileage
+Toyota,Innova Hycross,VX (O) Hybrid (Electric + Petrol) Automatic (e-CVT) 8 STR Platinum White Pearl,https://www.carwale.com/toyota-cars/innova-hycross/vx-o-hybrid-electric-petrol-automatic-e-cvt-8-str-platinum-white-pearl/,price;mileage
+Toyota,Innova Hycross,VX Hybrid (Electric + Petrol) Automatic (e-CVT) 7 STR,https://www.carwale.com/toyota-cars/innova-hycross/vx-hybrid-electric-petrol-automatic-e-cvt-7-str/,price;mileage
+Toyota,Innova Hycross,VX Hybrid (Electric + Petrol) Automatic (e-CVT) 7 STR Platinum White Pearl,https://www.carwale.com/toyota-cars/innova-hycross/vx-hybrid-electric-petrol-automatic-e-cvt-7-str-platinum-white-pearl/,price;mileage
+Toyota,Innova Hycross,VX Hybrid (Electric + Petrol) Automatic (e-CVT) 8 STR,https://www.carwale.com/toyota-cars/innova-hycross/vx-hybrid-electric-petrol-automatic-e-cvt-8-str/,price;mileage
+Toyota,Innova Hycross,VX Hybrid (Electric + Petrol) Automatic (e-CVT) 8 STR Platinum White Pearl,https://www.carwale.com/toyota-cars/innova-hycross/vx-hybrid-electric-petrol-automatic-e-cvt-8-str-platinum-white-pearl/,price;mileage
+Toyota,Innova Hycross,ZX (O) Hybrid (Electric + Petrol) Automatic (e-CVT) 7 STR,https://www.carwale.com/toyota-cars/innova-hycross/zx-o-hybrid-electric-petrol-automatic-e-cvt-7-str/,price;mileage
+Toyota,Innova Hycross,ZX (O) Hybrid (Electric + Petrol) Automatic (e-CVT) 7 STR Limited Edition,https://www.carwale.com/toyota-cars/innova-hycross/zx-o-hybrid-electric-petrol-automatic-e-cvt-7-str-limited-edition/,price;mileage
+Toyota,Innova Hycross,ZX (O) Hybrid (Electric + Petrol) Automatic (e-CVT) 7 STR Platinum White Pearl,https://www.carwale.com/toyota-cars/innova-hycross/zx-o-hybrid-electric-petrol-automatic-e-cvt-7-str-platinum-white-pearl/,price;mileage
+Toyota,Innova Hycross,ZX Hybrid (Electric + Petrol) Automatic (e-CVT) 7 STR,https://www.carwale.com/toyota-cars/innova-hycross/zx-hybrid-electric-petrol-automatic-e-cvt-7-str/,price;mileage
+Toyota,Innova Hycross,ZX Hybrid (Electric + Petrol) Automatic (e-CVT) 7 STR Platinum White Pearl,https://www.carwale.com/toyota-cars/innova-hycross/zx-hybrid-electric-petrol-automatic-e-cvt-7-str-platinum-white-pearl/,price;mileage
+Toyota,Fortuner,4x4 4WD Mild Hybrid (Electric + Diesel) 2.8L Turbo Automatic,https://www.carwale.com/toyota-cars/fortuner/4x4-4wd-mild-hybrid-electric-diesel-28l-turbo-automatic/,price;mileage
+Toyota,Fortuner,4x4 4WD Mild Hybrid (Electric + Diesel) 2.8L Turbo Automatic  Platinum White Pearl,https://www.carwale.com/toyota-cars/fortuner/4x4-4wd-mild-hybrid-electric-diesel-28l-turbo-automatic-platinum-white-pearl/,price;mileage
+Toyota,Taisor,E CNG 1.2L Manual,https://www.carwale.com/toyota-cars/taisor/e-cng-12l-manual/,fuel_type;mileage
+Toyota,Glanza,G CNG Manual,https://www.carwale.com/toyota-cars/glanza/g-cng-manual/,fuel_type;mileage
+Toyota,Glanza,S CNG Manual,https://www.carwale.com/toyota-cars/glanza/s-cng-manual/,fuel_type;mileage
+Toyota,Rumion,S CNG Manual,https://www.carwale.com/toyota-cars/rumion/s-cng-manual/,fuel_type;mileage
+Toyota,Camry,Elegant Hybrid (Electric + Petrol) Automatic,https://www.carwale.com/toyota-cars/camry/elegant-hybrid-electric-petrol-automatic/,price;mileage
+Toyota,Camry,Elegant Hybrid (Electric + Petrol) Automatic Platinum White Pearl,https://www.carwale.com/toyota-cars/camry/elegant-hybrid-electric-petrol-automatic-platinum-white-pearl/,price;mileage
+Toyota,Camry,Sprint Edition Hybrid (Electric + Petrol) Automatic Dual Tone,https://www.carwale.com/toyota-cars/camry/sprint-edition-hybrid-electric-petrol-automatic-dual-tone/,price;mileage
+Toyota,Camry,Sprint Edition Hybrid (Electric + Petrol) Automatic Platinum White Pearl,https://www.carwale.com/toyota-cars/camry/sprint-edition-hybrid-electric-petrol-automatic-platinum-white-pearl/,price;mileage
+Toyota,Fortuner Legender,4X4 4WD Mild Hybrid (Electric + Diesel) Turbo Automatic Dual Tone,https://www.carwale.com/toyota-cars/fortuner-legender/4x4-4wd-mild-hybrid-electric-diesel-turbo-automatic-dual-tone/,price;mileage
+Toyota,Vellfire,Hi Hybrid (Electric + Petrol) Automatic,https://www.carwale.com/toyota-cars/vellfire/hi-hybrid-electric-petrol-automatic/,price;mileage
+Toyota,Vellfire,VIP – Executive Lounge Hybrid (Electric + Petrol) Automatic,https://www.carwale.com/toyota-cars/vellfire/vip-executive-lounge-hybrid-electric-petrol-automatic/,price;mileage
+Toyota,Urban Cruiser Hyryder 7 Seater,Fortuner,https://www.carwale.com/toyota-cars/urban-cruiser-hyryder-7-seater/fortuner/,price;transmission;mileage;power;torque;body_type
+Toyota,Urban Cruiser Hyryder 7 Seater,Innova Crysta,https://www.carwale.com/toyota-cars/urban-cruiser-hyryder-7-seater/innova-crysta/,price;transmission;mileage;power;torque;body_type
+Toyota,Urban Cruiser Hyryder 7 Seater,Innova Hycross,https://www.carwale.com/toyota-cars/urban-cruiser-hyryder-7-seater/innova-hycross/,price;transmission;mileage;power;torque;body_type
+Toyota,Urban Cruiser Hyryder 7 Seater,Urban Cruiser Hyryder,https://www.carwale.com/toyota-cars/urban-cruiser-hyryder-7-seater/urban-cruiser-hyryder/,price;transmission;mileage;power;torque;body_type
+Toyota,Urban Cruiser Hyryder 7 Seater,Urban Cruiser Taisor,https://www.carwale.com/toyota-cars/urban-cruiser-hyryder-7-seater/urban-cruiser-taisor/,price;transmission;mileage;power;torque;body_type
+Toyota,Bz4X,Fortuner,https://www.carwale.com/toyota-cars/bz4x/fortuner/,price;fuel_type;engine;mileage;power;torque;seating_capacity;airbags
+Toyota,Bz4X,Innova Crysta,https://www.carwale.com/toyota-cars/bz4x/innova-crysta/,price;fuel_type;engine;mileage;power;torque;seating_capacity;airbags
+Toyota,Bz4X,Innova Hycross,https://www.carwale.com/toyota-cars/bz4x/innova-hycross/,price;fuel_type;engine;mileage;power;torque;seating_capacity;airbags
+Toyota,Bz4X,Urban Cruiser Hyryder,https://www.carwale.com/toyota-cars/bz4x/urban-cruiser-hyryder/,price;fuel_type;engine;mileage;power;torque;seating_capacity;airbags
+Toyota,Bz4X,Urban Cruiser Taisor,https://www.carwale.com/toyota-cars/bz4x/urban-cruiser-taisor/,price;fuel_type;engine;mileage;power;torque;seating_capacity;airbags
+Toyota,New Rumion,Fortuner,https://www.carwale.com/toyota-cars/new-rumion/fortuner/,price;transmission;mileage;power;torque;body_type
+Toyota,New Rumion,Innova Crysta,https://www.carwale.com/toyota-cars/new-rumion/innova-crysta/,price;transmission;mileage;power;torque;body_type
+Toyota,New Rumion,Innova Hycross,https://www.carwale.com/toyota-cars/new-rumion/innova-hycross/,price;transmission;mileage;power;torque;body_type
+Toyota,New Rumion,Urban Cruiser Hyryder,https://www.carwale.com/toyota-cars/new-rumion/urban-cruiser-hyryder/,price;transmission;mileage;power;torque;body_type
+Toyota,New Rumion,Urban Cruiser Taisor,https://www.carwale.com/toyota-cars/new-rumion/urban-cruiser-taisor/,price;transmission;mileage;power;torque;body_type
+Toyota,New Land Cruiser Fj,Fortuner,https://www.carwale.com/toyota-cars/new-land-cruiser-fj/fortuner/,price;transmission;mileage;power;torque;body_type
+Toyota,New Land Cruiser Fj,Innova Crysta,https://www.carwale.com/toyota-cars/new-land-cruiser-fj/innova-crysta/,price;transmission;mileage;power;torque;body_type
+Toyota,New Land Cruiser Fj,Innova Hycross,https://www.carwale.com/toyota-cars/new-land-cruiser-fj/innova-hycross/,price;transmission;mileage;power;torque;body_type
+Toyota,New Land Cruiser Fj,Urban Cruiser Hyryder,https://www.carwale.com/toyota-cars/new-land-cruiser-fj/urban-cruiser-hyryder/,price;transmission;mileage;power;torque;body_type
+Toyota,New Land Cruiser Fj,Urban Cruiser Taisor,https://www.carwale.com/toyota-cars/new-land-cruiser-fj/urban-cruiser-taisor/,price;transmission;mileage;power;torque;body_type
+Toyota,Ventury,2.7 Petrol,https://www.carwale.com/toyota-cars/ventury/27-petrol/,mileage;power;torque;body_type
+Toyota,Hiace,Commuter,https://www.carwale.com/toyota-cars/hiace/commuter/,mileage;power;airbags;body_type
+Toyota,Belta,High AT,https://www.carwale.com/toyota-cars/belta/high-at/,mileage;power;torque;seating_capacity;airbags
+Toyota,Belta,High MT,https://www.carwale.com/toyota-cars/belta/high-mt/,mileage;power;torque;seating_capacity;airbags
+Toyota,Tundra,Twin Cabin,https://www.carwale.com/toyota-cars/tundra/twin-cabin/,mileage;power;torque;body_type
+Toyota,Lexus,LX 470,https://www.carwale.com/toyota-cars/lexus/lx-470/,mileage;power;torque;body_type
+Toyota,Commuter,HiAce 3.0 L,https://www.carwale.com/toyota-cars/commuter/hiace-30-l/,mileage;power;torque;airbags;body_type
+Toyota,Commuter,Luxury Van,https://www.carwale.com/toyota-cars/commuter/luxury-van/,mileage;power;torque;airbags;body_type
+Toyota,Rav4,Diesel,https://www.carwale.com/toyota-cars/rav4/diesel/,mileage;power;torque;body_type
+Toyota,Rav4,Petrol,https://www.carwale.com/toyota-cars/rav4/petrol/,mileage;power;torque;body_type
+Toyota,Estima,Emina 2.0 TDI AT,https://www.carwale.com/toyota-cars/estima/emina-20-tdi-at/,mileage;power;torque;airbags
+Toyota,Estima,GL,https://www.carwale.com/toyota-cars/estima/gl/,mileage;power;torque;airbags
+Toyota,Estima,Lucida,https://www.carwale.com/toyota-cars/estima/lucida/,mileage;power;torque;airbags
+Toyota,Tercel,AT,https://www.carwale.com/toyota-cars/tercel/at/,mileage;power;torque;airbags
+Toyota,Cressida,2.4 MT Petrol,https://www.carwale.com/toyota-cars/cressida/24-mt-petrol/,mileage;power;torque;body_type
+Toyota,Cressida,XL 2.4 AT,https://www.carwale.com/toyota-cars/cressida/xl-24-at/,mileage;power;torque;body_type
+Toyota,Majesta,3.0 V6 AT,https://www.carwale.com/toyota-cars/majesta/30-v6-at/,mileage;power;torque;airbags
+Toyota,Majesta,4.0 V8 AT,https://www.carwale.com/toyota-cars/majesta/40-v8-at/,mileage;power;torque;airbags
+Toyota,Corollaceres,Petrol AT,https://www.carwale.com/toyota-cars/corollaceres/petrol-at/,mileage;power;torque;body_type
+Toyota,Sera,Coupe,https://www.carwale.com/toyota-cars/sera/coupe/,mileage;power;torque;airbags
+Toyota,Celica,Coupe,https://www.carwale.com/toyota-cars/celica/coupe/,mileage;power;torque;body_type
+Toyota,Cynos,1.5 Coupe,https://www.carwale.com/toyota-cars/cynos/15-coupe/,mileage;power;torque;airbags
+Toyota,Mr2,AW11 (4A-GE),https://www.carwale.com/toyota-cars/mr2/aw11-4a-ge/,mileage;power;torque;airbags
+Toyota,Crown,Royal Saloon 3.0 V6 AT,https://www.carwale.com/toyota-cars/crown/royal-saloon-30-v6-at/,mileage;power;torque;airbags
+Toyota,Crown,Super Saloon 2.4 AT,https://www.carwale.com/toyota-cars/crown/super-saloon-24-at/,mileage;power;torque;airbags
+Toyota,Corona,Diesel,https://www.carwale.com/toyota-cars/corona/diesel/,power;torque;airbags
+Toyota,Corona,Petrol,https://www.carwale.com/toyota-cars/corona/petrol/,mileage;power;torque;airbags
+Toyota,Landcruiserprado,TX,https://www.carwale.com/toyota-cars/landcruiserprado/tx/,mileage;power;torque;body_type
+Toyota,Landcruiserprado,TX Petrol,https://www.carwale.com/toyota-cars/landcruiserprado/tx-petrol/,mileage;power;torque;body_type
+Toyota,Landcruiserprado,VX L,https://www.carwale.com/toyota-cars/landcruiserprado/vx-l/,mileage;power;torque;body_type
+Toyota,Markii,Grande,https://www.carwale.com/toyota-cars/markii/grande/,mileage;power;torque;body_type
+Toyota,Masterace,Diesel,https://www.carwale.com/toyota-cars/masterace/diesel/,mileage;power;torque;body_type
+VinFast,Vf 3,VF 6,https://www.carwale.com/vinfast-cars/vf-3/vf-6/,price;transmission;engine;mileage;power;torque;airbags;body_type
+VinFast,Vf 3,VF 7,https://www.carwale.com/vinfast-cars/vf-3/vf-7/,price;transmission;engine;mileage;power;torque;airbags;body_type
+VinFast,Vf 3,VF MPV 7,https://www.carwale.com/vinfast-cars/vf-3/vf-mpv-7/,price;transmission;engine;mileage;power;torque;airbags;body_type
+VinFast,Vf 9,VF 6,https://www.carwale.com/vinfast-cars/vf-9/vf-6/,price;transmission;engine;mileage;power;torque;airbags;body_type
+VinFast,Vf 9,VF 7,https://www.carwale.com/vinfast-cars/vf-9/vf-7/,price;transmission;engine;mileage;power;torque;airbags;body_type
+VinFast,Vf 9,VF MPV 7,https://www.carwale.com/vinfast-cars/vf-9/vf-mpv-7/,price;transmission;engine;mileage;power;torque;airbags;body_type
+VinFast,Vf E34,VF 6,https://www.carwale.com/vinfast-cars/vf-e34/vf-6/,price;engine;mileage;power;torque;seating_capacity;airbags
+VinFast,Vf E34,VF 7,https://www.carwale.com/vinfast-cars/vf-e34/vf-7/,price;engine;mileage;power;torque;seating_capacity;airbags
+VinFast,Vf E34,VF MPV 7,https://www.carwale.com/vinfast-cars/vf-e34/vf-mpv-7/,price;engine;mileage;power;torque;seating_capacity;airbags
+VinFast,Vf 8,VF 6,https://www.carwale.com/vinfast-cars/vf-8/vf-6/,price;transmission;engine;mileage;power;torque;airbags;body_type
+VinFast,Vf 8,VF 7,https://www.carwale.com/vinfast-cars/vf-8/vf-7/,price;transmission;engine;mileage;power;torque;airbags;body_type
+VinFast,Vf 8,VF MPV 7,https://www.carwale.com/vinfast-cars/vf-8/vf-mpv-7/,price;transmission;engine;mileage;power;torque;airbags;body_type
+Volkswagen,Tera Suv,Golf GTI,https://www.carwale.com/volkswagen-cars/tera-suv/golf-gti/,price;transmission;mileage;power;torque;airbags;body_type
+Volkswagen,Tera Suv,Taigun,https://www.carwale.com/volkswagen-cars/tera-suv/taigun/,price;transmission;mileage;power;torque;airbags;body_type
+Volkswagen,Tera Suv,Tayron R-Line,https://www.carwale.com/volkswagen-cars/tera-suv/tayron-r-line/,price;transmission;mileage;power;torque;airbags;body_type
+Volkswagen,Tera Suv,Tiguan R-Line,https://www.carwale.com/volkswagen-cars/tera-suv/tiguan-r-line/,price;transmission;mileage;power;torque;airbags;body_type
+Volkswagen,Tera Suv,Virtus,https://www.carwale.com/volkswagen-cars/tera-suv/virtus/,price;transmission;mileage;power;torque;airbags;body_type
+Volkswagen,Id4,Golf GTI,https://www.carwale.com/volkswagen-cars/id4/golf-gti/,price;engine;mileage;power;torque;seating_capacity;airbags
+Volkswagen,Id4,Taigun,https://www.carwale.com/volkswagen-cars/id4/taigun/,price;engine;mileage;power;torque;seating_capacity;airbags
+Volkswagen,Id4,Tayron R-Line,https://www.carwale.com/volkswagen-cars/id4/tayron-r-line/,price;engine;mileage;power;torque;seating_capacity;airbags
+Volkswagen,Id4,Tiguan R-Line,https://www.carwale.com/volkswagen-cars/id4/tiguan-r-line/,price;engine;mileage;power;torque;seating_capacity;airbags
+Volkswagen,Id4,Virtus,https://www.carwale.com/volkswagen-cars/id4/virtus/,price;engine;mileage;power;torque;seating_capacity;airbags
+Volkswagen,Transporter,T5,https://www.carwale.com/volkswagen-cars/transporter/t5/,mileage;power;torque;airbags;body_type
+Volkswagen,7Hm H13,2.5 Diesel,https://www.carwale.com/volkswagen-cars/7hm-h13/25-diesel/,mileage;power;torque;airbags;body_type
+Volkswagen,Touareg,3.0 V6 TDI,https://www.carwale.com/volkswagen-cars/touareg/30-v6-tdi/,mileage;power;torque;airbags
+Volkswagen,1600,L Fastback,https://www.carwale.com/volkswagen-cars/1600/l-fastback/,mileage;power;torque;airbags
+Volkswagen,Caravelle,Highline,https://www.carwale.com/volkswagen-cars/caravelle/highline/,mileage;power;torque;airbags;body_type
+Volkswagen,Caravelle,T3,https://www.carwale.com/volkswagen-cars/caravelle/t3/,mileage;power;torque;airbags;body_type
+Volvo,Ex90,EC40,https://www.carwale.com/volvo-cars/ex90/ec40/,price;engine;mileage;power;torque;seating_capacity;airbags
+Volvo,Ex90,EX30,https://www.carwale.com/volvo-cars/ex90/ex30/,price;engine;mileage;power;torque;seating_capacity;airbags
+Volvo,Ex90,XC60,https://www.carwale.com/volvo-cars/ex90/xc60/,price;engine;mileage;power;torque;seating_capacity;airbags
+Volvo,Ex90,XC90,https://www.carwale.com/volvo-cars/ex90/xc90/,price;engine;mileage;power;torque;seating_capacity;airbags
+Volvo,V70,2.0 Petrol I5,https://www.carwale.com/volvo-cars/v70/20-petrol-i5/,mileage;power;torque;airbags;body_type
