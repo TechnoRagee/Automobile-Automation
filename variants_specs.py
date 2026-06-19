@@ -1,16 +1,16 @@
 """
-Phase 3 variant scraper: VersionName from model page JSON -> build variant URL ->
-fetch each variant page -> extract specs.
-Headers: price, fuel_type, transmission, engine, mileage, power, torque,
-seating_capacity, airbags, body_type, source_url, scraped_at
-price = Ex-Showroom only.
+Phase 3 variant scraper — PARALLEL version (ThreadPoolExecutor).
+WORKERS = 5 parallel threads, DELAY = 0.8s per thread.
+Effective throughput ~5x faster than sequential.
 """
 
 import csv
 import os
 import re
 import time
+import threading
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 from bs4 import BeautifulSoup
 
@@ -31,30 +31,29 @@ HEADERS = {
 
 MODELS_FILE = "output/variants1.csv"
 OUTPUT_FILE = "output/var_specification.csv"
-DELAY       = 1.5
+DELAY       = 0.8   # per-thread delay
+WORKERS     = 5     # parallel threads; increase to 8 if no blocks, decrease to 3 if getting 429s
 
 SPEC_FIELDS = [
     "price", "fuel_type", "transmission", "engine", "mileage",
     "power", "torque", "seating_capacity", "airbags", "body_type",
 ]
 FIELDNAMES = [
-    "brand_name",
-    "model_name",
-    "variant_name",
-    "variant_slug",
-    "variant_url",
-] + SPEC_FIELDS + [
-    "source_url",
-    "scraped_at",
-]
+    "brand_name", "model_name", "variant_name", "variant_slug", "variant_url",
+] + SPEC_FIELDS + ["source_url", "scraped_at"]
+
+# thread-safe counters
+_lock = threading.Lock()
+_total = 0
+_failed = 0
 
 
-# ── helpers ──────────────────────────────────────────────────────────────
+# ── helpers ───────────────────────────────────────────────────────────────
 
-def fetch(url, retries=3, delay=2):
+def fetch(url, retries=4, delay=2):
     for attempt in range(1, retries + 1):
         try:
-            r = requests.get(url, headers=HEADERS, timeout=20)
+            r = requests.get(url, headers=HEADERS, timeout=30)
             r.raise_for_status()
             return r.text
         except requests.RequestException as e:
@@ -68,54 +67,26 @@ def soup(html):
     return BeautifulSoup(html, "html.parser")
 
 
+# ── field extraction ──────────────────────────────────────────────────────
 
-
-# ── field extraction (from variant page) ───────────────────────────────
 def extract_price(s):
     txt = s.get_text(" ", strip=True)
-
-    patterns = [
-        r'(?:Rs\.?|₹)\s*([\d.,]+)\s*(Crore|Lakh)',
-        r'([\d.,]+)\s*(Crore|Lakh)',
-    ]
-
-    for p in patterns:
-        m = re.search(p, txt, re.I)
-        if m:
-            return f"Rs. {m.group(1)} {m.group(2).title()}"
-
+    # primary: "Ex-Showroom Price Rs. 8,36,990" (raw rupees, no Lakh)
+    m = re.search(r'Ex-?Showroom Price\s*Rs\.?\s*([\d,]+)', txt, re.I)
+    if m:
+        return f"Rs. {m.group(1)}"
+    # fallback: Rs/₹ + Lakh/Crore anywhere
+    m = re.search(r'(?:Rs\.?|₹)\s*([\d.,]+)\s*(Crore|Lakh)', txt, re.I)
+    if m:
+        return f"Rs. {m.group(1)} {m.group(2).title()}"
     return ""
 
 def extract_fuel_type(s):
     txt = s.get_text(" ", strip=True)
-
-    patterns = [
-        r'Fuel Type\s*[:\-]?\s*(Petrol)',
-        r'Fuel Type\s*[:\-]?\s*(Diesel)',
-        r'Fuel Type\s*[:\-]?\s*(Electric)',
-        r'Fuel Type\s*[:\-]?\s*(Hybrid)',
-        r'Fuel Type\s*[:\-]?\s*(CNG)',
-        r'Fuel Type\s*[:\-]?\s*(LPG)',
-    ]
-
-    for p in patterns:
-        m = re.search(p, txt, re.I)
-        if m:
-            return m.group(1).title()
-
+    for fuel in ["Petrol", "Diesel", "Electric", "Hybrid", "CNG", "LPG"]:
+        if re.search(rf'Fuel Type\s*{fuel}', txt, re.I):
+            return fuel.title()
     return ""
-
-# def extract_fuel_type(s):
-#     m = re.search(r'Fuel Type\s*([A-Za-z/ &]+?)(?=\n|Engine|Ethanol|$)',
-#                   s.get_text("\n"), re.I)
-#     if m:
-#         return m.group(1).strip()
-#     txt = s.get_text(" ")
-#     for fuel in ["Electric", "Hydrogen", "Petrol", "Diesel", "CNG", "LPG", "Hybrid"]:
-#         if re.search(rf'\bFuel Type\b.*?\b{fuel}\b', txt, re.I | re.S):
-#             return fuel
-#     return ""
-
 
 def extract_transmission(s):
     txt = s.get_text(" ", strip=True)
@@ -130,365 +101,209 @@ def extract_transmission(s):
 
 def extract_engine(s):
     txt = s.get_text(" ", strip=True)
-
-    patterns = [
-        r'(\d[\d,\.]+\s*cc)',
-        r'(\d{3,5}\s*cc)',
-    ]
-
-    for p in patterns:
-        m = re.search(p, txt, re.I)
-        if m:
-            return m.group(1)
-
+    # page shows: "1199 cc, 3 Cylinders..." — grab NNN cc before comma
+    m = re.search(r'(\d{3,5}\s*cc)', txt, re.I)
+    if m:
+        return m.group(1).strip()
     return ""
-
-
 
 def extract_mileage(s):
     txt = s.get_text(" ", strip=True)
-    m = re.search(r'(?:User Reported|Mileage)[:\s]+([\d\.]+)\s*kmpl', txt, re.I)
+    # page shows: "User Reported: 15 kmpl" (colon format)
+    m = re.search(r'User Reported[:\s]+([\d\.]+)\s*kmpl', txt, re.I)
+    if not m:
+        m = re.search(r'Mileage[:\s]+([\d\.]+)\s*kmpl', txt, re.I)
     if not m:
         return ""
     value = float(m.group(1))
     return "" if value > 40 else f"{value} kmpl"
 
-
 def extract_power(s):
     txt = s.get_text(" ", strip=True)
-
-    patterns = [
-        r'Power\s*\(bhp@rpm\)\s*(\d+(?:\.\d+)?)',
-        r'Max Power.*?(\d+(?:\.\d+)?)\s*bhp',
-        r'Power.*?(\d+(?:\.\d+)?)\s*bhp',
-    ]
-
-    for p in patterns:
-        m = re.search(p, txt, re.I)
-        if m:
-            return f"{m.group(1)} bhp"
-
+    # page shows: "118 bhp @ 5500 rpm" under "Max Power (bhp@rpm)"
+    m = re.search(r'Max Power[^0-9]*([\d.]+)\s*bhp', txt, re.I)
+    if m:
+        return f"{m.group(1)} bhp"
+    m = re.search(r'([\d.]+)\s*bhp\s*@', txt, re.I)
+    if m:
+        return f"{m.group(1)} bhp"
     return ""
-
-
-# def extract_torque(s):
-#     txt = s.get_text(" ", strip=True)
-
-#     patterns = [
-#         r'Torque\s*\(Nm@rpm\)\s*(\d+(?:\.\d+)?)',
-#         r'Max Torque\s*\(Nm@rpm\)\s*(\d+(?:\.\d+)?)',
-#         r'Max Torque.*?(\d+(?:\.\d+)?)\s*Nm',
-#         r'Torque.*?(\d+(?:\.\d+)?)\s*Nm',
-#     ]
-
-#     for p in patterns:
-#         m = re.search(p, txt, re.I)
-#         if m:
-#             return f"{m.group(1)} Nm"
-
-#     return ""
 
 def extract_torque(s):
     txt = s.get_text(" ", strip=True)
-
-    m = re.search(
-        r'Torque.*?(\d+)@',
-        txt,
-        re.I
-    )
-
+    # page shows: "170 Nm @ 1750-4000 rpm" under "Max Torque (Nm@rpm)"
+    m = re.search(r'Max Torque[^0-9]*([\d.]+)\s*Nm', txt, re.I)
     if m:
         return f"{m.group(1)} Nm"
-
+    m = re.search(r'([\d.]+)\s*Nm\s*@', txt, re.I)
+    if m:
+        return f"{m.group(1)} Nm"
     return ""
-
-
-def is_ev(s):
-    txt = s.get_text(" ", strip=True).lower()
-    return "fuel type electric" in txt or "electric motor" in txt
 
 def extract_engine_ev(s):
     txt = s.get_text(" ", strip=True)
-
-    patterns = [
-        r'Battery.*?(\d+(?:\.\d+)?)\s*kWh',
-        r'(\d+(?:\.\d+)?)\s*kWh',
-    ]
-
-    for p in patterns:
+    for p in [r'Battery.*?(\d+(?:\.\d+)?)\s*kWh', r'(\d+(?:\.\d+)?)\s*kWh']:
         m = re.search(p, txt, re.I)
         if m:
             return f"{m.group(1)} kWh Battery"
-
     return ""
 
 def extract_power_ev(s):
     txt = s.get_text(" ", strip=True)
-
-    patterns = [
+    for p in [
         r'(\d+(?:\.\d+)?)\s*bhp',
         r'Motor Power.*?(\d+(?:\.\d+)?)\s*kW',
         r'Power.*?(\d+(?:\.\d+)?)\s*kW',
-    ]
-
-    for p in patterns:
+    ]:
         m = re.search(p, txt, re.I)
         if m:
-            if "kW" in p:
-                return f"{m.group(1)} kW"
-            return f"{m.group(1)} bhp"
-
+            return f"{m.group(1)} kW" if "kW" in p else f"{m.group(1)} bhp"
     return ""
-
-
 
 def extract_torque_ev(s):
     txt = s.get_text(" ", strip=True)
-
-    m = re.search(
-        r'Max Torque.*?(\d+(?:\.\d+)?)\s*Nm',
-        txt,
-        re.I
-    )
-
+    m = re.search(r'Max Torque.*?(\d+(?:\.\d+)?)\s*Nm', txt, re.I)
     if m:
         return f"{m.group(1)} Nm"
-
     return ""
 
 def extract_seating(s):
     m = re.search(r'Seating Capacity\s+(\d+)\s*Seat', s.get_text(" "), re.I)
-    if m:
-        return m.group(1)
-    return ""
+    return m.group(1) if m else ""
 
 def extract_airbags(s):
     txt = s.get_text(" ", strip=True)
-
-    patterns = [
-        r'(\d+)\s*Airbags?',
-        r'Airbags?\s*(\d+)',
-        r'Airbag Count\s*(\d+)',
-    ]
-
-    for p in patterns:
+    for p in [r'(\d+)\s*Airbags?', r'Airbags?\s*(\d+)', r'Airbag Count\s*(\d+)']:
         m = re.search(p, txt, re.I)
         if m:
-            airbags = int(m.group(1))
-
-            if 1 <= airbags <= 20:
-                return str(airbags)
-
+            n = int(m.group(1))
+            if 1 <= n <= 20:
+                return str(n)
     return ""
-
 
 def extract_body_type(s):
     txt = s.get_text(" ", strip=True)
-    m = re.search(r'Body\s*Type.{0,60}', txt, re.I)
-
-    if m:
-        print("BODY DEBUG:", m.group(0))
-
-    body_types = [
-        "SUV",
-        "Sedan",
-        "Hatchback",
-        "MUV",
-        "MPV",
-        "Convertible",
-        "Coupe",
-        "Crossover",
-        "Pickup Truck",
-        "Pickup",
-        "Wagon",
-    ]
-
-    for body in body_types:
-        m = re.search(
-        rf'Body\s*Type.*?\b{re.escape(body)}\b',
-        txt,
-        re.I
-        )
-
-    if m:
-        return body
-
+    for body in ["SUV", "Sedan", "Hatchback", "MUV", "MPV",
+                 "Convertible", "Coupe", "Crossover", "Pickup Truck", "Pickup", "Wagon"]:
+        if re.search(rf'Body\s*Type.*?\b{re.escape(body)}\b', txt, re.I):
+            return body
     return ""
 
 
-def scrape_variant(url):
-    html = fetch(url)
+# ── worker ────────────────────────────────────────────────────────────────
 
-    if html is None:
+def process_row(args):
+    """Called per thread. Returns completed row dict or None on total failure."""
+    global _total, _failed
+    idx, total_count, model = args
+
+    variant_url = model.get("variant_url", "").strip()
+    if not variant_url:
         return None
-    
-    if "db11" in url:
-        with open("debug_db11.html", "w", encoding="utf-8") as f:
-            f.write(html)
 
-    s = soup(html)
-    if "dbs20072012" in url:
-        with open("debug_dbs.html", "w", encoding="utf-8") as f:
-            f.write(html)
+    print(f"[{idx}/{total_count}] {model.get('brand_name')} {model.get('model_name')} | {variant_url}")
 
-    print("DBS PAGE SAVED")
+    time.sleep(DELAY)  # per-thread rate limit
 
-    if "db11" in url:
-        import json
-        for tag in s.find_all("script",type="application/ld+json"):
-                try:
-                    data = json.loads(tag.string)
-
-                    with open("db11_json.txt", "w", encoding="utf-8") as f:
-                        f.write(json.dumps(data, indent=2))
-                    
-                    break
-                except:
-                    pass
-
-    fuel_type = extract_fuel_type(s)
-    if fuel_type and fuel_type.lower() =="electric":
-        engine = extract_engine_ev(s)
-        power = extract_power_ev(s)
-        torque = extract_torque_ev(s)
+    html = fetch(variant_url)
+    if html is None:
+        with _lock:
+            _failed += 1
+        data = {}
     else:
-        engine = extract_engine(s)
-        power = extract_power(s)
-        torque = extract_torque(s)
-        print("EXTRACTED TORQUE =", torque)
-    
-    price = extract_price(s)
-    mileage = extract_mileage(s)
+        s = soup(html)
+        fuel_type = extract_fuel_type(s)
+        if fuel_type and fuel_type.lower() == "electric":
+            engine = extract_engine_ev(s)
+            power  = extract_power_ev(s)
+            torque = extract_torque_ev(s)
+        else:
+            engine = extract_engine(s)
+            power  = extract_power(s)
+            torque = extract_torque(s)
 
-    if not mileage:
-        print("MILEAGE MISS:", url)
-    
-    if "dbs20072012" in url:
-        txt = s.get_text(" ", strip=True)
-
-        idx = txt.lower().find("power")
-        if idx != -1:
-            print("\nPOWER TEXT:")
-            print(txt[idx:idx+300])
-
-        idx = txt.lower().find("torque")
-        if idx != -1:
-            print("\nTORQUE TEXT:")
-            print(txt[idx:idx+300])
-        
-    if not power:
-            print("POWER MISS:", url)
-
-    if not torque:
-        print("TORQUE MISS:", url)
-
-    if not price:
-        print("PRICE MISS:", url)
-        
-    return {
-            "price": extract_price(s),
-            "fuel_type": fuel_type,
-            "transmission": extract_transmission(s),
-            "engine": engine,
-            "mileage": extract_mileage(s),
-            "power": power,
-            "torque": torque,
+        data = {
+            "price":            extract_price(s),
+            "fuel_type":        fuel_type,
+            "transmission":     extract_transmission(s),
+            "engine":           engine,
+            "mileage":          extract_mileage(s),
+            "power":            power,
+            "torque":           torque,
             "seating_capacity": extract_seating(s),
-            "airbags": extract_airbags(s),
-            "body_type": extract_body_type(s),
+            "airbags":          extract_airbags(s),
+            "body_type":        extract_body_type(s),
         }
+        missing = [k for k, v in data.items() if not v]
+        if missing:
+            print(
+            f"[{idx}/{total_count}] "
+            f"{model.get('brand_name')} "
+            f"{model.get('model_name')} "
+            f"->{'variant_url'}"
+        )
+            print("MISSING:", missing)
+
+    brand_slug = model.get("brand_slug", "")
+    model_slug = model.get("model_slug", "")
+    print("Calling Fallback:",brand_slug,model_slug)
+    before = data.copy()
+    data = cardekho_fallback(
+        data,
+        brand_slug,
+        model_slug
+    )
+    if before != data:
+        print("Fallback Updated:",brand_slug,model_slug)
+    return {
+        "brand_name":       model.get("brand_name", ""),
+        "model_name":       model.get("model_name", ""),
+        "variant_name":     model.get("variant_name", ""),
+        "variant_slug":     model.get("variant_slug", ""),
+        "variant_url":      variant_url,
+        "price":            data.get("price", ""),
+        "fuel_type":        data.get("fuel_type", ""),
+        "transmission":     data.get("transmission", ""),
+        "engine":           data.get("engine", ""),
+        "mileage":          data.get("mileage", ""),
+        "power":            data.get("power", ""),
+        "torque":           data.get("torque", ""),
+        "seating_capacity": data.get("seating_capacity", ""),
+        "airbags":          data.get("airbags", ""),
+        "body_type":        data.get("body_type", ""),
+        "source_url":       variant_url,
+        "scraped_at":       datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+    }
 
 
-
-# ── main ─────────────────────────────────────────────────────────────────
+# ── main ──────────────────────────────────────────────────────────────────
 
 def main():
     with open(MODELS_FILE, newline="", encoding="utf-8") as f:
-        all_models = list(csv.DictReader(f))
-        models = [m for m in all_models if m["brand_slug"].lower() == "tata"]
-        print(f"Tata models found: {len(models)}")
+        models = [m for m in csv.DictReader(f) if m.get("variant_url", "").strip()]
 
-        
-        # models = all_models
-
-        # print(f"EV models loaded: {len(models)}")
-
-    print(f"Models loaded: {len(models)}")
+    print(f"Models loaded: {len(models)} (non-empty URLs only)")
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-    total = 0
-    failed_urls =0
 
+    args_list = [(i, len(models), m) for i, m in enumerate(models, 1)]
+
+    written = 0
     with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as out_f:
         writer = csv.DictWriter(out_f, fieldnames=FIELDNAMES)
         writer.writeheader()
 
-        for i, model in enumerate(models, 1):
-            
+        with ThreadPoolExecutor(max_workers=WORKERS) as executor:
+            futures = {executor.submit(process_row, a): a for a in args_list}
+            for future in as_completed(futures):
+                row = future.result()
+                if row:
+                    with _lock:
+                        writer.writerow(row)
+                        out_f.flush()
+                        written += 1
 
-            
-                variant_url = model.get("variant_url","")
-                data = scrape_variant(variant_url)
-                
-                missing = []
-                if data is None:
-                    failed_urls += 1
-                    data = {}
-                else:
-                    missing = [k for k, v in data.items() if not v]
-                if missing:
-                    print(f"MISSING {missing} -> {variant_url}")
-                print(data)
-                if not variant_url:
-                    continue
-
-                
-
-                if data is None:
-                    data ={}
-                brand_slug = model.get("brand_slug","")
-                model_slug = model.get("model_slug","")
-                data = cardekho_fallback(
-                    data,
-                    brand_slug,
-                    model_slug
-                )
-                
-                if not data.get("engine") or not data.get("power") or not data.get("torque"):
-                    if data.get("fuel_type") == "Electric":
-                        print(
-                            "EV CSV:",
-                        data.get("model_name", model.get("model_name")),
-                            "| engine =", data.get("engine"),
-                            "| power =", data.get("power"),
-                            "| torque =", data.get("torque")
-                        )
-                writer.writerow({
-                    "brand_name": model.get("brand_name", ""),
-                    "model_name": model.get("model_name", ""),
-                    "variant_name": model.get("variant_name", ""),
-                    "variant_slug": model.get("variant_slug", ""),
-                    "variant_url": variant_url,
-                    "price":            data.get("price", ""),
-                    "fuel_type":        data.get("fuel_type", ""),
-                    "transmission":     data.get("transmission", ""),
-                    "engine":           data.get("engine", ""),
-                    "mileage":          data.get("mileage", ""),
-                    "power":            data.get("power", ""),
-                    "torque":           data.get("torque", ""),
-                    "seating_capacity": data.get("seating_capacity", ""),
-                    "airbags":          data.get("airbags", ""),
-                    "body_type":        data.get("body_type", ""),
-                    "source_url":       variant_url,
-                    "scraped_at":       datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-                })
-                out_f.flush()
-                total += 1
-                time.sleep(DELAY)
-
-
-    print(f"\nDone. Total: {total}")
+    print(f"\nDone. Written: {written}  Failed fetches: {_failed}")
     print(f"Saved -> {OUTPUT_FILE}")
-    print(f"Failed URLs: {failed_urls}")
 
 
 if __name__ == "__main__":

@@ -2,7 +2,7 @@ import csv
 
 from variants_specs import scrape_variant
 
-INPUT_FILE = "output/variants_specs.csv"
+INPUT_FILE = "output/var_specification.csv.csv"
 OUTPUT_FILE = "output/updated_variants_specs.csv"
 
 IMPORTANT_FIELDS = [
